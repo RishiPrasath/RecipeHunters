@@ -45,36 +45,99 @@ https://www.vincenzosplate.com/tomato-ricotta-pasta/
 
 
 {
-id:2349,
-videoURL:"https://www.youtube.com/watch?v=084rmLU1UgA",
-imageURLs: [
+"id":2349,
+"videoURL":"https://www.youtube.com/watch?v=084rmLU1UgA",
+"imageURLs": [
 	"./RecipeMedia/Tomato Ricotta Pasta/image1.jpg",
 	"./RecipeMedia/Tomato Ricotta Pasta/image2.jpg"
 ],
-name: "Tomato Ricotta Pasta",
-date: Date(),
-briefdescription : String,
-totalCarbs : int,
-netCarbs : float,
-fat: float,
-protein: float,
-calories: int,
-shoppingList : Object{
-	equipment : String[ ],
-	ingredients : String[ ]
-}
-durationToCook : int,
-instructions: String[ ],
-comments:Object[ {
-	posterName: String,
-	comment: String,
-	rating:, int // max 5
+"name": "Tomato Ricotta Pasta",
+"date": { ts: new Timestamp() },
+"briefdescription" : "Tomato Ricotta Pasta uses passata, basil, and fresh ricotta to create a creamy sauce with a flavour that is surprisingly addictive! If you have some ricotta in the fridge, cook this up instead of a plain tomato sauce. The taste of this dish takes me back to my teenage years and it’s so quick and simple, you can make it up at any time of the day – for one or many!",
+"totalCarbs" : 15.00,
+"netCarbs" : 12.0,
+"fat": 11.000,
+"protein": 5,
+"calories": 180,
+"shoppingList" :{
+	"equipment" : ["Large pan", "wooden spoon" , "large pot for boiling pasta","Large mixing bowl", "fork" , "Cheese grater (Optional)" , "Colander" ],
+	"ingredients" : ["300 grams Short pasta 10oz", "½ Onion Chopped into small pieces" , "1 bunch Fresh basil" , "Fresh tomato sauce" , "250 grams Ricotta cheese" , "Parmigiano reggiano" , "3 tbsp Extra Virgin Olive Oil" , "Salt & pepper", "1 tbsp Rock salt"]
+},
+"durationToCook" : 30,
+"instructions": [
+	"Tomato ricotta pasta starts out simple with three tablespoons of extra virgin olive oil in a large pan over medium-low/medium heat.",
+ 	"Then it's time to add the chopped onions. ",
+	"Cook the onions until they turn a nice golden-brown color, about 10 minutes. Stir constantly.",
+	"While the onion is cooking, add 4-5L of water to a large pot and leave to boil.",
+	"Now, it's time to add the delicious passata into the pan, stir, and cook for approx 15-20 minutes on very low heat.",
+	"Once the sauce is nice and thick, add salt, a generous amount of freshly ground black pepper, and basil leaves then leave to cook for 2-3 more minutes and remove it from the cooktop.",
+	"Once the water has started to boil stir in one tablespoon of rock salt. Then add the pasta, and cook for the recommended time on the box. (Mine says it will take about 12 minutes)",
+	"Add 250g of creamy ricotta to a mixing bowl and break it down using a fork.",
+	"Grate the parmigiano regiano freshly into the ricotta. You can use as much as you’d like for this tomato ricotta pasta!",
+	"Add a small amount of pasta water to the ricotta, and mix. Keep adding the pasta water slowly and mixing until the cheese mixture is creamy and smooth – but not runny!",
+	"Put the sauce back on the stove, add the ricotta mixture, and then mix until you have a beautiful pink tomato ricotta pasta sauce.",
+	"Collect an extra cup of pasta water then strain your pasta before adding it to the pasta sauce and if it is too thick, add some of the pasta water to help thin it out. If not, leave it as it is.",
+	"Toss the tomato ricotta pasta to mix the beautiful flavors together. Add some more freshly grated Parmigiano Reggiano cheese to the top; I did of course!",
+	"E ora si mangia, Vincenzo’s Plate….Enjoy!"
+ ],
+"comments":[ {
+	"posterName": "Rishi",
+	"comment": "Super Tasty Recipe!!!!",
+	"rating": 5
 }],
-tags: String[]
+"tags": ["Italian","Tomato-based","Ricotta","Pasta"]
 }
 
 
 
+
+
+DB Query revision 2
+
+
+{
+"id":1348,
+"videoURL":"https://www.youtube.com/watch?v=084rmLU1UgA",
+"imageURLs": [
+	"./RecipeMedia/Tomato Ricotta Pasta/image1.jpg",
+	"./RecipeMedia/Tomato Ricotta Pasta/image2.jpg"
+],
+"name": "Tomato Ricotta Pasta",
+"date": { },
+"briefdescription" : "Tomato Ricotta Pasta uses passata, basil, and fresh ricotta to create a creamy sauce with a flavour that is surprisingly addictive! If you have some ricotta in the fridge, cook this up instead of a plain tomato sauce. The taste of this dish takes me back to my teenage years and it’s so quick and simple, you can make it up at any time of the day – for one or many!",
+"totalCarbs" : 15.00,
+"netCarbs" : 12.0,
+"fat": 11.000,
+"protein": 5,
+"calories": 180,
+"shoppingList" :{
+	"equipment" : ["Large pan", "wooden spoon" , "large pot for boiling pasta","Large mixing bowl", "fork" , "Cheese grater (Optional)" , "Colander" ],
+	"ingredients" : ["300 grams Short pasta 10oz", "½ Onion Chopped into small pieces" , "1 bunch Fresh basil" , "Fresh tomato sauce" , "250 grams Ricotta cheese" , "Parmigiano reggiano" , "3 tbsp Extra Virgin Olive Oil" , "Salt & pepper", "1 tbsp Rock salt"]
+},
+"durationToCook" : 30,
+"instructions": [
+	"Tomato ricotta pasta starts out simple with three tablespoons of extra virgin olive oil in a large pan over medium-low/medium heat.",
+ 	"Then it's time to add the chopped onions. ",
+	"Cook the onions until they turn a nice golden-brown color, about 10 minutes. Stir constantly.",
+	"While the onion is cooking, add 4-5L of water to a large pot and leave to boil.",
+	"Now, it's time to add the delicious passata into the pan, stir, and cook for approx 15-20 minutes on very low heat.",
+	"Once the sauce is nice and thick, add salt, a generous amount of freshly ground black pepper, and basil leaves then leave to cook for 2-3 more minutes and remove it from the cooktop.",
+	"Once the water has started to boil stir in one tablespoon of rock salt. Then add the pasta, and cook for the recommended time on the box. (Mine says it will take about 12 minutes)",
+	"Add 250g of creamy ricotta to a mixing bowl and break it down using a fork.",
+	"Grate the parmigiano regiano freshly into the ricotta. You can use as much as you’d like for this tomato ricotta pasta!",
+	"Add a small amount of pasta water to the ricotta, and mix. Keep adding the pasta water slowly and mixing until the cheese mixture is creamy and smooth – but not runny!",
+	"Put the sauce back on the stove, add the ricotta mixture, and then mix until you have a beautiful pink tomato ricotta pasta sauce.",
+	"Collect an extra cup of pasta water then strain your pasta before adding it to the pasta sauce and if it is too thick, add some of the pasta water to help thin it out. If not, leave it as it is.",
+	"Toss the tomato ricotta pasta to mix the beautiful flavors together. Add some more freshly grated Parmigiano Reggiano cheese to the top; I did of course!",
+	"E ora si mangia, Vincenzo’s Plate….Enjoy!"
+ ],
+"comments":[ {
+	"posterName": "Rishi",
+	"comment": "Super Tasty Recipe!!!!",
+	"rating": 5
+}],
+"tags": ["Italian","Tomato-based","Ricotta","Pasta"]
+}
 
 
 

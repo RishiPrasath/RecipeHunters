@@ -1,0 +1,91 @@
+{
+"videoURL": "https://www.youtube.com/watch?v=eU_maTfZ-L0",
+"imageURLs": [
+  "Back-End/RecipeMedia/Popeyes Chicken Sandwich/1.jpg",
+  "Back-End/RecipeMedia/Popeyes Chicken Sandwich/2.jpg",
+  "Back-End/RecipeMedia/Popeyes Chicken Sandwich/3.jpg"
+],
+"name": "Popeyes Chicken Sandwich",
+"author":"Nick DiGiovanni"
+"date": {ts: new Timestamp()},
+"briefdescription": "The Popeyes crispy chicken sandwich is the best. In my humble opinion, absolutely nothing comes close in the fast food world. Yet, even if you don't agree with me on this, there's one thing we can hopefully agree on: we can make it better at home. Yes, I said WE -- that means YOU. So today, we've made a homemade crispy chicken sandwich with a few simple twists that bring it to a completely new level. Popeyes chicken has a unique crumbly and crispy texture around the edges, and I've worked to figure out exactly how to replicate this. And I love it so much that I'll likely be using this method from this point forward in the kitchen whenever making a chicken sandwich.",
+"totalCarbs":50 ,
+"netCarbs": 18.1  ,
+"fat": 42,
+"protein":28,
+"calories": 700,
+"shoppingList": {
+  "equipment": [
+  "Frying pan",
+  "3 mixing bowls"
+  ],
+  "ingredients": [
+  "2 tbsp bread flour",
+"1/4 cup whole milk ",
+"2 tbsp water", 
+"3/4 cup whole milk (warm)", 
+"1 tbsp active dry yeast", 
+"2 1/2 tbsp sugar",
+"3 1/4 cups bread flour", 
+"1 1/2 tsp kosher salt", 
+"1 large egg", 
+"1 egg yolk", 
+"3 tbsp butter", 
+"Egg wash (1 egg + 1 Tbsp water)",
+"1 cup mayo ", 
+"2 tbsp chives ", 
+"1 tsp lemon zest", 
+"1 tsp salt",
+"3 boneless skinless chicken breasts", 
+"1 cup buttermilk", 
+"1 cup pickle juice", 
+"1 tsp paprika ",
+"1 tsp garlic powder", 
+"1 tsp onion powder",
+"1 tsp pepper ",
+"1 tsp salt ",
+"1 cup potato/corn starch", 
+"1/2 cup all-purpose flour",
+"Frying oil ",
+"Pickles (for topping)" 
+  ]
+},
+"durationToCook": 150,
+"instructions": [
+"We’ll start by making a tangzhong.",
+"In a medium saucepan, add your ¼ cup of milk and water and turn on medium-high heat.",
+"Slowly sprinkle in bread flour while whisking constantly until thick and clumped, and your tangzhong is complete.",
+"To a mixing bowl, add the ¾ cup of warm whole milk along with sugar and yeast, whisking to disperse. Let sit for 5 minutes.",
+"Add in bread flour and a sprinkle of salt.",
+"Using a dough hook attachment, mix on slow speed while adding the egg and the yolk.",
+"After a few minutes of mixing, add your tangzhong and allow to evenly disperse.",
+"Now add in your cold butter in small cubes, one at a time, and let it knead for about 10 minutes.",
+"Remove dough and form into a ball before placing in a greased bowl and covering with a damp towel to rest for 1 ½ hours.",
+"Flour a large cutting board and place the dough on top.",
+"Shape the dough into a long rectangle and cut into 8 even pieces.",
+"With each piece, pull all the corners to a center point and place the center point facing down on a cutting board.",
+"Roll the ball along the board to create a tight ball of dough.",
+"Let rise for 15 more minutes.",
+"Brush with egg wash before baking at 375°F for 15-18 minutes until golden brown.",
+"In a bowl, add mayo, lemon zest, chopped chives, and salt. Mix to combine.",
+"Butterfly and trim chicken breast to about ¾ inch thick and the preferred width for buns.",
+"In a bowl, add trimmed chicken, buttermilk, and pickle juice.",
+"Let marinate for at least an hour or overnight.",
+"Add garlic powder, onion powder, and paprika to the bowl and mix until combined.",
+"In a separate bowl, add potato/corn starch, flour, and salt and mix together. Spoon 2-3 tablespoons of the buttermilk into the dredge and mix with a fork.",
+"Transfer chicken to the other bowl and firmly coat with the dredge before deep frying at 325°F for 2-4 minutes depending on thickness of the chicken.",
+"Remove chicken, set the heat to 375°F and fry again until golden brown. Remove and sprinkle with flakey salt.",
+"Slice the buns and generously spread your aioli on both buns. Place chicken on the bottom bun, top with pickles, and add your top bun."
+],
+"comments": [
+  {
+    "posterName": "Rishi",
+    "comment": "Super Tasty Recipe!!!!",
+    "rating": 5
+  }
+],
+"tags": [
+  "Fast-Food","Burger","Chicken","Patty","Pickles"
+]
+}
+
