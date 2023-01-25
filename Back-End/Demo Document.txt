@@ -1,0 +1,85 @@
+5th revision
+//Recipe
+{
+id:int,
+videoURL:String,
+imageURLs: String[],
+name: String,
+date: Date(),
+briefdescription : String,
+totalCarbs : int,
+netCarbs : float,
+fat: float,
+protein: float,
+calories: int,
+shoppingList : Object{
+	equipment : String[ ],
+	ingredients : String[ ]
+}
+durationToCook : int,
+instructions: String[ ],
+comments:Object[ {
+	posterName: String,
+	comment: String,
+	rating:, int // max 5
+}],
+tags: String[]
+}
+//User
+{
+username:String,
+password:String,
+userType:String, // User or Admin
+email:String,
+occupation;String //Optional
+favouriteRecipes:int[],// Contains IDs of favorite/saved recipes
+bookmarkedRecipes : int[]
+}
+
+
+
+
+
+https://www.vincenzosplate.com/tomato-ricotta-pasta/
+
+
+
+{
+id:2349,
+videoURL:"https://www.youtube.com/watch?v=084rmLU1UgA",
+imageURLs: [
+	"./RecipeMedia/Tomato Ricotta Pasta/image1.jpg",
+	"./RecipeMedia/Tomato Ricotta Pasta/image2.jpg"
+],
+name: "Tomato Ricotta Pasta",
+date: Date(),
+briefdescription : String,
+totalCarbs : int,
+netCarbs : float,
+fat: float,
+protein: float,
+calories: int,
+shoppingList : Object{
+	equipment : String[ ],
+	ingredients : String[ ]
+}
+durationToCook : int,
+instructions: String[ ],
+comments:Object[ {
+	posterName: String,
+	comment: String,
+	rating:, int // max 5
+}],
+tags: String[]
+}
+
+
+
+
+
+
+
+
+
+
+ 
