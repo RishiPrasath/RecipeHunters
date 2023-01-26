@@ -1,0 +1,72 @@
+{
+  "_id": {
+    "$oid": "63d184bb42a65d6c95d5b726"
+  },
+  "videoURL": "https://www.youtube.com/watch?v=qH__o17xHls",
+  "imageURLs": [
+    "/Back-End/RecipeMedia/Egg Fried Rice/1.jpg",
+    "/Back-End/RecipeMedia/Egg Fried Rice/2.jpg",
+    "/Back-End/RecipeMedia/Egg Fried Rice/3.jpg"
+  ],
+  "name": "Egg Fried Rice",
+  "author": "Seonkyoung Longest",
+  "date": {
+    "$timestamp": {
+      "t": 1674675386,
+      "i": 22
+    }
+  },
+  "briefdescription": "Egg fried rice is one of my no-brainer dishes to fix in the kitchen! Egg fried rice is a fast and affordable dish that I can whip up on any given day. The best part is it goes well with any other dishes/sauces you decided to pair with!",
+  "totalCarbs": 45,
+  "netCarbs": 32.1,
+  "fat": 5.6,
+  "protein": 4.3,
+  "calories": 209,
+  "shoppingList": {
+    "equipment": [
+      "Chopping board",
+      "Cutting knife",
+      "1 Large frying pan/ wok",
+      "1 Small frying pan (or you can use the same pan to cook the scrambled eggs in)",
+      "Frying spatula/ spoon",
+      "Garlic Crusher",
+      "Fork",
+      "Small bowls",
+      "Serving bowls"
+    ],
+    "ingredients": [
+      "Cooking oil",
+      "Egg",
+      "Cold rice ",
+      "Salt",
+      "Soy Sauce",
+      "Green onion, optional"
+    ]
+  },
+  "durationToCook": 5,
+  "instructions": [
+    "Beat eggs well with a pinch of salt and sliced green onions. Set aside.",
+    "Heat a wok or a skillet over high heat; add 1 tbsp cooking oil and swirl to coat. Pour beaten eggs into the wok and scramble. ",
+    "When the eggs are cooked 3/4 way, add the remaining 2 tbsp cooking oil and cold jasmine rice.",
+    "A day-old cold jasmine rice is my absolute favorite to make fried rice. It has a beautiful aroma and fluffy texture that can hold the shape well while frying.",
+    "Break down rice and mix it with the eggs. ",
+    "Add soy sauce around the edge of the wok, so it will burn slightly for the smoky umami flavor. Add salt to your taste and mix everything well. Reduce heat to low if you need to.",
+    "Turn off the heat, stir in green onions.",
+    "Garnish with sesame seeds if you’d like to!",
+    "Enjoy with any other dishes you decided to serve!"
+  ],
+  "comments": [
+    {
+      "posterName": "Rishi",
+      "comment": "Super Tasty Recipe!!!!",
+      "rating": 5
+    }
+  ],
+  "tags": [
+    "Fast-Food",
+    "Burger",
+    "Chicken",
+    "Patty",
+    "Pickles"
+  ]
+}
