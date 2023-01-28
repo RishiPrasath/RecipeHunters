@@ -1,0 +1,57 @@
+{
+
+    "videoURL": " ",
+    "imageURLs": [
+      "/Back-End/RecipeMedia/Egg Fried Rice/1.jpg",
+      "/Back-End/RecipeMedia/Egg Fried Rice/2.jpg",
+      "/Back-End/RecipeMedia/Egg Fried Rice/3.jpg"
+    ],
+    "name": "Southern Fried Chicken",
+    "author": "Brandie (The Country Cook) ",
+    "date": {
+      
+    },
+    "briefdescription": "If you want a crazy delicious chicken recipe, then it has to be this recipe for The Best Southern Fried Chicken. Crispy, flavorful and absolutely divine!",
+    "totalCarbs": 12,
+    "netCarbs": 9,
+    "fat": 9,
+    "protein": 20,
+    "calories": 164,
+    "shoppingList": {
+      "equipment": [
+        "1 bowl",
+        "Cast Iron Skillet"
+      ],
+      "ingredients": [
+        "whole chicken (cut up)",
+        "salt",
+        "garlic powder",
+        "onion powder",
+        "buttermilk",
+        "hot sauce",
+        "flour",
+        "cornstarch",
+        "black pepper",
+        "peanut oil"
+      ]
+    },
+    "durationToCook": 5,
+    "instructions": [
+      "Beat eggs well with a pinch of salt and sliced green onions. Set aside.",
+
+    ],
+    "comments": [
+      {
+        "posterName": "Rishi",
+        "comment": "Super Tasty Recipe!!!!",
+        "rating": 5
+      }
+    ],
+    "tags": [
+      "Fast-Food",
+      "Burger",
+      "Chicken",
+      "Patty",
+      "Pickles"
+    ]
+  }
