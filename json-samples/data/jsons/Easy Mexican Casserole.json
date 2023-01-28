@@ -1,0 +1,44 @@
+{
+    "_id": {
+        "$oid": ""
+    },
+    "id": "",
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6308272898112",
+    "imageURLs": "https://www.allrecipes.com/thmb/-I7C6eORCGjCW0HfPT6L-mbXAWo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5928063-easy-mexican-casserole-Juvee336-1x1-1-bd97c7ef03ff42cbb775a9cba767bf0e.jpg",
+    "name": "Easy Mexican Casserole",
+    "date": {
+        "$timestamp": {
+            "t": "",
+            "i": ""
+        }
+    },
+    "briefdescription": "This Mexican casserole baked with layers of tortilla chips, spicy beef with beans, sour cream and cheese is an easy dish the whole family will love.",
+    "totalCarbs": "33 g",
+    "fat": "44 g",
+    "protein": "32 g",
+    "calories": "632 kcal",
+    "shoppingList": {
+        "equipment": [],
+        "ingredients": [
+            "1 pound lean ground beef",
+            "2 cups salsa",
+            "1 (16 ounce) can chili beans, drained",
+            "3 cups tortilla chips, crushed",
+            "2 cups sour cream",
+            "1 (2 ounce) can sliced black olives, drained",
+            "0.5 cup chopped green onion",
+            "0.5 cup chopped fresh tomato",
+            "2 cups shredded Cheddar cheese"
+        ]
+    },
+    "durationToCook": "PT75M",
+    "instructions": "Preheat the oven to 350 degrees F (175 degrees C). Spray a 9x13-baking dish with cooking spray.\nHeat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 8 to 10 minutes.\nStir in salsa, reduce heat, and simmer until liquid is absorbed, about 20 minutes. Stir in beans; cook until heated through.\nSpread crushed tortilla chips over the bottom of the baking dish; spoon beef mixture on top. Spread sour cream over beef, then sprinkle olives, green onion, and tomatoes on top. Cover with Cheddar cheese.\nBake in the preheated oven until hot and bubbly, about 30 minutes.\n",
+    "comments": [
+        {
+            "posterName": "JoAnn",
+            "comment": "1/23 This is a good basic casserole, but I did make some changes based on what I read in other reviews. I added onion, a partial packet of taco seasoning and a can of green chiles to the meat as it cooked for extra flavor. I also used Fritos instead of tortilla chips. I used the regular ones so I didn't have to break them up. Next time, I won't put them on the bottom. I will serve them on the side or perhaps layer them under the cheese before baking. I also served the tomatoes and green onions on the side as I thought they wouldn't be great for leftovers if they were cooked. I had planned to serve sliced avocado on the side, as well, but I forgot. The family did enjoy it. My son even ate leftovers, and he never eats leftovers.",
+            "rating": "4"
+        }
+    ],
+    "tags": []
+}

@@ -1,0 +1,44 @@
+{
+    "_id": {
+        "$oid": ""
+    },
+    "id": "",
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6310692759112",
+    "imageURLs": "https://www.allrecipes.com/thmb/KCsOg0ROt6SjT70USb7GhbtqHhY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24264-sloppy-joes-dianne-3x2-1-16a5c18a55b94454b36a5424c9dd0c40.jpg",
+    "name": "Sloppy Joes",
+    "date": {
+        "$timestamp": {
+            "t": "",
+            "i": ""
+        }
+    },
+    "briefdescription": "Sloppy Joes are easy to make with lean ground beef, basic pantry ingredients, and hamburger buns. A comforting classic the whole family will enjoy!",
+    "totalCarbs": "11 g",
+    "fat": "16 g",
+    "protein": "14 g",
+    "calories": "243 kcal",
+    "shoppingList": {
+        "equipment": [],
+        "ingredients": [
+            "1 pound lean ground beef",
+            "0.25 cup chopped onion",
+            "0.25 cup chopped green bell pepper",
+            "0.75 cup ketchup, or to taste",
+            "1 tablespoon brown sugar, or to taste",
+            "1 teaspoon yellow mustard, or to taste",
+            "0.5 teaspoon garlic powder",
+            "salt and ground black pepper to taste",
+            "6 hamburger buns, split"
+        ]
+    },
+    "durationToCook": "PT35M",
+    "instructions": "Heat a large skillet over medium heat. Cook and stir lean ground beef in the hot skillet until some of the fat starts to render, 3 to 4 minutes. Add onion and bell pepper; continue to cook until vegetables have softened and beef is cooked through, 3 to 5 more minutes.\nStir in ketchup, brown sugar, mustard, and garlic powder; season with salt and pepper. Reduce heat to low and simmer for 20 to 30 minutes.\nDivide meat mixture evenly among hamburger buns.\n",
+    "comments": [
+        {
+            "posterName": "SHuG68",
+            "comment": "This is super fast and so good! Sometimes we put cheese on our sandwiches, wrap in foil and bake for a bit. Amazing! Never thought I'd feel this way about sloppy joes.",
+            "rating": "5"
+        }
+    ],
+    "tags": []
+}

@@ -1,0 +1,42 @@
+{
+    "_id": {
+        "$oid": ""
+    },
+    "id": "",
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6309524117112",
+    "imageURLs": "https://www.allrecipes.com/thmb/j2-Ap0TIT9W3ZkvjHGg2ptIL9qM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/618489-91c1274c3ace498f8f84da3ed17838cd.jpg",
+    "name": "Baked Garlic Parmesan Chicken",
+    "date": {
+        "$timestamp": {
+            "t": "",
+            "i": ""
+        }
+    },
+    "briefdescription": "Deliciously crispy and tender, these baked breaded chicken breasts flavored with garlic and Parmesan cheese are quick and easy to prepare for the tastiest chicken dish ever.",
+    "totalCarbs": "14 g",
+    "fat": "11 g",
+    "protein": "30 g",
+    "calories": "281 kcal",
+    "shoppingList": {
+        "equipment": [],
+        "ingredients": [
+            "2 tablespoons olive oil",
+            "1 clove garlic, minced",
+            "1 cup dry bread crumbs",
+            "0.66666668653488 cup grated Parmesan cheese",
+            "1 teaspoon dried basil leaves",
+            "0.25 teaspoon ground black pepper",
+            "6 skinless, boneless chicken breast halves"
+        ]
+    },
+    "durationToCook": "PT45M",
+    "instructions": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking dish.\nIn a bowl, blend the olive oil and garlic. In a separate bowl, mix the bread crumbs, Parmesan cheese, basil, and pepper. Dip each chicken breast in the oil mixture, then in the bread crumb mixture. Arrange the coated chicken breasts in the prepared baking dish, and top with any remaining bread crumb mixture.\nBake 30 minutes in the preheated oven, or until chicken is no longer pink and juices run clear.\n",
+    "comments": [
+        {
+            "posterName": "Jeanine",
+            "comment": "To convert this recipe, or any recipe, to air fryer: Reduce the oven temperature by 25\u00b0 and reduce the time by approximately 20%. That would be 325\u00b0 and about 24 minutes (but the time is pretty relative as I rely on visual and my meat thermometer). Pause to flip for balanced crispness on all sides (I usually spray all sides with olive oil before I start with the air fryer). You also may want to pause occasionally to check degree of \u201cdoneness\u201d and/or measure temperature of cooked meat (165\u00b0 in the thickest part of the breast meat for chicken). There is very little that I use my oven to cook and convert literally Everything to air fryer.",
+            "rating": "5"
+        }
+    ],
+    "tags": []
+}

@@ -1,0 +1,43 @@
+{
+    "_id": {
+        "$oid": ""
+    },
+    "id": "",
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=2031265100001",
+    "imageURLs": "https://www.allrecipes.com/thmb/Yd00cxLSkeTpEWPqIUVLbI_UnXQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17219-best-tuna-casserole-mfs-254-4x3-b91de78296cb4b63b201dd4c1b8cb0c8.jpg",
+    "name": "Best Tuna Casserole",
+    "date": {
+        "$timestamp": {
+            "t": "",
+            "i": ""
+        }
+    },
+    "briefdescription": "This tuna casserole uses pantry ingredients for convenience and potato chips for a delicious crunch. Ready in just 30 minutes for a comforting meal!",
+    "totalCarbs": "58 g",
+    "fat": "26 g",
+    "protein": "32 g",
+    "calories": "595 kcal",
+    "shoppingList": {
+        "equipment": [],
+        "ingredients": [
+            "1 (12 ounce) package egg noodles",
+            "2 (10.5 ounce) cans condensed cream of mushroom soup",
+            "2 cups shredded Cheddar cheese, divided",
+            "2 (5 ounce) cans tuna, drained",
+            "1 cup frozen green peas",
+            "0.5 (4.5 ounce) can sliced mushrooms",
+            "0.25 cup chopped onion",
+            "1 cup crushed potato chips"
+        ]
+    },
+    "durationToCook": "PT30M",
+    "instructions": "Gather all ingredients.\nFill a large pot with lightly salted water and bring to a rapid boil. Cook egg noodles at a boil until tender yet firm to the bite, 7 to 9 minutes; drain.\nMeanwhile, preheat the oven to 425 degrees F (220 degrees C).\nMix noodles, condensed soup, 1 cup cheese, tuna, peas, mushrooms, and onion in a large bowl until well combined.\nTransfer into a 9x13-inch baking dish; top with crushed potato chip and remaining 1 cup of cheese.\nBake in the preheated oven until cheese is bubbly, about 15 to 20 minutes.\n",
+    "comments": [
+        {
+            "posterName": "Christine Komisarz",
+            "comment": "Disappointed. Not creamy. Too dry.",
+            "rating": "2"
+        }
+    ],
+    "tags": []
+}

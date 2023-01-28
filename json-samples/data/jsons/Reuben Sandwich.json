@@ -1,0 +1,41 @@
+{
+    "_id": {
+        "$oid": ""
+    },
+    "id": "",
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1969082643001",
+    "imageURLs": "https://www.allrecipes.com/thmb/G-xhxjG51mXIRWMpr-VQ6WdEUoo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/47717-reuben-sandwich-ii-mike-phillips-b77c676e6aaf45e280d34e0c668d8f2f.jpeg",
+    "name": "Reuben Sandwich",
+    "date": {
+        "$timestamp": {
+            "t": "",
+            "i": ""
+        }
+    },
+    "briefdescription": "A Reuben sandwich is easy to make with corned beef, Swiss cheese, sauerkraut, and Thousand Island dressing grilled between slices of rye bread.",
+    "totalCarbs": "44 g",
+    "fat": "40 g",
+    "protein": "32 g",
+    "calories": "657 kcal",
+    "shoppingList": {
+        "equipment": [],
+        "ingredients": [
+            "8 slices rye bread",
+            "0.5 cup Thousand Island dressing",
+            "8 slices Swiss cheese",
+            "8 slices deli sliced corned beef",
+            "1 cup sauerkraut, drained",
+            "2 tablespoons butter, softened"
+        ]
+    },
+    "durationToCook": "PT20M",
+    "instructions": "Preheat a large griddle or skillet over medium heat.\nSpread one side of bread slices evenly with Thousand Island dressing. On four bread slices, layer one slice Swiss cheese, 2 slices corned beef, 1/4 cup sauerkraut, and a second slice of Swiss cheese. Top with remaining bread slices, dressing-side down. Butter the top of each sandwich.\nPlace sandwiches, butter-side down on the preheated griddle; butter the top of each sandwich with remaining butter. Grill until both sides are golden brown, about 5 minutes per side. Serve hot.\n",
+    "comments": [
+        {
+            "posterName": "Roxanne Williams",
+            "comment": "WHen Chompies has the marble bread on sale ,buy 1 get 1 free I will purchase pastrami or corned beef to make. I also drain but not rinse the sauerkraut. lay out the precut foil and assemble. Thousand or miracle whip,I use a slice of meat on both sides of bread and slice of cheese on both, another slice of meat and some sauerkraut. put together fold in the foil and freeze except for a couple days worth. Thaw the day before in fridge, usually have to take inners out and warm in microwave the grill altogether in fry pan that sandwich is buttered on both outsides.",
+            "rating": "4"
+        }
+    ],
+    "tags": []
+}

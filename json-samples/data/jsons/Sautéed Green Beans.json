@@ -1,0 +1,41 @@
+{
+    "_id": {
+        "$oid": ""
+    },
+    "id": "",
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6121464833001",
+    "imageURLs": "https://www.allrecipes.com/thmb/_EuoU5ooaE0CEXX76ear5tcGGX4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/244868-Sauteed-Garden-Fresh-Green-Beans-mfs-039-b02bd324de484250a9cddadd0b1093a8.jpg",
+    "name": "Saut\u00e9ed Green Beans",
+    "date": {
+        "$timestamp": {
+            "t": "",
+            "i": ""
+        }
+    },
+    "briefdescription": "Fresh green beans are saut\u00e9ed in a skillet with a few seasonings, making a quick and easy side dish that pairs beautifully with any meal you&#39;re serving.",
+    "totalCarbs": "7 g",
+    "fat": "5 g",
+    "protein": "2 g",
+    "calories": "74 kcal",
+    "shoppingList": {
+        "equipment": [],
+        "ingredients": [
+            "1.5 tablespoons olive oil",
+            "0.75 pound fresh green beans, trimmed",
+            "0.5 teaspoon onion salt",
+            "0.5 teaspoon garlic salt",
+            "0.5 teaspoon garlic powder",
+            "freshly ground pepper to taste"
+        ]
+    },
+    "durationToCook": "PT10M",
+    "instructions": "Heat olive oil in a skillet over medium heat. Add green beans, onion salt, garlic salt, garlic powder, and black pepper; cook and stir until desired tenderness is reached, 5 to 10 minutes.\n",
+    "comments": [
+        {
+            "posterName": "Allrecipes Member",
+            "comment": "Best. Green been. Recipe. Ever! I have made this for friends and family and they all love it.",
+            "rating": "5"
+        }
+    ],
+    "tags": []
+}

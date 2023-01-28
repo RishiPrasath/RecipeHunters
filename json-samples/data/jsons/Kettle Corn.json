@@ -1,0 +1,38 @@
+{
+    "_id": {
+        "$oid": ""
+    },
+    "id": "",
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=2621324270001",
+    "imageURLs": "https://www.allrecipes.com/thmb/2cJPQnjtTuazcNGMS4I8BKNSJIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Kettle-Corn-6bdbc1c52e5842039b9006f1cb168a67.jpg",
+    "name": "Kettle Corn",
+    "date": {
+        "$timestamp": {
+            "t": "",
+            "i": ""
+        }
+    },
+    "briefdescription": "This kettle corn recipe is made on the stovetop with just three ingredients and tastes deliciously old-fashioned and straight from the county fair.",
+    "totalCarbs": "25 g",
+    "fat": "12 g",
+    "protein": "2 g",
+    "calories": "209 kcal",
+    "shoppingList": {
+        "equipment": [],
+        "ingredients": [
+            "0.25 cup vegetable oil",
+            "0.5 cup unpopped popcorn kernels",
+            "0.25 cup white sugar"
+        ]
+    },
+    "durationToCook": "PT20M",
+    "instructions": "Heat vegetable oil in a large pot over medium heat. Stir in popcorn kernels and sugar.\nCover and shake the pot constantly to prevent sugar from burning. When popping has slowed to once every 2 to 3 seconds, remove the pot from the heat and shake for a few minutes until popping stops.\nPour popcorn into a large bowl and allow to cool, stirring occasionally to break up large clumps.\n",
+    "comments": [
+        {
+            "posterName": "Emily",
+            "comment": "So, I, uh, used the wrong measuring cup and accidentally made a double batch. It was so SO good, hubby and I went ahead and ate the entire double batch. I recommending reading the best helpful review about the 3 seconds resting / shaking technique. Perfect! Delicious!",
+            "rating": "5"
+        }
+    ],
+    "tags": []
+}

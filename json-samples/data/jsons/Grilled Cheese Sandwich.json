@@ -1,0 +1,38 @@
+{
+    "_id": {
+        "$oid": ""
+    },
+    "id": "",
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1791504988001",
+    "imageURLs": "https://www.allrecipes.com/thmb/A1y6AQXf-MxES6OAjXzbAKfy2oY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2206436-d0018545bcb545b6b98c1a23659777cf.jpg",
+    "name": "Grilled Cheese Sandwich",
+    "date": {
+        "$timestamp": {
+            "t": "",
+            "i": ""
+        }
+    },
+    "briefdescription": "Learn how to make a grilled cheese sandwich in a nonstick pan with buttered bread and sliced Cheddar; serve with tomato soup for a comforting classic.",
+    "totalCarbs": "26 g",
+    "fat": "28 g",
+    "protein": "11 g",
+    "calories": "400 kcal",
+    "shoppingList": {
+        "equipment": [],
+        "ingredients": [
+            "4 slices white bread",
+            "3 tablespoons butter, divided",
+            "2 slices Cheddar cheese"
+        ]
+    },
+    "durationToCook": "PT15M",
+    "instructions": "Preheat a nonstick skillet over medium heat. Generously butter one side of a slice of bread. Place bread butter-side down in the hot skillet; add 1 slice of cheese. Butter a second slice of bread on one side and place butter-side up on top of cheese.\nCook until lightly browned on one side; flip over and continue cooking until cheese is melted. Repeat with remaining 2 slices of bread, butter, and slice of cheese.\n",
+    "comments": [
+        {
+            "posterName": "Allrecipes Member",
+            "comment": "Made this for dinner for me and my kids tonight!!! Delicious and very easy!!",
+            "rating": "5"
+        }
+    ],
+    "tags": []
+}

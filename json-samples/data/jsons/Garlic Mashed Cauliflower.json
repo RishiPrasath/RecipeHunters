@@ -1,0 +1,42 @@
+{
+    "_id": {
+        "$oid": ""
+    },
+    "id": "",
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=3597558201001",
+    "imageURLs": "https://www.allrecipes.com/thmb/1zPzer3Qzt9rp1HOWJHYuk2znNU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1014180-68b212bca9794ce783b5a0f8b8d84bf4.jpg",
+    "name": "Garlic Mashed Cauliflower",
+    "date": {
+        "$timestamp": {
+            "t": "",
+            "i": ""
+        }
+    },
+    "briefdescription": "Creamy cauliflower &#34;mashed potatoes&#34; flavored with garlic and Parmesan cheese are a guilt-free and delicious option for anyone on a low-carb diet.",
+    "totalCarbs": "8 g",
+    "fat": "6 g",
+    "protein": "5 g",
+    "calories": "98 kcal",
+    "shoppingList": {
+        "equipment": [],
+        "ingredients": [
+            "1 head cauliflower, cut into florets",
+            "1 tablespoon olive oil",
+            "1 clove garlic, smashed",
+            "0.25 cup grated Parmesan cheese",
+            "1 tablespoon reduced-fat cream cheese",
+            "0.5 teaspoon kosher salt",
+            "0.125 teaspoon freshly ground black pepper"
+        ]
+    },
+    "durationToCook": "PT25M",
+    "instructions": "Place a steamer insert into a saucepan; fill with water just below the bottom of the steamer. Bring water to a boil; add cauliflower, cover, and steam until tender, about 10 minutes.\nMeanwhile, heat olive oil in a small skillet over medium heat; cook and stir garlic until softened, about 2 minutes. Remove from heat.\nTransfer 1/2 of the cauliflower to a food processor; cover and blend on high. Add remaining cauliflower florets, one at a time, until vegetables are creamy. Blend in cooked garlic, Parmesan cheese, cream cheese, salt, and black pepper.\n",
+    "comments": [
+        {
+            "posterName": "Allrecipes Member",
+            "comment": "I loved it! Only some minor changes in that I used frozen cauliflower (it was on special!) and did all of the mixing in the food processor and added 3 tablespoons of full fat cream cheese and 6 oz of half and half to bring it together. Saut\u00e9ed the garlic in olive oil with the skins on (cut the ends so the garlic could escape easily) and used the oil as well as the garlic in the mix. Came out great. Didn\u2019t even need salt and pepper, lol!",
+            "rating": "5"
+        }
+    ],
+    "tags": []
+}

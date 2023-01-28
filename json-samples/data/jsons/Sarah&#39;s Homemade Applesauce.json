@@ -1,0 +1,39 @@
+{
+    "_id": {
+        "$oid": ""
+    },
+    "id": "",
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=2560125040001",
+    "imageURLs": "https://www.allrecipes.com/thmb/VY5d0tZHB8xz6y-ef586jR050FE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25840-Sarahs-Applesauce-2000-56080bc8aac64df59aeec895f1875fc0.jpg",
+    "name": "Sarah&#39;s Homemade Applesauce",
+    "date": {
+        "$timestamp": {
+            "t": "",
+            "i": ""
+        }
+    },
+    "briefdescription": "This applesauce recipe is easy to make from scratch with apples, sugar, and cinnamon for a delicious topping on pancakes, ice cream, or pork chops.",
+    "totalCarbs": "32 g",
+    "fat": "0 g",
+    "protein": "0 g",
+    "calories": "121 kcal",
+    "shoppingList": {
+        "equipment": [],
+        "ingredients": [
+            "4 apples - peeled, cored and chopped",
+            "0.75 cup water",
+            "0.25 cup white sugar",
+            "0.5 teaspoon ground cinnamon"
+        ]
+    },
+    "durationToCook": "PT25M",
+    "instructions": "Combine apples, water, sugar, and cinnamon in a saucepan; cover and cook over medium heat until apples are soft, about 15 to 20 minutes.\nAllow apple mixture to cool, then mash with a fork or potato masher until it is the consistency you like.\n",
+    "comments": [
+        {
+            "posterName": "Allrecipes Member",
+            "comment": "Love it and simple process. Thank you. I will rate this for 5 stars!",
+            "rating": "5"
+        }
+    ],
+    "tags": []
+}

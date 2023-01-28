@@ -1,0 +1,42 @@
+{
+    "_id": {
+        "$oid": ""
+    },
+    "id": "",
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6031904830001",
+    "imageURLs": "https://www.allrecipes.com/thmb/Hmt0uxU74FwQve2HLa7roqOIoN4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/218894_EaSywedishMeatballSauce_mfs_0121-365525de867146e7a16d01a659060b86.jpg",
+    "name": "Easy Swedish Meatball Sauce",
+    "date": {
+        "$timestamp": {
+            "t": "",
+            "i": ""
+        }
+    },
+    "briefdescription": "This quick and easy Swedish meatball sauce turns frozen meatballs into tonight&#39;s main attraction. Serve on top of noodles or rice alongside a green salad for the perfect meal.",
+    "totalCarbs": "12 g",
+    "fat": "32 g",
+    "protein": "15 g",
+    "calories": "393 kcal",
+    "shoppingList": {
+        "equipment": [],
+        "ingredients": [
+            "1 cup beef stock",
+            "1 cup heavy cream",
+            "3 tablespoons all-purpose flour",
+            "1 tablespoon soy sauce",
+            "0.5 teaspoon ground black pepper, or more to taste",
+            "0.5 teaspoon dried rosemary, crushed, or more to taste",
+            "10 ounces frozen cooked meatballs, thawed"
+        ]
+    },
+    "durationToCook": "PT20M",
+    "instructions": "Whisk together stock, cream, flour, soy sauce, 1/2 teaspoon pepper, and 1/2 teaspoon rosemary in a large saucepan over low heat until smooth. Cook, stirring occasionally, until thickened, about 10 minutes.\nStir in thawed meatballs, and continue cooking until meatballs are heated through, about 5 more minutes. An instant-read thermometer inserted into the center of the meatballs should read at least 160 degrees F (71 degrees C).\nTaste and adjust seasonings before serving.\n",
+    "comments": [
+        {
+            "posterName": "Patricia",
+            "comment": "It was very quick and easy. Had a very good taste to it",
+            "rating": "5"
+        }
+    ],
+    "tags": []
+}

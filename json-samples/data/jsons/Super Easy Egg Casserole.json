@@ -1,0 +1,44 @@
+{
+    "_id": {
+        "$oid": ""
+    },
+    "id": "",
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=5975414772001",
+    "imageURLs": "https://www.allrecipes.com/thmb/bXUineWAZqCqNE5yi1M4NqDtWHM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Super-Easy-Egg-Casserole-by-Chef-V-20e2aafba1e046fca31f2e66d5b468e1.jpg",
+    "name": "Super Easy Egg Casserole",
+    "date": {
+        "$timestamp": {
+            "t": "",
+            "i": ""
+        }
+    },
+    "briefdescription": "Baked egg casserole that&#39;s super easy to make and delicious. Beaten eggs are baked with Cheddar cheese, bell pepper, bacon, green onions, and garlic.",
+    "totalCarbs": "9 g",
+    "fat": "23 g",
+    "protein": "23 g",
+    "calories": "340 kcal",
+    "shoppingList": {
+        "equipment": [],
+        "ingredients": [
+            "6 eggs, whisked",
+            "1 cup shredded Cheddar cheese",
+            "6 slices bacon, diced",
+            "2 slices bread, cubed",
+            "0.33 red bell pepper, diced",
+            "2 green onions, chopped",
+            "3 tablespoons milk",
+            "0.5 teaspoon minced garlic, or to taste",
+            "salt and ground black pepper to taste"
+        ]
+    },
+    "durationToCook": "PT35M",
+    "instructions": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish.\nMix eggs, cheese, bacon, bread, red bell pepper, green onion, milk, garlic, salt, and black pepper together in a bowl until well-combined; pour into the prepared baking dish.\nBake in the preheated oven until eggs are set, about 20 to 25 minutes.\n",
+    "comments": [
+        {
+            "posterName": "Allrecipes Member",
+            "comment": "It was easy to make and you can substitute it with any kind of meat and cheese. Just enough for three adults or 2 adults and two grandkids. Little granddaughters loved it. Thanks for the recipe. A &amp;D",
+            "rating": "5"
+        }
+    ],
+    "tags": []
+}

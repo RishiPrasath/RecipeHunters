@@ -1,0 +1,38 @@
+{
+    "_id": {
+        "$oid": ""
+    },
+    "id": "",
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6304046578001",
+    "imageURLs": "https://www.allrecipes.com/thmb/wzrJD5icKZtvVXJ-47xIJaJszyk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1765553-easy-roasted-broccoli-FranceC-1x1-1-327e091005644ea99b1ce0107d3dd2c6.jpg",
+    "name": "Easy Roasted Broccoli",
+    "date": {
+        "$timestamp": {
+            "t": "",
+            "i": ""
+        }
+    },
+    "briefdescription": "Roasted broccoli florets and broccoli stems are cooked with just olive oil, salt, and pepper. So much more flavorsome than boiled or steamed broccoli!",
+    "totalCarbs": "7 g",
+    "fat": "4 g",
+    "protein": "3 g",
+    "calories": "63 kcal",
+    "shoppingList": {
+        "equipment": [],
+        "ingredients": [
+            "14 ounces broccoli",
+            "1 tablespoon olive oil",
+            "salt and ground black pepper to taste"
+        ]
+    },
+    "durationToCook": "PT30M",
+    "instructions": "Preheat the oven to 400 degrees F (200 degrees C).\nCut broccoli florets from the stalk. Peel the stalk and slice into 1/4-inch slices. Mix florets and stem pieces with olive oil in a bowl and transfer to a baking sheet; season with salt and pepper.\nRoast in the preheated oven until broccoli is tender and lightly browned, about 18 to 20 minutes.\n",
+    "comments": [
+        {
+            "posterName": "Allrecipes Member",
+            "comment": "Delicious! Would not reccomend the salt at the end if you use a rich butter like Kerrygold.",
+            "rating": "5"
+        }
+    ],
+    "tags": []
+}

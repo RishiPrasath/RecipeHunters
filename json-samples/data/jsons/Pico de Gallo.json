@@ -1,0 +1,44 @@
+{
+    "_id": {
+        "$oid": ""
+    },
+    "id": "",
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6151916921001",
+    "imageURLs": "https://www.allrecipes.com/thmb/RfWWDpTnkIdxCzBVydFu_hi8J2Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/203800-Pico-de-Gallo-1-mfs-015-3391e150e2ad4cd897d4dbe75de49411.jpg",
+    "name": "Pico de Gallo",
+    "date": {
+        "$timestamp": {
+            "t": "",
+            "i": ""
+        }
+    },
+    "briefdescription": "This quick and easy fresh pico de gallo is made with red onion, minced jalapeno, lime juice, and seasonings for added flavor. Great as an appetizer or addition to any meal.",
+    "totalCarbs": "2 g",
+    "fat": "0 g",
+    "protein": "0 g",
+    "calories": "10 kcal",
+    "shoppingList": {
+        "equipment": [],
+        "ingredients": [
+            "6 roma (plum) tomatoes, diced",
+            "0.5 red onion, minced",
+            "3 tablespoons chopped fresh cilantro",
+            "0.5 jalape\u00f1o pepper, seeded and minced",
+            "0.5 lime, juiced",
+            "1 clove garlic, minced",
+            "1 pinch garlic powder",
+            "1 pinch ground cumin, or to taste",
+            "salt and ground black pepper to taste"
+        ]
+    },
+    "durationToCook": "PT20M",
+    "instructions": "Stir tomatoes, onion, cilantro, jalape\u00f1o pepper, lime juice, garlic, garlic powder, cumin, salt, and pepper together in a bowl.\n",
+    "comments": [
+        {
+            "posterName": "Keith Pyro Cross",
+            "comment": "This was great!!! My entire family loved it even my 6 yr old",
+            "rating": "5"
+        }
+    ],
+    "tags": []
+}

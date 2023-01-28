@@ -1,0 +1,38 @@
+{
+    "_id": {
+        "$oid": ""
+    },
+    "id": "",
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6309158584112",
+    "imageURLs": "https://www.allrecipes.com/thmb/ni-BHPFmJ9GsrPhUafdCinYfMMk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/176957-BakedKaleChips_001-fd36f2a00fd3408c96d91994b24a2cf9.jpg",
+    "name": "Baked Kale Chips",
+    "date": {
+        "$timestamp": {
+            "t": "",
+            "i": ""
+        }
+    },
+    "briefdescription": "This easy recipe for baked kale chips is simply the best. With only 3 ingredients, the kale chips turn out perfectly crispy and are a great homemade snack.",
+    "totalCarbs": "8 g",
+    "fat": "3 g",
+    "protein": "3 g",
+    "calories": "58 kcal",
+    "shoppingList": {
+        "equipment": [],
+        "ingredients": [
+            "1 bunch kale",
+            "1 tablespoon olive oil",
+            "1 teaspoon flaked sea salt"
+        ]
+    },
+    "durationToCook": "PT30M",
+    "instructions": "Preheat an oven to 300 degrees F (150 degrees C). Line a rimmed baking sheet with parchment paper.\nWith a knife or kitchen shears carefully remove kale leaves from the thick stems and tear into bite size pieces. Wash and thoroughly dry kale with a salad spinner. Drizzle kale leaves with olive oil and toss to combine. Spread out in an even layer on the baking sheet without overlapping and sprinkle with salt.\nBake until the edges start to brown but are not burnt, 20 to 30 minutes.\n",
+    "comments": [
+        {
+            "posterName": "Allrecipes Member",
+            "comment": "time consuming but worth it!",
+            "rating": "5"
+        }
+    ],
+    "tags": []
+}

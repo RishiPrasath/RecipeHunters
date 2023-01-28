@@ -1,0 +1,43 @@
+{
+    "_id": {
+        "$oid": ""
+    },
+    "id": "",
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1545974395001",
+    "imageURLs": "https://www.allrecipes.com/thmb/uJocCYfLL1gMCsbj79tY7hKilWw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4557541-21604073f2774e89b532193821d6cd9c.jpg",
+    "name": "Baked Ziti",
+    "date": {
+        "$timestamp": {
+            "t": "",
+            "i": ""
+        }
+    },
+    "briefdescription": "Baked ziti pasta with ground beef, spaghetti sauce, and three kinds of Italian cheese makes a surprisingly easy, family-pleasing weeknight meal.",
+    "totalCarbs": "58 g",
+    "fat": "25 g",
+    "protein": "28 g",
+    "calories": "578 kcal",
+    "shoppingList": {
+        "equipment": [],
+        "ingredients": [
+            "1 pound dry ziti pasta",
+            "1 onion, chopped",
+            "1 pound lean ground beef",
+            "2 (26 ounce) jars spaghetti sauce",
+            "6 ounces provolone cheese, sliced",
+            "1.5 cups sour cream",
+            "6 ounces mozzarella cheese, shredded",
+            "2 tablespoons grated Parmesan cheese"
+        ]
+    },
+    "durationToCook": "PT60M",
+    "instructions": "Bring a large pot of lightly salted water to a boil. Add ziti pasta, and cook until al dente, about 8 minutes; drain.\nMeanwhile, brown ground beef and onion in a large skillet over medium heat; stir in spaghetti sauce and simmer for 15 minutes.\nPreheat the oven to 350 degrees F (175 degrees C). Butter a 9x13-inch baking dish.\nSpread 1/2 of the ziti in the bottom of the prepared dish; top with Provolone cheese, sour cream, 1/2 of the meat sauce, remaining ziti, mozzarella cheese, and remaining meat sauce. Top with grated Parmesan cheese.\nBake in the preheated oven until heated through and cheeses have melted, about 30 minutes.\n",
+    "comments": [
+        {
+            "posterName": "Allrecipes Member",
+            "comment": "Wonderful! Makes a ton, but still doesn't last long!",
+            "rating": "5"
+        }
+    ],
+    "tags": []
+}

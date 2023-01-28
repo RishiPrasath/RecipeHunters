@@ -1,0 +1,42 @@
+{
+    "_id": {
+        "$oid": ""
+    },
+    "id": "",
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1560962626001",
+    "imageURLs": "https://www.allrecipes.com/thmb/7Vn00l3j_zQJtXgYFCu4sU-xOOs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20144-banana-banana-bread-mfs-57-0bb49d050a6941c4b3715e57b8e6badd.jpg",
+    "name": "Banana Banana Bread",
+    "date": {
+        "$timestamp": {
+            "t": "",
+            "i": ""
+        }
+    },
+    "briefdescription": "This banana bread recipe makes an incredibly moist, delicious loaf with simple ingredients but loads of banana flavor. It is wonderful toasted!",
+    "totalCarbs": "35 g",
+    "fat": "9 g",
+    "protein": "4 g",
+    "calories": "229 kcal",
+    "shoppingList": {
+        "equipment": [],
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "0.25 teaspoon salt",
+            "0.75 cup brown sugar",
+            "0.5 cup butter",
+            "2 eggs, beaten",
+            "2.3333332538605 cups mashed overripe bananas"
+        ]
+    },
+    "durationToCook": "PT85M",
+    "instructions": "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x5-inch loaf pan.\nCombine flour, baking soda, and salt in a large bowl. Beat brown sugar and butter with an electric mixer in a separate large bowl until smooth. Stir in eggs and mashed bananas until well blended. Stir banana mixture into flour mixture until just combined. Pour batter into the prepared loaf pan.\nBake in the preheated oven until a toothpick inserted into the center comes out clean, about 60 minutes. Let bread cool in pan for 10 minutes, then turn out onto a wire rack to cool completely.\n",
+    "comments": [
+        {
+            "posterName": "Micha",
+            "comment": "The best Banana Bread ever! I do use only 1/2 cup of the brown sugar, or regular sugar, if I have no brown sugar. It is still sweet and delicious. In my opinion, the wonderful flavors come out better the next day or two. Am making it tonight, adding some Walnuts :)",
+            "rating": "5"
+        }
+    ],
+    "tags": []
+}

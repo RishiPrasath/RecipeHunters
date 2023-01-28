@@ -1,0 +1,41 @@
+{
+    "_id": {
+        "$oid": ""
+    },
+    "id": "",
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=2707380270001",
+    "imageURLs": "https://www.allrecipes.com/thmb/dtCTAk1dCqTMDVfhsodKbukbd28=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/187822_BakedChickenWings_Square_DanielleK-44ec23b899764ee1b26080e1be80bfad.jpg",
+    "name": "Baked Chicken Wings",
+    "date": {
+        "$timestamp": {
+            "t": "",
+            "i": ""
+        }
+    },
+    "briefdescription": "These baked chicken wings are easy to prep with a spicy coating, then baked to crispy perfection for a delicious way to prepare chicken wings.",
+    "totalCarbs": "4 g",
+    "fat": "43 g",
+    "protein": "32 g",
+    "calories": "532 kcal",
+    "shoppingList": {
+        "equipment": [],
+        "ingredients": [
+            "3 tablespoons olive oil",
+            "3 cloves garlic, pressed",
+            "2 teaspoons chili powder",
+            "1 teaspoon garlic powder",
+            "salt and ground black pepper to taste",
+            "10 chicken wings"
+        ]
+    },
+    "durationToCook": "PT70M",
+    "instructions": "Preheat the oven to 375 degrees F (190 degrees C).\nCombine olive oil, garlic, chili powder, garlic powder, salt, and pepper in a large, resealable bag; seal and shake to combine. Add chicken wings; reseal and shake to coat. Arrange chicken wings on a baking sheet.\nCook chicken wings in the preheated oven until crisp and cooked through, about 1 hour.\n",
+    "comments": [
+        {
+            "posterName": "Allrecipes Member",
+            "comment": "The prep work is easy. I let my wings marinate overnight. While your wings are baking, make some celery sticks and get your favorite dip ready. These wings taste excellent.",
+            "rating": "5"
+        }
+    ],
+    "tags": []
+}

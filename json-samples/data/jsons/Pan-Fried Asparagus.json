@@ -1,0 +1,41 @@
+{
+    "_id": {
+        "$oid": ""
+    },
+    "id": "",
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=2347303747001",
+    "imageURLs": "https://www.allrecipes.com/thmb/-PgrYg29je44GkvweCLch7KWPwg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/214328-ad0dbeb2fb14481295e83ef4c326c779.jpg",
+    "name": "Pan-Fried Asparagus",
+    "date": {
+        "$timestamp": {
+            "t": "",
+            "i": ""
+        }
+    },
+    "briefdescription": "Learn how to cook asparagus on the stove by pan-frying it in butter with olive oil and garlic for a flavorsome, family-pleasing vegetable side dish.",
+    "totalCarbs": "5 g",
+    "fat": "18 g",
+    "protein": "3 g",
+    "calories": "188 kcal",
+    "shoppingList": {
+        "equipment": [],
+        "ingredients": [
+            "0.25 cup butter",
+            "2 tablespoons olive oil",
+            "1 teaspoon coarse salt",
+            "0.25 teaspoon ground black pepper",
+            "3 cloves garlic, minced",
+            "1 pound fresh asparagus spears, trimmed"
+        ]
+    },
+    "durationToCook": "PT20M",
+    "instructions": "Melt butter in a skillet over medium-high heat. Add olive oil, salt, and pepper; cook and stir until garlic is fragrant, about 30 seconds.\nAdd asparagus and cook until fork-tender, turning asparagus often to ensure even cooking, about 10 minutes.\n",
+    "comments": [
+        {
+            "posterName": "Allrecipes Member",
+            "comment": "Sprinkle some parmesan cheese on it within the last two minutes and it will brown and crumble and add more flavor and a really good crunch with the taste",
+            "rating": "5"
+        }
+    ],
+    "tags": []
+}
