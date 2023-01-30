@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "A quick and easy recipe for pan-fried cube steaks served with a simple pan sauce.",
-    "totalCarbs": "4 g",
-    "fat": "25 g",
-    "protein": "37 g",
-    "calories": "393 kcal",
+    "totalCarbs": 4,
+    "fat": 25,
+    "protein": 37,
+    "calories": 393,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -28,12 +28,19 @@
         ]
     },
     "durationToCook": "PT15M",
-    "instructions": "Lightly season both sides of each cube steak with salt and pepper. (See Cook&#39;s Note).\nMelt 1 Tablespoon unsalted butter in a large, non-stick skillet over medium heat. Once butter is foamy, add cube steaks and sprinkle about 2 teaspoons Worcestershire sauce on top of each cube steak. Cook until brown, 3 to 4 minutes.\nTurn the steaks, and sprinkle each with an additional 1 to 2 teaspoons Worcestershire sauce. Cook until steaks are firm and reddish-pink and juicy in the center, about 3 minutes more. An instant-read thermometer inserted into the center should read 135 degrees F (57 degrees C). Remove to a platter and tent with foil.\nTo make the pan sauce, pour about 1/2 cup water into the skillet and stir all the browned bits from the bottom of the pan. Bring to a boil and cook for about 2 minutes.\nRemove from heat and stir in remaining butter, until melted.\nEvenly divide pan sauce over each cube steak and serve warm.\n",
+    "instructions": [
+        "Lightly season both sides of each cube steak with salt and pepper. (See Cook&#39;s Note).",
+        "Melt 1 Tablespoon unsalted butter in a large, non-stick skillet over medium heat. Once butter is foamy, add cube steaks and sprinkle about 2 teaspoons Worcestershire sauce on top of each cube steak. Cook until brown, 3 to 4 minutes.",
+        "Turn the steaks, and sprinkle each with an additional 1 to 2 teaspoons Worcestershire sauce. Cook until steaks are firm and reddish-pink and juicy in the center, about 3 minutes more. An instant-read thermometer inserted into the center should read 135 degrees F (57 degrees C). Remove to a platter and tent with foil.",
+        "To make the pan sauce, pour about 1/2 cup water into the skillet and stir all the browned bits from the bottom of the pan. Bring to a boil and cook for about 2 minutes.",
+        "Remove from heat and stir in remaining butter, until melted.",
+        "Evenly divide pan sauce over each cube steak and serve warm."
+    ],
     "comments": [
         {
             "posterName": "Joe DeMonte",
             "comment": "Quick and easy, and full of flavor. I served it with Basmati rice and whole kernel corn. It is also a money saving meal when you find a good deal on cube steak.",
-            "rating": "5"
+            "rating": 5
         }
     ],
     "tags": []

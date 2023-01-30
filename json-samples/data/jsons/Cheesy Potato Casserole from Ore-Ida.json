@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "This cheesy potato casserole with lots of shredded hash browns and a crispy topping couldn&#39;t be easier to make for creamy comfort food at its best.",
-    "totalCarbs": "32 g",
-    "fat": "29 g",
-    "protein": "13 g",
-    "calories": "434 kcal",
+    "totalCarbs": 32,
+    "fat": 29,
+    "protein": 13,
+    "calories": 434,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -33,12 +33,17 @@
         ]
     },
     "durationToCook": "PT60M",
-    "instructions": "Preheat the oven to 350 degrees F (175 degrees C). Spray a 9x13-inch baking dish with nonstick spray.\nWhisk together sour cream, condensed soup, salt, and pepper in a large bowl. Stir in Cheddar cheese, green onions, and hash brown potatoes until well mixed. Spoon evenly into the prepared baking dish.\nMix crushed cereal and melted butter together in a medium bowl. Sprinkle evenly over the casserole.\nBake uncovered until hot and bubbly, 45 to 50 minutes. Remove from the oven and let rest for 5 minutes before serving.\n",
+    "instructions": [
+        "Preheat the oven to 350 degrees F (175 degrees C). Spray a 9x13-inch baking dish with nonstick spray.",
+        "Whisk together sour cream, condensed soup, salt, and pepper in a large bowl. Stir in Cheddar cheese, green onions, and hash brown potatoes until well mixed. Spoon evenly into the prepared baking dish.",
+        "Mix crushed cereal and melted butter together in a medium bowl. Sprinkle evenly over the casserole.",
+        "Bake uncovered until hot and bubbly, 45 to 50 minutes. Remove from the oven and let rest for 5 minutes before serving."
+    ],
     "comments": [
         {
             "posterName": "Traci",
             "comment": "Christmas Every Year!! Great with Ham or Beef",
-            "rating": "5"
+            "rating": 5
         }
     ],
     "tags": []

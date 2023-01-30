@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "Tortilla chips made at home from corn tortillas are super easy and tastier than store-bought. These have a zingy lime and cumin flavor that pairs well with salsa or hummus.",
-    "totalCarbs": "13 g",
-    "fat": "2 g",
-    "protein": "2 g",
-    "calories": "74 kcal",
+    "totalCarbs": 13,
+    "fat": 2,
+    "protein": 2,
+    "calories": 74,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -29,12 +29,21 @@
         ]
     },
     "durationToCook": "PT25M",
-    "instructions": "Preheat oven to 350 degrees F (175 degrees C).\nStack tortillas in layers of 5 or 6. Cut through each stack to make 8 wedges. Arrange wedges in a single layer on rimmed baking sheets.\nCombine lime juice and oil in a spray bottle or mister; shake until well mixed. Spray the tops of the tortilla wedges until slightly moist.\nCombine cumin, chili powder, and salt in a small bowl; sprinkle mixture over the chips.\nBake in the preheated oven for 7 minutes.\nRemove from the oven. Flip chips, then mist and season again.\nReturn to the oven, rotating the pans and switching racks. Bake, checking often to ensure they don&#39;t burn, until chips are lightly browned and crisp, 5 to 8 more minutes.\nRemove from the oven and cool slightly before serving. Chips will crisp up more as they cool.\n",
+    "instructions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Stack tortillas in layers of 5 or 6. Cut through each stack to make 8 wedges. Arrange wedges in a single layer on rimmed baking sheets.",
+        "Combine lime juice and oil in a spray bottle or mister; shake until well mixed. Spray the tops of the tortilla wedges until slightly moist.",
+        "Combine cumin, chili powder, and salt in a small bowl; sprinkle mixture over the chips.",
+        "Bake in the preheated oven for 7 minutes.",
+        "Remove from the oven. Flip chips, then mist and season again.",
+        "Return to the oven, rotating the pans and switching racks. Bake, checking often to ensure they don&#39;t burn, until chips are lightly browned and crisp, 5 to 8 more minutes.",
+        "Remove from the oven and cool slightly before serving. Chips will crisp up more as they cool."
+    ],
     "comments": [
         {
             "posterName": "Sue T",
             "comment": "Easy peasy and tasty!",
-            "rating": "5"
+            "rating": 5
         }
     ],
     "tags": []

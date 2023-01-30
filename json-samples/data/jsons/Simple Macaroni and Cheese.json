@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "Easy mac and cheese is simple to prepare with 7 ingredients you most likely already have on hand for tasty, comfort-food meal.",
-    "totalCarbs": "55 g",
-    "fat": "34 g",
-    "protein": "27 g",
-    "calories": "630 kcal",
+    "totalCarbs": 55,
+    "fat": 34,
+    "protein": 27,
+    "calories": 630,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -30,12 +30,19 @@
         ]
     },
     "durationToCook": "PT25M",
-    "instructions": "Bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally until cooked through but firm to the bite, 8 minutes.\nAt the same time, melt butter in a saucepan over medium heat.\nAdd flour, salt, and pepper and stir until smooth, about 5 minutes.\nPour in milk slowly, while stirring continuously. Continue to cook and stir until mixture is smooth and bubbling, about 5 minutes, making sure the milk doesn&#39;t burn.\nAdd Cheddar cheese and stir until melted, 2 to 4 minutes.\nDrain macaroni and fold into cheese sauce until coated.\n",
+    "instructions": [
+        "Bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally until cooked through but firm to the bite, 8 minutes.",
+        "At the same time, melt butter in a saucepan over medium heat.",
+        "Add flour, salt, and pepper and stir until smooth, about 5 minutes.",
+        "Pour in milk slowly, while stirring continuously. Continue to cook and stir until mixture is smooth and bubbling, about 5 minutes, making sure the milk doesn&#39;t burn.",
+        "Add Cheddar cheese and stir until melted, 2 to 4 minutes.",
+        "Drain macaroni and fold into cheese sauce until coated."
+    ],
     "comments": [
         {
             "posterName": "Allrecipes Member",
             "comment": "Pretty solid Mac n cheese! Made this for my friends and they loved it!",
-            "rating": "4"
+            "rating": 4
         }
     ],
     "tags": []

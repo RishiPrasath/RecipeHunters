@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "This quick and easy fresh pico de gallo is made with red onion, minced jalapeno, lime juice, and seasonings for added flavor. Great as an appetizer or addition to any meal.",
-    "totalCarbs": "2 g",
-    "fat": "0 g",
-    "protein": "0 g",
-    "calories": "10 kcal",
+    "totalCarbs": 2,
+    "fat": 0,
+    "protein": 0,
+    "calories": 10,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -32,12 +32,14 @@
         ]
     },
     "durationToCook": "PT20M",
-    "instructions": "Stir tomatoes, onion, cilantro, jalape\u00f1o pepper, lime juice, garlic, garlic powder, cumin, salt, and pepper together in a bowl.\n",
+    "instructions": [
+        "Stir tomatoes, onion, cilantro, jalape\u00f1o pepper, lime juice, garlic, garlic powder, cumin, salt, and pepper together in a bowl."
+    ],
     "comments": [
         {
             "posterName": "Keith Pyro Cross",
             "comment": "This was great!!! My entire family loved it even my 6 yr old",
-            "rating": "5"
+            "rating": 5
         }
     ],
     "tags": []

@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "This banana bread recipe makes an incredibly moist, delicious loaf with simple ingredients but loads of banana flavor. It is wonderful toasted!",
-    "totalCarbs": "35 g",
-    "fat": "9 g",
-    "protein": "4 g",
-    "calories": "229 kcal",
+    "totalCarbs": 35,
+    "fat": 9,
+    "protein": 4,
+    "calories": 229,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -30,12 +30,16 @@
         ]
     },
     "durationToCook": "PT85M",
-    "instructions": "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x5-inch loaf pan.\nCombine flour, baking soda, and salt in a large bowl. Beat brown sugar and butter with an electric mixer in a separate large bowl until smooth. Stir in eggs and mashed bananas until well blended. Stir banana mixture into flour mixture until just combined. Pour batter into the prepared loaf pan.\nBake in the preheated oven until a toothpick inserted into the center comes out clean, about 60 minutes. Let bread cool in pan for 10 minutes, then turn out onto a wire rack to cool completely.\n",
+    "instructions": [
+        "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x5-inch loaf pan.",
+        "Combine flour, baking soda, and salt in a large bowl. Beat brown sugar and butter with an electric mixer in a separate large bowl until smooth. Stir in eggs and mashed bananas until well blended. Stir banana mixture into flour mixture until just combined. Pour batter into the prepared loaf pan.",
+        "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 60 minutes. Let bread cool in pan for 10 minutes, then turn out onto a wire rack to cool completely."
+    ],
     "comments": [
         {
-            "posterName": "Micha",
-            "comment": "The best Banana Bread ever! I do use only 1/2 cup of the brown sugar, or regular sugar, if I have no brown sugar. It is still sweet and delicious. In my opinion, the wonderful flavors come out better the next day or two. Am making it tonight, adding some Walnuts :)",
-            "rating": "5"
+            "posterName": "Shania J.p",
+            "comment": "Absolutely delicious I replaced the baking soda with baking powder and the butter with vegetable oil because that's what I had. Will definitely make again",
+            "rating": 5
         }
     ],
     "tags": []

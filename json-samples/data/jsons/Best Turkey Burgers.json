@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "This turkey burger recipe is the best whether you prepare on the stovetop or the grill. It&#39;s quick, easy, and full of savory flavor your family will love.",
-    "totalCarbs": "2 g",
-    "fat": "10 g",
-    "protein": "21 g",
-    "calories": "184 kcal",
+    "totalCarbs": 2,
+    "fat": 10,
+    "protein": 21,
+    "calories": 184,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -31,12 +31,16 @@
         ]
     },
     "durationToCook": "PT30M",
-    "instructions": "Mix ground turkey, seasoned bread crumbs, onion, egg whites, parsley, garlic, salt, and pepper together in a large bowl.\nForm into 12 patties.\nCook the patties in a medium skillet over medium heat, turning once, to an internal temperature of 180 degrees F (85 degrees C).\n",
+    "instructions": [
+        "Mix ground turkey, seasoned bread crumbs, onion, egg whites, parsley, garlic, salt, and pepper together in a large bowl.",
+        "Form into 12 patties.",
+        "Cook the patties in a medium skillet over medium heat, turning once, to an internal temperature of 180 degrees F (85 degrees C)."
+    ],
     "comments": [
         {
             "posterName": "NoNutSenseMom",
             "comment": "I used 1.3 lbs of meat and 1 egg And 1/4 onion &amp; 1/4 bread crumb &amp; 1tbls minced garlic and a drop of Visalia onion vinegarette marinade \ud83d\udc4d\ud83d\udc4d",
-            "rating": "4"
+            "rating": 4
         }
     ],
     "tags": []

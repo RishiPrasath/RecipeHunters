@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "This tortilla pizza topped with chicken, bell pepper, and cheese makes a quick dinner for one. Quadruple the recipe for a crowd-pleasing party snack!",
-    "totalCarbs": "37 g",
-    "fat": "43 g",
-    "protein": "71 g",
-    "calories": "833 kcal",
+    "totalCarbs": 37,
+    "fat": 43,
+    "protein": 71,
+    "calories": 833,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -33,12 +33,17 @@
         ]
     },
     "durationToCook": "PT20M",
-    "instructions": "Preheat the oven to 400 degrees F (200 degrees C).\nPlace tortilla on a baking sheet. Brush with olive oil; sprinkle garlic powder, salt, and pepper on top.\nBake in the preheated oven until golden, 3 to 5 minutes. Remove from the oven and spread tomato sauce on top; arrange chicken breast, green bell pepper, and green onions over tomato sauce. Sprinkle with mozzarella cheese.\nBake in the preheated oven until cheese is melted, about 5 minutes. Sprinkle oregano over cheese. Slice pizza into wedges using a pizza cutter.\n",
+    "instructions": [
+        "Preheat the oven to 400 degrees F (200 degrees C).",
+        "Place tortilla on a baking sheet. Brush with olive oil; sprinkle garlic powder, salt, and pepper on top.",
+        "Bake in the preheated oven until golden, 3 to 5 minutes. Remove from the oven and spread tomato sauce on top; arrange chicken breast, green bell pepper, and green onions over tomato sauce. Sprinkle with mozzarella cheese.",
+        "Bake in the preheated oven until cheese is melted, about 5 minutes. Sprinkle oregano over cheese. Slice pizza into wedges using a pizza cutter."
+    ],
     "comments": [
         {
             "posterName": "Allrecipes Member",
             "comment": "I got my tortilla cheese pizza",
-            "rating": "5"
+            "rating": 5
         }
     ],
     "tags": []

@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "These tuna patties, seasoned with Italian breadcrumbs and Parmesan, are tender inside and crisp outside. They make a great appetizer or hot sandwich.",
-    "totalCarbs": "14 g",
-    "fat": "16 g",
-    "protein": "31 g",
-    "calories": "325 kcal",
+    "totalCarbs": 14,
+    "fat": 16,
+    "protein": 31,
+    "calories": 325,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -31,12 +31,16 @@
         ]
     },
     "durationToCook": "PT25M",
-    "instructions": "Beat eggs and lemon juice in a bowl; stir in bread crumbs and Parmesan cheese to make a paste. Fold in tuna and onion until well combined; season with black pepper.\nUse your hands to shape tuna mixture into 8 (1-inch-thick) patties.\nHeat vegetable oil in a skillet over medium heat. Fry patties in the hot oil until golden brown, about 5 minutes per side.\n",
+    "instructions": [
+        "Beat eggs and lemon juice in a bowl; stir in bread crumbs and Parmesan cheese to make a paste. Fold in tuna and onion until well combined; season with black pepper.",
+        "Use your hands to shape tuna mixture into 8 (1-inch-thick) patties.",
+        "Heat vegetable oil in a skillet over medium heat. Fry patties in the hot oil until golden brown, about 5 minutes per side."
+    ],
     "comments": [
         {
             "posterName": "Anthony",
             "comment": "Wow amazing bye bye beef patties!!!",
-            "rating": "5"
+            "rating": 5
         }
     ],
     "tags": []

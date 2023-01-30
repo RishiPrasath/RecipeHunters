@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "This green bean casserole pairs tender green beans with crunchy French-fried onions in a creamy cheese sauce. A family-favorite recipe for the holidays!",
-    "totalCarbs": "20 g",
-    "fat": "23 g",
-    "protein": "7 g",
-    "calories": "322 kcal",
+    "totalCarbs": 20,
+    "fat": 23,
+    "protein": 7,
+    "calories": 322,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -27,12 +27,18 @@
         ]
     },
     "durationToCook": "PT25M",
-    "instructions": "Preheat the oven to 350 degrees F (175 degrees C).\nMix green beans and condensed soup together in a large microwave-safe bowl until well combined. Microwave on high until warm, 3 to 5 minutes.\nStir 1/2 cup Cheddar cheese into the green bean mixture. Microwave on high for 2 to 3 minutes.\nTransfer mixture to a casserole dish and spread evenly over the bottom. Sprinkle French-fried onions over top, then sprinkle with remaining Cheddar.\nBake in the preheated oven until cheese is melted and the onions are just turning brown, about 10 minutes.\n",
+    "instructions": [
+        "Preheat the oven to 350 degrees F (175 degrees C).",
+        "Mix green beans and condensed soup together in a large microwave-safe bowl until well combined. Microwave on high until warm, 3 to 5 minutes.",
+        "Stir 1/2 cup Cheddar cheese into the green bean mixture. Microwave on high for 2 to 3 minutes.",
+        "Transfer mixture to a casserole dish and spread evenly over the bottom. Sprinkle French-fried onions over top, then sprinkle with remaining Cheddar.",
+        "Bake in the preheated oven until cheese is melted and the onions are just turning brown, about 10 minutes."
+    ],
     "comments": [
         {
             "posterName": "MsAmesXoXo",
             "comment": "I tripled the recipe and only used about a cup of cheese inside and omitted adding to the top so the onions wouldn\u2019t get goopy. I added some cracked pepper too. It was a hit and so easy. I may try to test this with fresh green beans, but ultimately, this is a winner and I will most definitely make again!",
-            "rating": "5"
+            "rating": 5
         }
     ],
     "tags": []

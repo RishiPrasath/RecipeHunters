@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "These potato cakes are super easy to make for a tasty side to any meal. If you&#39;ve got leftover mashed potatoes \u2014 they&#39;re ready in just 20 minutes!",
-    "totalCarbs": "45 g",
-    "fat": "5 g",
-    "protein": "7 g",
-    "calories": "255 kcal",
+    "totalCarbs": 45,
+    "fat": 5,
+    "protein": 7,
+    "calories": 255,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -30,12 +30,15 @@
         ]
     },
     "durationToCook": "PT20M",
-    "instructions": "Mix mashed potatoes, flour, onion, egg, black pepper, and salt in a bowl until well combined, similar to a batter consistency.\nHeat vegetable oil in a skillet over medium heat. Drop 4-inch circles of batter into the hot oil. Cook until golden brown, about 4 to 5 minutes per side; drain on paper towels. Repeat with any remaining batter.\n",
+    "instructions": [
+        "Mix mashed potatoes, flour, onion, egg, black pepper, and salt in a bowl until well combined, similar to a batter consistency.",
+        "Heat vegetable oil in a skillet over medium heat. Drop 4-inch circles of batter into the hot oil. Cook until golden brown, about 4 to 5 minutes per side; drain on paper towels. Repeat with any remaining batter."
+    ],
     "comments": [
         {
             "posterName": "Sabrina Smith",
             "comment": "FLOUR? WHY?! Made a thick/doughy cake. Not appetizing. Added more potatoes to remainder to \"loosen \" it. All in all, egg is enough. NO flour necessary.",
-            "rating": "3"
+            "rating": 3
         }
     ],
     "tags": []

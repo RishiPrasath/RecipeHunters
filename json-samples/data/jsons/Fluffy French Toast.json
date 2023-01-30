@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "A small scoop of flour makes this the best French toast recipe! Thickening the batter just a little makes tender, fluffy toast and helps it brown nicely.",
-    "totalCarbs": "19 g",
-    "fat": "3 g",
-    "protein": "5 g",
-    "calories": "123 kcal",
+    "totalCarbs": 19,
+    "fat": 3,
+    "protein": 5,
+    "calories": 123,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -31,12 +31,17 @@
         ]
     },
     "durationToCook": "PT30M",
-    "instructions": "Measure flour into a large mixing bowl. Slowly whisk in milk. Whisk in eggs, sugar, vanilla extract, cinnamon, and salt until smooth.\nHeat a lightly oiled griddle or frying pan over medium heat.\nSoak bread slices in milk mixture until saturated.\nWorking in batches, cook bread on the preheated griddle or pan until golden brown on each side. Serve hot.\n",
+    "instructions": [
+        "Measure flour into a large mixing bowl. Slowly whisk in milk. Whisk in eggs, sugar, vanilla extract, cinnamon, and salt until smooth.",
+        "Heat a lightly oiled griddle or frying pan over medium heat.",
+        "Soak bread slices in milk mixture until saturated.",
+        "Working in batches, cook bread on the preheated griddle or pan until golden brown on each side. Serve hot."
+    ],
     "comments": [
         {
             "posterName": "Vicinews",
             "comment": "Truly fluffy &amp; exceptional. Used 4 days old fluffy loaf of Italian bread. Added ginger &amp; nutmeg - truly perfect",
-            "rating": "5"
+            "rating": 5
         }
     ],
     "tags": []

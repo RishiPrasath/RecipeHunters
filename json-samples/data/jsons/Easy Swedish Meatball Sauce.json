@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "This quick and easy Swedish meatball sauce turns frozen meatballs into tonight&#39;s main attraction. Serve on top of noodles or rice alongside a green salad for the perfect meal.",
-    "totalCarbs": "12 g",
-    "fat": "32 g",
-    "protein": "15 g",
-    "calories": "393 kcal",
+    "totalCarbs": 12,
+    "fat": 32,
+    "protein": 15,
+    "calories": 393,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -30,12 +30,16 @@
         ]
     },
     "durationToCook": "PT20M",
-    "instructions": "Whisk together stock, cream, flour, soy sauce, 1/2 teaspoon pepper, and 1/2 teaspoon rosemary in a large saucepan over low heat until smooth. Cook, stirring occasionally, until thickened, about 10 minutes.\nStir in thawed meatballs, and continue cooking until meatballs are heated through, about 5 more minutes. An instant-read thermometer inserted into the center of the meatballs should read at least 160 degrees F (71 degrees C).\nTaste and adjust seasonings before serving.\n",
+    "instructions": [
+        "Whisk together stock, cream, flour, soy sauce, 1/2 teaspoon pepper, and 1/2 teaspoon rosemary in a large saucepan over low heat until smooth. Cook, stirring occasionally, until thickened, about 10 minutes.",
+        "Stir in thawed meatballs, and continue cooking until meatballs are heated through, about 5 more minutes. An instant-read thermometer inserted into the center of the meatballs should read at least 160 degrees F (71 degrees C).",
+        "Taste and adjust seasonings before serving."
+    ],
     "comments": [
         {
-            "posterName": "Patricia",
-            "comment": "It was very quick and easy. Had a very good taste to it",
-            "rating": "5"
+            "posterName": "JintheSouth",
+            "comment": "This was delicious and quick. I didn\u2019t have black pepper so I used Cajun seasoning. It had a nice flavor.",
+            "rating": 5
         }
     ],
     "tags": []

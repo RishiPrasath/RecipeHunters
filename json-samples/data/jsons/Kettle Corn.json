@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "This kettle corn recipe is made on the stovetop with just three ingredients and tastes deliciously old-fashioned and straight from the county fair.",
-    "totalCarbs": "25 g",
-    "fat": "12 g",
-    "protein": "2 g",
-    "calories": "209 kcal",
+    "totalCarbs": 25,
+    "fat": 12,
+    "protein": 2,
+    "calories": 209,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -26,12 +26,16 @@
         ]
     },
     "durationToCook": "PT20M",
-    "instructions": "Heat vegetable oil in a large pot over medium heat. Stir in popcorn kernels and sugar.\nCover and shake the pot constantly to prevent sugar from burning. When popping has slowed to once every 2 to 3 seconds, remove the pot from the heat and shake for a few minutes until popping stops.\nPour popcorn into a large bowl and allow to cool, stirring occasionally to break up large clumps.\n",
+    "instructions": [
+        "Heat vegetable oil in a large pot over medium heat. Stir in popcorn kernels and sugar.",
+        "Cover and shake the pot constantly to prevent sugar from burning. When popping has slowed to once every 2 to 3 seconds, remove the pot from the heat and shake for a few minutes until popping stops.",
+        "Pour popcorn into a large bowl and allow to cool, stirring occasionally to break up large clumps."
+    ],
     "comments": [
         {
-            "posterName": "Emily",
-            "comment": "So, I, uh, used the wrong measuring cup and accidentally made a double batch. It was so SO good, hubby and I went ahead and ate the entire double batch. I recommending reading the best helpful review about the 3 seconds resting / shaking technique. Perfect! Delicious!",
-            "rating": "5"
+            "posterName": "Allrecipes Member",
+            "comment": "seeing as it's almost Valentines day, I'll add to the recipe. I grind up about 6 cinnamon hard candies in spice grinder, wait until oil &amp; corn are sizzling add the powdered candy and shake till done popping, your popcorn will have a light pink color and cinnamon flavor. HAPPY Valentines Day !",
+            "rating": 5
         }
     ],
     "tags": []

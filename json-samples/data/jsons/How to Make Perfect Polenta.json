@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "Creamy polenta is a perfect pairing for all kinds of meats, stews, and sauces. Learn how to make perfect polenta with Chef John&#39;s easy, cheesy recipe.",
-    "totalCarbs": "31 g",
-    "fat": "15 g",
-    "protein": "9 g",
-    "calories": "291 kcal",
+    "totalCarbs": 31,
+    "fat": 15,
+    "protein": 9,
+    "calories": 291,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -28,12 +28,17 @@
         ]
     },
     "durationToCook": "PT55M",
-    "instructions": "Bring water and salt to a boil in a large saucepan; pour polenta slowly into boiling water, whisking constantly until there are no lumps.\nReduce heat to low and simmer, whisking often, until polenta starts to thicken, about 5 minutes. Polenta mixture should still be slightly loose. Cover and cook for 30 minutes, whisking every 5 to 6 minutes. When polenta is too thick to whisk, stir with a wooden spoon. Polenta is done when texture is creamy and the individual grains are tender.\nTurn off heat and gently stir 2 tablespoons butter into polenta until butter partially melts; mix 1/2 cup Parmigiano-Reggiano cheese into polenta until cheese has melted. Cover and let stand for 5 minutes to thicken.\nStir polenta and transfer to a serving bowl. Top polenta with remaining 1 tablespoon butter and about 1 tablespoon freshly grated Parmigiano-Reggiano cheese for garnish.\n",
+    "instructions": [
+        "Bring water and salt to a boil in a large saucepan; pour polenta slowly into boiling water, whisking constantly until there are no lumps.",
+        "Reduce heat to low and simmer, whisking often, until polenta starts to thicken, about 5 minutes. Polenta mixture should still be slightly loose. Cover and cook for 30 minutes, whisking every 5 to 6 minutes. When polenta is too thick to whisk, stir with a wooden spoon. Polenta is done when texture is creamy and the individual grains are tender.",
+        "Turn off heat and gently stir 2 tablespoons butter into polenta until butter partially melts; mix 1/2 cup Parmigiano-Reggiano cheese into polenta until cheese has melted. Cover and let stand for 5 minutes to thicken.",
+        "Stir polenta and transfer to a serving bowl. Top polenta with remaining 1 tablespoon butter and about 1 tablespoon freshly grated Parmigiano-Reggiano cheese for garnish."
+    ],
     "comments": [
         {
             "posterName": "Allrecipes Member",
             "comment": "This was super delicious and the instructions were so helpful! Will definitely be making this again!",
-            "rating": "5"
+            "rating": 5
         }
     ],
     "tags": []

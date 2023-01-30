@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "Sweet and sour sauce made with sugar, vinegar, soy sauce, and ketchup. Delicious with meatballs and rice or a dipping sauce for spring rolls.",
-    "totalCarbs": "11 g",
-    "fat": null,
-    "protein": "0 g",
-    "calories": "43 kcal",
+    "totalCarbs": 0,
+    "fat": 0,
+    "protein": 0,
+    "calories": 0,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -29,12 +29,14 @@
         ]
     },
     "durationToCook": "PT15M",
-    "instructions": "Place sugar, water, vinegar, soy sauce, cornstarch, and ketchup in a medium saucepan and bring to a boil. Stir continuously until mixture has thickened.\n",
+    "instructions": [
+        "Place sugar, water, vinegar, soy sauce, cornstarch, and ketchup in a medium saucepan and bring to a boil. Stir continuously until mixture has thickened."
+    ],
     "comments": [
         {
             "posterName": "Allrecipes Member",
             "comment": "Easily found these ingredients in the pantry for a quick sweet n sour sauce. Not bad, I'd make it again when I run out of bottled plum/sweet n sour sauce.",
-            "rating": "4"
+            "rating": 4
         }
     ],
     "tags": []

@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "This Mexican rice recipe is simple to make by simmering cumin-seasoned rice in tomato sauce and chicken broth for a restaurant-style side dish.",
-    "totalCarbs": "42 g",
-    "fat": "11 g",
-    "protein": "5 g",
-    "calories": "291 kcal",
+    "totalCarbs": 42,
+    "fat": 11,
+    "protein": 5,
+    "calories": 291,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -30,12 +30,15 @@
         ]
     },
     "durationToCook": "PT30M",
-    "instructions": "Heat oil in a large saucepan over medium heat. Add rice and season with garlic salt and cumin; cook, stirring constantly, until puffed and golden.\nAdd onion; cook and stir until onion has softened. Stir in chicken broth and tomato sauce; bring to a boil. Reduce heat to low, cover, and simmer for 20 to 25 minutes. Fluff rice with a fork.\n",
+    "instructions": [
+        "Heat oil in a large saucepan over medium heat. Add rice and season with garlic salt and cumin; cook, stirring constantly, until puffed and golden.",
+        "Add onion; cook and stir until onion has softened. Stir in chicken broth and tomato sauce; bring to a boil. Reduce heat to low, cover, and simmer for 20 to 25 minutes. Fluff rice with a fork."
+    ],
     "comments": [
         {
-            "posterName": "Allrecipes Member",
-            "comment": "This is a very good and easy way to make restaurant style mexican rice. Flavorful and delicious. It uses more liquid than I am used to, but with time, it makes very good rice.",
-            "rating": "4"
+            "posterName": "mwhite0124",
+            "comment": "Loved it, It was flavorful",
+            "rating": 5
         }
     ],
     "tags": []

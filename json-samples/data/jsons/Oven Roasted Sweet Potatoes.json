@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "Perfectly cooked, roasted sweet potatoes with caramelized onion and garlic are finished with a drizzle of balsamic vinegar in this delicious recipe.",
-    "totalCarbs": "31 g",
-    "fat": "10 g",
-    "protein": "3 g",
-    "calories": "224 kcal",
+    "totalCarbs": 31,
+    "fat": 10,
+    "protein": 3,
+    "calories": 224,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -29,12 +29,17 @@
         ]
     },
     "durationToCook": "PT40M",
-    "instructions": "Preheat the oven to 425 degrees F (220 degrees C).\nMix sweet potatoes, onion, and garlic in a bowl. Drizzle olive oil over the mixture and toss to coat; pour into a shallow roasting pan.\nRoast sweet potato mixture in the preheated oven, turning frequently, until the vegetables are soft and golden brown, 30 to 35 minutes.\nRemove from the oven. Drizzle balsamic vinegar over the vegetables; season with salt and pepper.\n",
+    "instructions": [
+        "Preheat the oven to 425 degrees F (220 degrees C).",
+        "Mix sweet potatoes, onion, and garlic in a bowl. Drizzle olive oil over the mixture and toss to coat; pour into a shallow roasting pan.",
+        "Roast sweet potato mixture in the preheated oven, turning frequently, until the vegetables are soft and golden brown, 30 to 35 minutes.",
+        "Remove from the oven. Drizzle balsamic vinegar over the vegetables; season with salt and pepper."
+    ],
     "comments": [
         {
             "posterName": "Shelly Venema",
             "comment": "Three adults in my house enjoyed these potatoes tonight. We would not change a thing! No leftovers. Mmmm....",
-            "rating": "5"
+            "rating": 5
         }
     ],
     "tags": []
