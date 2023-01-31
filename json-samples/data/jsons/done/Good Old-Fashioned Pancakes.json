@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "This easy pancake recipe makes delicious, fluffy homemade pancakes from scratch with basic ingredients you probably already have in your pantry!",
-    "totalCarbs": "22 g",
-    "fat": "6 g",
-    "protein": "5 g",
-    "calories": "158 kcal",
+    "totalCarbs": 22,
+    "fat": 6,
+    "protein": 5,
+    "calories": 158,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -30,12 +30,15 @@
         ]
     },
     "durationToCook": "PT20M",
-    "instructions": "Sift flour, baking powder, sugar, and salt together in a large bowl. Make a well in the center and add milk, melted butter, and egg; mix until smooth.\nHeat a lightly oiled griddle or pan over medium-high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake; cook until bubbles form and the edges are dry, about 2 to 3 minutes. Flip and cook until browned on the other side. Repeat with remaining batter.\n",
+    "instructions": [
+        "Sift flour, baking powder, sugar, and salt together in a large bowl. Make a well in the center and add milk, melted butter, and egg; mix until smooth.",
+        "Heat a lightly oiled griddle or pan over medium-high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake; cook until bubbles form and the edges are dry, about 2 to 3 minutes. Flip and cook until browned on the other side. Repeat with remaining batter."
+    ],
     "comments": [
         {
-            "posterName": "Allrecipes Member",
-            "comment": "I didn't have dairy milk, so I used .5c half and half, .5c soy milk, and .25c homeade yogurt. Turned out great. Next time I'll try all yogurt instead of using milk.",
-            "rating": "4"
+            "posterName": "SilverFox",
+            "comment": "Made as written with the exception of adding blueberries. The pancakes were amazing thick and fluffy. Not heavy. Easy and quick.",
+            "rating": 5
         }
     ],
     "tags": []

@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "Caldo de pollo is a simple but richly-flavored chicken soup that&#39;s packed with vegetables and seasoned with garlic and lots of fresh cilantro.",
-    "totalCarbs": "42 g",
-    "fat": "25 g",
-    "protein": "52 g",
-    "calories": "606 kcal",
+    "totalCarbs": 42,
+    "fat": 25,
+    "protein": 52,
+    "calories": 606,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -35,12 +35,17 @@
         ]
     },
     "durationToCook": "PT130M",
-    "instructions": "Place chicken legs into a large stockpot; pour water over chicken. Add minced garlic, salt, and garlic powder.\nCover and bring to a boil over high heat. Reduce to a simmer and cook until chicken meat falls off the bones, 1 to 2 hours.\nStir in chicken bouillon cube until dissolved; add carrots, potatoes, zucchini, chayote, and white onion. Reduce heat to medium-low and simmer until carrots and potatoes are tender, 45 minutes to 1 hour.\nStir chopped cilantro into soup. Simmer for 5 minutes and serve.\n",
+    "instructions": [
+        "Place chicken legs into a large stockpot; pour water over chicken. Add minced garlic, salt, and garlic powder.",
+        "Cover and bring to a boil over high heat. Reduce to a simmer and cook until chicken meat falls off the bones, 1 to 2 hours.",
+        "Stir in chicken bouillon cube until dissolved; add carrots, potatoes, zucchini, chayote, and white onion. Reduce heat to medium-low and simmer until carrots and potatoes are tender, 45 minutes to 1 hour.",
+        "Stir chopped cilantro into soup. Simmer for 5 minutes and serve."
+    ],
     "comments": [
         {
             "posterName": "Allrecipes Member",
             "comment": "Tasty!",
-            "rating": "5"
+            "rating": 5
         }
     ],
     "tags": []

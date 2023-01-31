@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "This beef stir-fry is quick and easy for busy weeknights. Thin slices of beef sirloin are stir-fried with colorful vegetables and soy sauce.",
-    "totalCarbs": "9 g",
-    "fat": "16 g",
-    "protein": "23 g",
-    "calories": "268 kcal",
+    "totalCarbs": 9,
+    "fat": 16,
+    "protein": 23,
+    "calories": 268,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -32,12 +32,15 @@
         ]
     },
     "durationToCook": "PT25M",
-    "instructions": "Heat vegetable oil in a large wok or skillet over medium-high heat; cook and stir beef until browned, 3 to 4 minutes. Move beef to the side of the wok and add broccoli, bell pepper, carrots, green onion, and garlic to the center of the wok. Cook and stir vegetables for 2 minutes.\nStir beef into vegetables and season with soy sauce and sesame seeds. Continue to cook and stir until vegetables are tender, about 2 more minutes.\n",
+    "instructions": [
+        "Heat vegetable oil in a large wok or skillet over medium-high heat; cook and stir beef until browned, 3 to 4 minutes. Move beef to the side of the wok and add broccoli, bell pepper, carrots, green onion, and garlic to the center of the wok. Cook and stir vegetables for 2 minutes.",
+        "Stir beef into vegetables and season with soy sauce and sesame seeds. Continue to cook and stir until vegetables are tender, about 2 more minutes."
+    ],
     "comments": [
         {
             "posterName": "Allrecipes Member",
             "comment": "It was very easy and yummy!",
-            "rating": "5"
+            "rating": 5
         }
     ],
     "tags": []

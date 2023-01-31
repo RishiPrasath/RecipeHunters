@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "Bacon and garlic are the secret ingredients in this green beans dish that&#39;s sure to become a Thanksgiving favorite or even on your weeknight dinner table.",
-    "totalCarbs": "9 g",
-    "fat": "17 g",
-    "protein": "3 g",
-    "calories": "189 kcal",
+    "totalCarbs": 9,
+    "fat": 17,
+    "protein": 3,
+    "calories": 189,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -28,12 +28,16 @@
         ]
     },
     "durationToCook": "PT35M",
-    "instructions": "Place green beans in a pot and cover with water; bring to a boil. Reduce heat to medium-low and simmer until beans start to soften, about 10 minutes. Drain water, leaving beans in the pot.\nPlace bacon strips on a microwave-safe plate and cook in the microwave until crisp, about 2 minutes. Cool and crumble bacon.\nStir butter and bacon into beans in the pot and return to medium heat; cook and stir until butter melts, 2 to 3 minutes. Add garlic; cook and stir until fragrant, 3 to 4 minutes. Top with lemon zest and stir.\n",
+    "instructions": [
+        "Place green beans in a pot and cover with water; bring to a boil. Reduce heat to medium-low and simmer until beans start to soften, about 10 minutes. Drain water, leaving beans in the pot.",
+        "Place bacon strips on a microwave-safe plate and cook in the microwave until crisp, about 2 minutes. Cool and crumble bacon.",
+        "Stir butter and bacon into beans in the pot and return to medium heat; cook and stir until butter melts, 2 to 3 minutes. Add garlic; cook and stir until fragrant, 3 to 4 minutes. Top with lemon zest and stir."
+    ],
     "comments": [
         {
             "posterName": "Diane Hamill",
             "comment": "Loved It!\n\nMade for Christmas dinner everyone loved it! It was easy. I did put in extra garlic but we love garlic!!",
-            "rating": "5"
+            "rating": 5
         }
     ],
     "tags": []

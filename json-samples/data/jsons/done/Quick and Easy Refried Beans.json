@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "This easy refried beans recipe is made with pinto beans, garlic, spices, and lime in just 20 minutes. Perfect for Taco Tuesdays or any weeknight!",
-    "totalCarbs": "16 g",
-    "fat": "6 g",
-    "protein": "5 g",
-    "calories": "132 kcal",
+    "totalCarbs": 16,
+    "fat": 6,
+    "protein": 5,
+    "calories": 132,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -30,12 +30,17 @@
         ]
     },
     "durationToCook": "PT20M",
-    "instructions": "Heat canola oil in a heavy skillet over medium heat.\nCook garlic cloves in hot oil, turning once, until brown on both sides, 4 to 5 minutes. Smash garlic cloves in the skillet with a fork.\nStir pinto beans, cumin, chili powder, and salt into mashed garlic and cook until beans are thoroughly heated, about 5 minutes. Stir occasionally.\nSmash bean mixture with a potato masher to desired texture. Squeeze lime juice over smashed beans and stir until combined.\n",
+    "instructions": [
+        "Heat canola oil in a heavy skillet over medium heat.",
+        "Cook garlic cloves in hot oil, turning once, until brown on both sides, 4 to 5 minutes. Smash garlic cloves in the skillet with a fork.",
+        "Stir pinto beans, cumin, chili powder, and salt into mashed garlic and cook until beans are thoroughly heated, about 5 minutes. Stir occasionally.",
+        "Smash bean mixture with a potato masher to desired texture. Squeeze lime juice over smashed beans and stir until combined."
+    ],
     "comments": [
         {
             "posterName": "Allrecipes Member",
             "comment": "Awesome, thank you!! I never knew how easy it was to make these. I halved the recipe and used minced garlic instead of cloves, and added cayenne. Turned out perfect. I drained 90% of bean juice.",
-            "rating": "5"
+            "rating": 5
         }
     ],
     "tags": []

@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "This biscuits and gravy recipe with refrigerated jumbo biscuits and homemade creamy sausage gravy is ready in just 15 minutes for a hearty breakfast.",
-    "totalCarbs": "31 g",
-    "fat": "19 g",
-    "protein": "10 g",
-    "calories": "333 kcal",
+    "totalCarbs": 31,
+    "fat": 19,
+    "protein": 10,
+    "calories": 333,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -28,12 +28,17 @@
         ]
     },
     "durationToCook": "PT15M",
-    "instructions": "Preheat the oven to 350 degrees F (175 degrees C). Arrange biscuits 1 to 2 inches apart on an ungreased cookie sheet. Bake in the preheated oven until golden brown, about 13 to 15 minutes.\nMeanwhile, cook sausage in a large skillet over medium heat until thoroughly heated, stirring frequently, about 5 to 6 minutes.\nStir in flour until well combined. Gradually add milk, stirring continuously, until the gravy thickens and comes to a boil. Reduce heat to medium-low; simmer and stir for 2 more minutes. Season to taste with salt and pepper.\nSplit biscuits in half. Place 2 halves on each of 8 plates; top with about 1/3 cup gravy.\n",
+    "instructions": [
+        "Preheat the oven to 350 degrees F (175 degrees C). Arrange biscuits 1 to 2 inches apart on an ungreased cookie sheet. Bake in the preheated oven until golden brown, about 13 to 15 minutes.",
+        "Meanwhile, cook sausage in a large skillet over medium heat until thoroughly heated, stirring frequently, about 5 to 6 minutes.",
+        "Stir in flour until well combined. Gradually add milk, stirring continuously, until the gravy thickens and comes to a boil. Reduce heat to medium-low; simmer and stir for 2 more minutes. Season to taste with salt and pepper.",
+        "Split biscuits in half. Place 2 halves on each of 8 plates; top with about 1/3 cup gravy."
+    ],
     "comments": [
         {
             "posterName": "Allrecipes Member",
             "comment": "Super easy recipe. I did a few tweaks, added 1 1/2 Tablespoons of butter &amp; along with the pepper/salt, onion powder to taste. I used turkey (10) round sausage patties that I tore up after I defrosted. For the flour I used a salad dressing shaker along with the milk before adding it to the sausage so I could ensure no lumps. Lastly used 1% milk. Husband loved it and much healthier than what you get at a restaurant.",
-            "rating": "5"
+            "rating": 5
         }
     ],
     "tags": []

@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "In this easy Indian chicken curry chicken breasts are slowly simmered in a spicy curry sauce with yogurt, tomatoes, onion, garlic, and ginger.",
-    "totalCarbs": "15 g",
-    "fat": "24 g",
-    "protein": "38 g",
-    "calories": "427 kcal",
+    "totalCarbs": 15,
+    "fat": 24,
+    "protein": 38,
+    "calories": 427,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -43,12 +43,18 @@
         ]
     },
     "durationToCook": "PT60M",
-    "instructions": "Sprinkle the chicken breasts with 2 teaspoons salt.\nHeat oil in a large skillet over high heat; partially cook the chicken in the hot oil in batches until completely browned on all sides. Transfer browned chicken breasts to a plate and set aside.\nReduce the heat to medium and add onion, garlic, and ginger to the oil remaining in the skillet. Cook and stir until onion turns soft and translucent, 5 to 8 minutes. Stir curry powder, cumin, turmeric, coriander, cayenne, and 1 tablespoon of water into the onion mixture; allow to heat together for about 1 minute while stirring. Add tomatoes, yogurt, 1 tablespoon chopped cilantro, and 1 teaspoon salt to the mixture; stir to combine.\nReturn chicken breast to the skillet along with any juices on the plate. Pour in 1/2 cup water and bring to a boil, turning the chicken to coat with the sauce. Sprinkle garam masala and 1 tablespoon cilantro over the chicken.\nCover the skillet and simmer until chicken breasts are no longer pink in the center and the juices run clear, about 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Drizzle with lemon juice to serve.\n",
+    "instructions": [
+        "Sprinkle the chicken breasts with 2 teaspoons salt.",
+        "Heat oil in a large skillet over high heat; partially cook the chicken in the hot oil in batches until completely browned on all sides. Transfer browned chicken breasts to a plate and set aside.",
+        "Reduce the heat to medium and add onion, garlic, and ginger to the oil remaining in the skillet. Cook and stir until onion turns soft and translucent, 5 to 8 minutes. Stir curry powder, cumin, turmeric, coriander, cayenne, and 1 tablespoon of water into the onion mixture; allow to heat together for about 1 minute while stirring. Add tomatoes, yogurt, 1 tablespoon chopped cilantro, and 1 teaspoon salt to the mixture; stir to combine.",
+        "Return chicken breast to the skillet along with any juices on the plate. Pour in 1/2 cup water and bring to a boil, turning the chicken to coat with the sauce. Sprinkle garam masala and 1 tablespoon cilantro over the chicken.",
+        "Cover the skillet and simmer until chicken breasts are no longer pink in the center and the juices run clear, about 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Drizzle with lemon juice to serve."
+    ],
     "comments": [
         {
             "posterName": "Allrecipes Member",
             "comment": "I love this recipe!!! This curry is a staple iny home and I have cooked it soooo many times for my family. The only differences I make in my recipe are that I dice my chicken, I do not add the extra water, I use coconut milk instead of yogurt, and I add diced green chiles. I also use about half the cayenne pepper called for because I cook for little ones. Tonight I didn't have tumeric and subbed that with smoked paprika and it still came out super delicious!!",
-            "rating": "5"
+            "rating": 5
         }
     ],
     "tags": []

@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "Sausage balls are a versatile dish. Serve these savory, Cheddar-filled sausage nibbles for breakfast or brunch or as a game-day or holiday appetizer.",
-    "totalCarbs": "11 g",
-    "fat": "19 g",
-    "protein": "13 g",
-    "calories": "264 kcal",
+    "totalCarbs": 11,
+    "fat": 19,
+    "protein": 13,
+    "calories": 264,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -26,12 +26,16 @@
         ]
     },
     "durationToCook": "PT30M",
-    "instructions": "Preheat the oven to 350 degrees F (175 degrees C).\nCombine room temperature sausage and biscuit mix in a large bowl; mix with your hands until well combined. Add shredded Cheddar cheese and mix until fully incorporated. Roll mixture into about 30 walnut-sized balls; transfer to a baking sheet.\nBake in the preheated oven until golden brown and sausage is cooked through, 20 to 25 minutes.\n",
+    "instructions": [
+        "Preheat the oven to 350 degrees F (175 degrees C).",
+        "Combine room temperature sausage and biscuit mix in a large bowl; mix with your hands until well combined. Add shredded Cheddar cheese and mix until fully incorporated. Roll mixture into about 30 walnut-sized balls; transfer to a baking sheet.",
+        "Bake in the preheated oven until golden brown and sausage is cooked through, 20 to 25 minutes."
+    ],
     "comments": [
         {
             "posterName": "Allrecipes Member",
             "comment": "followed recipe to the letter and will not make again. Cheese melted and puddled around balls and created a greasy mess with the sausage grease. Barely passable taste even the dogs turned their noses up.",
-            "rating": "1"
+            "rating": 1
         }
     ],
     "tags": []

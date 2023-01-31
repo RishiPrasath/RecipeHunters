@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "Fresh green beans are saut\u00e9ed in a skillet with a few seasonings, making a quick and easy side dish that pairs beautifully with any meal you&#39;re serving.",
-    "totalCarbs": "7 g",
-    "fat": "5 g",
-    "protein": "2 g",
-    "calories": "74 kcal",
+    "totalCarbs": 7,
+    "fat": 5,
+    "protein": 2,
+    "calories": 74,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -29,12 +29,14 @@
         ]
     },
     "durationToCook": "PT10M",
-    "instructions": "Heat olive oil in a skillet over medium heat. Add green beans, onion salt, garlic salt, garlic powder, and black pepper; cook and stir until desired tenderness is reached, 5 to 10 minutes.\n",
+    "instructions": [
+        "Heat olive oil in a skillet over medium heat. Add green beans, onion salt, garlic salt, garlic powder, and black pepper; cook and stir until desired tenderness is reached, 5 to 10 minutes."
+    ],
     "comments": [
         {
             "posterName": "Allrecipes Member",
             "comment": "Best. Green been. Recipe. Ever! I have made this for friends and family and they all love it.",
-            "rating": "5"
+            "rating": 5
         }
     ],
     "tags": []

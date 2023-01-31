@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "These easy baked chicken thighs, seasoned with onion and garlic, take just 30 minutes to bake in the oven for a quick and delicious weeknight meal.",
-    "totalCarbs": "3 g",
-    "fat": "8 g",
-    "protein": "20 g",
-    "calories": "162 kcal",
+    "totalCarbs": 3,
+    "fat": 8,
+    "protein": 20,
+    "calories": 162,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -26,12 +26,16 @@
         ]
     },
     "durationToCook": "PT35M",
-    "instructions": "Preheat the oven to 375 degrees F (190 degrees C).\nPlace chicken thighs in a baking dish; season both sides with garlic powder and onion flakes.\nBake in the preheated oven until no longer pink at the bone and juices run clear, about 30 minutes. An instant-read thermometer inserted into thickest part of thigh, near the bone, should read 165 degrees F (74 degrees C).\n",
+    "instructions": [
+        "Preheat the oven to 375 degrees F (190 degrees C).",
+        "Place chicken thighs in a baking dish; season both sides with garlic powder and onion flakes.",
+        "Bake in the preheated oven until no longer pink at the bone and juices run clear, about 30 minutes. An instant-read thermometer inserted into thickest part of thigh, near the bone, should read 165 degrees F (74 degrees C)."
+    ],
     "comments": [
         {
             "posterName": "Allrecipes Member",
             "comment": "Baked at 425 for 45 minutes on foil-lined cookie sheet sprayed with cooking spray. Sprayed each thigh with I Can\u2019t Believe It\u2019s Not Butter and sprinkled with salt, pepper, garlic powder, onion powder, chile powder. Skin was crispy and meat was moist and flavorful. Delish!",
-            "rating": "4"
+            "rating": 4
         }
     ],
     "tags": []

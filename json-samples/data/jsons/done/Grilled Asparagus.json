@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "Grilled asparagus is easy to make in a matter of minutes for a simple summer side dish that allows the natural flavor of asparagus to shine.",
-    "totalCarbs": "4 g",
-    "fat": "4 g",
-    "protein": "3 g",
-    "calories": "53 kcal",
+    "totalCarbs": 4,
+    "fat": 4,
+    "protein": 3,
+    "calories": 53,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -26,12 +26,16 @@
         ]
     },
     "durationToCook": "PT15M",
-    "instructions": "Preheat an outdoor grill for high heat and lightly oil the grate.\nLightly coat the asparagus spears with olive oil. Season with salt and pepper to taste.\nCook asparagus on the preheated grill, turning often until lightly charred and fork-tender about 3 to 5 minutes.\n",
+    "instructions": [
+        "Preheat an outdoor grill for high heat and lightly oil the grate.",
+        "Lightly coat the asparagus spears with olive oil. Season with salt and pepper to taste.",
+        "Cook asparagus on the preheated grill, turning often until lightly charred and fork-tender about 3 to 5 minutes."
+    ],
     "comments": [
         {
-            "posterName": "Allrecipes Member",
-            "comment": "It was excellent! I also added garlic salt. \ud83d\ude0b",
-            "rating": "5"
+            "posterName": "Kevin",
+            "comment": "Easy to make and quick. I made it with some lemon juice, parmesan, garlic powder, and balsamic vinegar as well as mentioned in the comments. Simple, yet tasty and clean.",
+            "rating": 4
         }
     ],
     "tags": []

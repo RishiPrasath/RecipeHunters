@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "Baked egg casserole that&#39;s super easy to make and delicious. Beaten eggs are baked with Cheddar cheese, bell pepper, bacon, green onions, and garlic.",
-    "totalCarbs": "9 g",
-    "fat": "23 g",
-    "protein": "23 g",
-    "calories": "340 kcal",
+    "totalCarbs": 9,
+    "fat": 23,
+    "protein": 23,
+    "calories": 340,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -32,12 +32,16 @@
         ]
     },
     "durationToCook": "PT35M",
-    "instructions": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish.\nMix eggs, cheese, bacon, bread, red bell pepper, green onion, milk, garlic, salt, and black pepper together in a bowl until well-combined; pour into the prepared baking dish.\nBake in the preheated oven until eggs are set, about 20 to 25 minutes.\n",
+    "instructions": [
+        "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish.",
+        "Mix eggs, cheese, bacon, bread, red bell pepper, green onion, milk, garlic, salt, and black pepper together in a bowl until well-combined; pour into the prepared baking dish.",
+        "Bake in the preheated oven until eggs are set, about 20 to 25 minutes."
+    ],
     "comments": [
         {
             "posterName": "Allrecipes Member",
             "comment": "It was easy to make and you can substitute it with any kind of meat and cheese. Just enough for three adults or 2 adults and two grandkids. Little granddaughters loved it. Thanks for the recipe. A &amp;D",
-            "rating": "5"
+            "rating": 5
         }
     ],
     "tags": []

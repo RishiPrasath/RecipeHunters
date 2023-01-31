@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "Roasted broccoli florets and broccoli stems are cooked with just olive oil, salt, and pepper. So much more flavorsome than boiled or steamed broccoli!",
-    "totalCarbs": "7 g",
-    "fat": "4 g",
-    "protein": "3 g",
-    "calories": "63 kcal",
+    "totalCarbs": 7,
+    "fat": 4,
+    "protein": 3,
+    "calories": 63,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -26,12 +26,16 @@
         ]
     },
     "durationToCook": "PT30M",
-    "instructions": "Preheat the oven to 400 degrees F (200 degrees C).\nCut broccoli florets from the stalk. Peel the stalk and slice into 1/4-inch slices. Mix florets and stem pieces with olive oil in a bowl and transfer to a baking sheet; season with salt and pepper.\nRoast in the preheated oven until broccoli is tender and lightly browned, about 18 to 20 minutes.\n",
+    "instructions": [
+        "Preheat the oven to 400 degrees F (200 degrees C).",
+        "Cut broccoli florets from the stalk. Peel the stalk and slice into 1/4-inch slices. Mix florets and stem pieces with olive oil in a bowl and transfer to a baking sheet; season with salt and pepper.",
+        "Roast in the preheated oven until broccoli is tender and lightly browned, about 18 to 20 minutes."
+    ],
     "comments": [
         {
             "posterName": "Allrecipes Member",
             "comment": "Delicious! Would not reccomend the salt at the end if you use a rich butter like Kerrygold.",
-            "rating": "5"
+            "rating": 5
         }
     ],
     "tags": []

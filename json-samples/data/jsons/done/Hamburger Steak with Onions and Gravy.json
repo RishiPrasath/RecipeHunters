@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "These tasty hamburger &#34;steaks&#34; are smothered in gravy and onions. It&#39;s a great way to dress up a pound of ground beef using easy ingredients.",
-    "totalCarbs": "14 g",
-    "fat": "19 g",
-    "protein": "23 g",
-    "calories": "319 kcal",
+    "totalCarbs": 14,
+    "fat": 19,
+    "protein": 23,
+    "calories": 319,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -37,12 +37,17 @@
         ]
     },
     "durationToCook": "PT40M",
-    "instructions": "Mix ground beef, bread crumbs, egg, Worcestershire sauce, salt, onion powder, garlic powder, and pepper together in a large bowl until combined. Form into 8 balls and flatten into patties.\nHeat oil in a large skillet over medium heat. Add patties and onion; fry until patties are nicely browned, about 4 minutes per side. Transfer beef patties to a plate, and keep warm.\nSprinkle flour over onions and drippings in the skillet. Stir in flour with a fork, scraping bits of beef off of the bottom of the skillet as you stir. Gradually mix in beef broth and sherry. Season with seasoned salt. Simmer and stir over medium-low heat until gravy thickens, about 5 minutes.\nReduce heat to low, return patties to the gravy, cover, and simmer until cooked through, about 15 minutes.\n",
+    "instructions": [
+        "Mix ground beef, bread crumbs, egg, Worcestershire sauce, salt, onion powder, garlic powder, and pepper together in a large bowl until combined. Form into 8 balls and flatten into patties.",
+        "Heat oil in a large skillet over medium heat. Add patties and onion; fry until patties are nicely browned, about 4 minutes per side. Transfer beef patties to a plate, and keep warm.",
+        "Sprinkle flour over onions and drippings in the skillet. Stir in flour with a fork, scraping bits of beef off of the bottom of the skillet as you stir. Gradually mix in beef broth and sherry. Season with seasoned salt. Simmer and stir over medium-low heat until gravy thickens, about 5 minutes.",
+        "Reduce heat to low, return patties to the gravy, cover, and simmer until cooked through, about 15 minutes."
+    ],
     "comments": [
         {
             "posterName": "Carol Anne ",
             "comment": "Very good. Reminds me of 1970\u2019s diner food but better. My husband loved it! I took other reviewer\u2018s suggestions and doubled the gravy and onion . I didn\u2019t have Sherry so I substituted white wine. Thank you for the recipe. Will make again!",
-            "rating": "5"
+            "rating": 5
         }
     ],
     "tags": []

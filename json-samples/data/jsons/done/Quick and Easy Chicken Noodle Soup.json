@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "This easy chicken noodle soup recipe made with veggies and leftover chicken is warm, comforting, and ready to ladle into bowls in just over 30 minutes.",
-    "totalCarbs": "12 g",
-    "fat": "6 g",
-    "protein": "13 g",
-    "calories": "162 kcal",
+    "totalCarbs": 12,
+    "fat": 6,
+    "protein": 13,
+    "calories": 162,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -34,12 +34,16 @@
         ]
     },
     "durationToCook": "PT40M",
-    "instructions": "Melt butter in a large pot over medium heat. Add onion and celery and cook until just tender, about 5 minutes.\nAdd chicken broth, vegetable broth, chicken, egg noodles, carrots, basil, oregano, salt, and pepper. Stir to combine and bring to a boil.\nReduce heat and simmer for 20 minutes.\n",
+    "instructions": [
+        "Melt butter in a large pot over medium heat. Add onion and celery and cook until just tender, about 5 minutes.",
+        "Add chicken broth, vegetable broth, chicken, egg noodles, carrots, basil, oregano, salt, and pepper. Stir to combine and bring to a boil.",
+        "Reduce heat and simmer for 20 minutes."
+    ],
     "comments": [
         {
-            "posterName": "Penny Kay",
-            "comment": "I used this recipe as my base, then I added a package of frozen soup veggies with Tyson's Grilled &amp; Ready Oven Roasted Diced Chicken Breast. I followed the instructions for the soup veggies and served it with crackers. It was especially enjoyed by the extremely picky eaters in the household.",
-            "rating": "4"
+            "posterName": "Ameer Mutazammil",
+            "comment": "Whats the serving size for calorie counters?",
+            "rating": 3
         }
     ],
     "tags": []

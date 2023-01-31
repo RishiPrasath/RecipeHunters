@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "This applesauce recipe is easy to make from scratch with apples, sugar, and cinnamon for a delicious topping on pancakes, ice cream, or pork chops.",
-    "totalCarbs": "32 g",
-    "fat": "0 g",
-    "protein": "0 g",
-    "calories": "121 kcal",
+    "totalCarbs": 32,
+    "fat": 0,
+    "protein": 0,
+    "calories": 121,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -27,12 +27,15 @@
         ]
     },
     "durationToCook": "PT25M",
-    "instructions": "Combine apples, water, sugar, and cinnamon in a saucepan; cover and cook over medium heat until apples are soft, about 15 to 20 minutes.\nAllow apple mixture to cool, then mash with a fork or potato masher until it is the consistency you like.\n",
+    "instructions": [
+        "Combine apples, water, sugar, and cinnamon in a saucepan; cover and cook over medium heat until apples are soft, about 15 to 20 minutes.",
+        "Allow apple mixture to cool, then mash with a fork or potato masher until it is the consistency you like."
+    ],
     "comments": [
         {
-            "posterName": "Allrecipes Member",
-            "comment": "Love it and simple process. Thank you. I will rate this for 5 stars!",
-            "rating": "5"
+            "posterName": "tinaearle-antoine",
+            "comment": "So good \ud83d\ude0a ty",
+            "rating": 5
         }
     ],
     "tags": []

@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "Learn how to cook asparagus on the stove by pan-frying it in butter with olive oil and garlic for a flavorsome, family-pleasing vegetable side dish.",
-    "totalCarbs": "5 g",
-    "fat": "18 g",
-    "protein": "3 g",
-    "calories": "188 kcal",
+    "totalCarbs": 5,
+    "fat": 18,
+    "protein": 3,
+    "calories": 188,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -29,12 +29,15 @@
         ]
     },
     "durationToCook": "PT20M",
-    "instructions": "Melt butter in a skillet over medium-high heat. Add olive oil, salt, and pepper; cook and stir until garlic is fragrant, about 30 seconds.\nAdd asparagus and cook until fork-tender, turning asparagus often to ensure even cooking, about 10 minutes.\n",
+    "instructions": [
+        "Melt butter in a skillet over medium-high heat. Add olive oil, salt, and pepper; cook and stir until garlic is fragrant, about 30 seconds.",
+        "Add asparagus and cook until fork-tender, turning asparagus often to ensure even cooking, about 10 minutes."
+    ],
     "comments": [
         {
-            "posterName": "Allrecipes Member",
-            "comment": "Sprinkle some parmesan cheese on it within the last two minutes and it will brown and crumble and add more flavor and a really good crunch with the taste",
-            "rating": "5"
+            "posterName": "Kimakazee Beckwith",
+            "comment": "A little olive oil helps the butter not burn during cooking. I used a lower medium heat and they were really good! Firm and green and cooked thru.",
+            "rating": 5
         }
     ],
     "tags": []

@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "This ground beef stroganoff recipe made with basic pantry items is rich and creamy, super simple to prepare, and ready to serve in under 30 minutes.",
-    "totalCarbs": "48 g",
-    "fat": "41 g",
-    "protein": "29 g",
-    "calories": "679 kcal",
+    "totalCarbs": 48,
+    "fat": 41,
+    "protein": 29,
+    "calories": 679,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -29,12 +29,18 @@
         ]
     },
     "durationToCook": "PT20M",
-    "instructions": "Gather all ingredients.\nSaute ground beef in a large skillet over medium heat until browned and crumbly; 5 to 10 minutes.\nAt the same time, fill a large pot with lightly salted water and bring to a rapid boil. Cook egg noodles at a boil until tender yet firm to the bite, 7 to 9 minutes. Drain and set aside.\nDrain and discard any fat from the cooked beef. Stir condensed soup and garlic powder into the beef. Simmer for 10 minutes, stirring occasionally.\nRemove beef from the heat. Add egg noodles and stir to combine. Stir in sour cream and season with salt and pepper.\n",
+    "instructions": [
+        "Gather all ingredients.",
+        "Saute ground beef in a large skillet over medium heat until browned and crumbly; 5 to 10 minutes.",
+        "At the same time, fill a large pot with lightly salted water and bring to a rapid boil. Cook egg noodles at a boil until tender yet firm to the bite, 7 to 9 minutes. Drain and set aside.",
+        "Drain and discard any fat from the cooked beef. Stir condensed soup and garlic powder into the beef. Simmer for 10 minutes, stirring occasionally.",
+        "Remove beef from the heat. Add egg noodles and stir to combine. Stir in sour cream and season with salt and pepper."
+    ],
     "comments": [
         {
             "posterName": "gigi331",
             "comment": "Quick and easy! I thought 1 Tbsp garlic powder would be too much. It was perfect. Added 1/2 Tbsp onion powder as well and subbed Greek yogurt for sour cream.",
-            "rating": "5"
+            "rating": 5
         }
     ],
     "tags": []

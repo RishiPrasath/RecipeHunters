@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "Sloppy Joes are easy to make with lean ground beef, basic pantry ingredients, and hamburger buns. A comforting classic the whole family will enjoy!",
-    "totalCarbs": "11 g",
-    "fat": "16 g",
-    "protein": "14 g",
-    "calories": "243 kcal",
+    "totalCarbs": 11,
+    "fat": 16,
+    "protein": 14,
+    "calories": 243,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -32,12 +32,16 @@
         ]
     },
     "durationToCook": "PT35M",
-    "instructions": "Heat a large skillet over medium heat. Cook and stir lean ground beef in the hot skillet until some of the fat starts to render, 3 to 4 minutes. Add onion and bell pepper; continue to cook until vegetables have softened and beef is cooked through, 3 to 5 more minutes.\nStir in ketchup, brown sugar, mustard, and garlic powder; season with salt and pepper. Reduce heat to low and simmer for 20 to 30 minutes.\nDivide meat mixture evenly among hamburger buns.\n",
+    "instructions": [
+        "Heat a large skillet over medium heat. Cook and stir lean ground beef in the hot skillet until some of the fat starts to render, 3 to 4 minutes. Add onion and bell pepper; continue to cook until vegetables have softened and beef is cooked through, 3 to 5 more minutes.",
+        "Stir in ketchup, brown sugar, mustard, and garlic powder; season with salt and pepper. Reduce heat to low and simmer for 20 to 30 minutes.",
+        "Divide meat mixture evenly among hamburger buns."
+    ],
     "comments": [
         {
             "posterName": "SHuG68",
             "comment": "This is super fast and so good! Sometimes we put cheese on our sandwiches, wrap in foil and bake for a bit. Amazing! Never thought I'd feel this way about sloppy joes.",
-            "rating": "5"
+            "rating": 5
         }
     ],
     "tags": []

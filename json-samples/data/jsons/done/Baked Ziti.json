@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "Baked ziti pasta with ground beef, spaghetti sauce, and three kinds of Italian cheese makes a surprisingly easy, family-pleasing weeknight meal.",
-    "totalCarbs": "58 g",
-    "fat": "25 g",
-    "protein": "28 g",
-    "calories": "578 kcal",
+    "totalCarbs": 58,
+    "fat": 25,
+    "protein": 28,
+    "calories": 578,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -31,12 +31,18 @@
         ]
     },
     "durationToCook": "PT60M",
-    "instructions": "Bring a large pot of lightly salted water to a boil. Add ziti pasta, and cook until al dente, about 8 minutes; drain.\nMeanwhile, brown ground beef and onion in a large skillet over medium heat; stir in spaghetti sauce and simmer for 15 minutes.\nPreheat the oven to 350 degrees F (175 degrees C). Butter a 9x13-inch baking dish.\nSpread 1/2 of the ziti in the bottom of the prepared dish; top with Provolone cheese, sour cream, 1/2 of the meat sauce, remaining ziti, mozzarella cheese, and remaining meat sauce. Top with grated Parmesan cheese.\nBake in the preheated oven until heated through and cheeses have melted, about 30 minutes.\n",
+    "instructions": [
+        "Bring a large pot of lightly salted water to a boil. Add ziti pasta, and cook until al dente, about 8 minutes; drain.",
+        "Meanwhile, brown ground beef and onion in a large skillet over medium heat; stir in spaghetti sauce and simmer for 15 minutes.",
+        "Preheat the oven to 350 degrees F (175 degrees C). Butter a 9x13-inch baking dish.",
+        "Spread 1/2 of the ziti in the bottom of the prepared dish; top with Provolone cheese, sour cream, 1/2 of the meat sauce, remaining ziti, mozzarella cheese, and remaining meat sauce. Top with grated Parmesan cheese.",
+        "Bake in the preheated oven until heated through and cheeses have melted, about 30 minutes."
+    ],
     "comments": [
         {
             "posterName": "Allrecipes Member",
             "comment": "Wonderful! Makes a ton, but still doesn't last long!",
-            "rating": "5"
+            "rating": 5
         }
     ],
     "tags": []

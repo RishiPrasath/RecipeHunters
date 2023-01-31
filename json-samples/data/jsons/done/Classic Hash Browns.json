@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "This hash browns recipe from Chef John fries shredded potatoes in clarified butter to make perfectly seasoned, crispy, diner-style hash browns.",
-    "totalCarbs": "38 g",
-    "fat": "19 g",
-    "protein": "4 g",
-    "calories": "334 kcal",
+    "totalCarbs": 38,
+    "fat": 19,
+    "protein": 4,
+    "calories": 334,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -28,12 +28,16 @@
         ]
     },
     "durationToCook": "PT25M",
-    "instructions": "Shred potatoes into a large bowl filled with cold water. Stir until water is cloudy; drain and cover potatoes again with fresh cold water. Stir again to dissolve excess starch. Drain potatoes well, pat dry with paper towels, and squeeze out any excess moisture.\nHeat clarified butter in a large nonstick pan over medium heat. Sprinkle shredded potatoes into hot butter in an even layer; season with cayenne pepper, paprika, salt, and black pepper.\nCook potatoes until a brown crust forms on the bottom, about 5 minutes. Flip or stir and continue to cook until potatoes are browned and crusty all over, about 5 more minutes.\n",
+    "instructions": [
+        "Shred potatoes into a large bowl filled with cold water. Stir until water is cloudy; drain and cover potatoes again with fresh cold water. Stir again to dissolve excess starch. Drain potatoes well, pat dry with paper towels, and squeeze out any excess moisture.",
+        "Heat clarified butter in a large nonstick pan over medium heat. Sprinkle shredded potatoes into hot butter in an even layer; season with cayenne pepper, paprika, salt, and black pepper.",
+        "Cook potatoes until a brown crust forms on the bottom, about 5 minutes. Flip or stir and continue to cook until potatoes are browned and crusty all over, about 5 more minutes."
+    ],
     "comments": [
         {
             "posterName": "Allrecipes Member",
             "comment": "Quite easy! Best fresh cut hashbrowns I\u2019ve ever made!",
-            "rating": "5"
+            "rating": 5
         }
     ],
     "tags": []

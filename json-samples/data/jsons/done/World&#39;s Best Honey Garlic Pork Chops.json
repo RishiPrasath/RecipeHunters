@@ -13,10 +13,10 @@
         }
     },
     "briefdescription": "A quick and simple grilled pork chop recipe that everyone will love featuring a simple and easy glaze of ketchup, honey, soy sauce, and garlic.",
-    "totalCarbs": "14 g",
-    "fat": "6 g",
-    "protein": "26 g",
-    "calories": "208 kcal",
+    "totalCarbs": 14,
+    "fat": 6,
+    "protein": 26,
+    "calories": 208,
     "shoppingList": {
         "equipment": [],
         "ingredients": [
@@ -28,12 +28,16 @@
         ]
     },
     "durationToCook": "PT25M",
-    "instructions": "Preheat grill for medium heat and lightly oil the grate.\nWhisk ketchup, honey, soy sauce, and garlic together in a bowl to make a glaze.\nSear the pork chops on both sides on the preheated grill. Lightly brush glaze onto each side of the chops as they cook; grill until no longer pink in the center, about 7 to 9 minutes per side. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C).\n",
+    "instructions": [
+        "Preheat grill for medium heat and lightly oil the grate.",
+        "Whisk ketchup, honey, soy sauce, and garlic together in a bowl to make a glaze.",
+        "Sear the pork chops on both sides on the preheated grill. Lightly brush glaze onto each side of the chops as they cook; grill until no longer pink in the center, about 7 to 9 minutes per side. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C)."
+    ],
     "comments": [
         {
-            "posterName": "Allrecipes Member",
-            "comment": "Made this 2 weeks ago will make it again tonight I think it was really good cooked on wood burning grill \ud83d\udc4d",
-            "rating": "5"
+            "posterName": "ShelleyM",
+            "comment": "Absolutely wonderful, delicious, and easy to make. My family loved them. I did not change a thing.",
+            "rating": 5
         }
     ],
     "tags": []
