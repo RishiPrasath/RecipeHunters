@@ -1,0 +1,42 @@
+{
+
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6311596230112",
+    "imageURLs": "https://www.allrecipes.com/thmb/ic_i4pPjDOJ2iX_4uF429lnzIPc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1031128-easy-tuna-patties-Sugarplum-1x1-1-993d770be00748edad11872e515db839.jpg",
+    "name": "Easy Tuna Patties",
+    "date": {
+        
+    },
+    "briefdescription": "These tuna patties, seasoned with Italian breadcrumbs and Parmesan, are tender inside and crisp outside. They make a great appetizer or hot sandwich.",
+    "totalCarbs": 14,
+    "fat": 16 ,
+    "protein": 31 ,
+    "calories": 325,
+    "shoppingList": {
+        "equipment": ["Bowl","Skillet"],
+        "ingredients": [
+            "2 eggs",
+            "2 teaspoons lemon juice",
+            "10 tablespoons Italian-seasoned bread crumbs",
+            "3 tablespoons grated Parmesan cheese",
+            "3 (5 ounce) cans tuna, drained",
+            "3 tablespoons diced onion",
+            "1 pinch ground black pepper",
+            "3 tablespoons vegetable oil"
+        ]
+    },
+    "durationToCook": 25,
+    "instructions": [
+    "Beat eggs and lemon juice in a bowl; stir in bread crumbs and Parmesan cheese to make a paste.",
+    "Fold in tuna and onion until well combined; season with black pepper.",
+    "Use your hands to shape tuna mixture into 8 (1-inch-thick) patties.",
+    "Heat vegetable oil in a skillet over medium heat.",
+    "Fry patties in the hot oil until golden brown, about 5 minutes per side."],
+    "comments": [
+        {
+            "posterName": "Anthony",
+            "comment": "Wow amazing bye bye beef patties!!!",
+            "rating": 5
+        }
+    ],
+    "tags": []
+}

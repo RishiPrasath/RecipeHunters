@@ -1,0 +1,47 @@
+{
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6317606749112",
+    "imageURLs": "https://www.allrecipes.com/thmb/JKndbDXdf7Z6GJvNgDVDRoqyFrk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8495-chicken-cordon-bleu-i-ARmagazine-1x1-1-4938561d685e4c1a8b1b15272333fe9e.jpg",
+    "name": "Chicken Cordon Bleu",
+    "date": {
+        
+    },
+    "briefdescription": "Chicken cordon bleu is made easy with this quick recipe. Chicken breasts are rolled up around ham and Swiss cheese, topped with seasoned bread crumbs, and baked.",
+    "totalCarbs": 13 ,
+    "fat": 19 ,
+    "protein": 46 ,
+    "calories": 419 ,
+    "shoppingList": {
+        "equipment": ["Oven","7x11-inch baking dish","toothpicks"],
+        "ingredients": [
+            "nonstick cooking spray",
+            "4 skinless, boneless chicken breast halves",
+            "0.25 teaspoon salt",
+            "0.125 teaspoon ground black pepper",
+            "6 slices Swiss cheese",
+            "4 slices cooked ham",
+            "0.5 cup seasoned bread crumbs"
+        ]
+    },
+    "durationToCook": 45,
+    "instructions": [
+    "Preheat oven to 350 degrees F (175 degrees C).",
+    "Coat a 7x11-inch baking dish with nonstick cooking spray.",
+    "Pound chicken breasts to 1/4 inch thickness.",
+    "Sprinkle each piece of chicken on both sides with salt and pepper.",
+    "Place 1 Swiss cheese slice and 1 ham slice on top of each breast.",
+    "Roll up each breast, and secure with a toothpick.",
+    "Place in the prepared baking dish, and sprinkle chicken evenly with bread crumbs.",
+    "Bake in the preheated oven until chicken is no longer pink, 30 to 35 minutes.",
+    "Remove from the oven, and place 1/2 Swiss cheese slice on top of each breast.",
+    "Return to the oven until cheese has melted, 3 to 5 minutes.",
+    "Remove toothpicks and serve immediately."
+    ],
+    "comments": [
+        {
+            "posterName": "Allrecipes Member",
+            "comment": "pounded, rolled, egg wash and bread crumbs with the pat of butter. 400 for about 20 minutes. yummy.",
+            "rating": 5
+        }
+    ],
+    "tags": []
+}

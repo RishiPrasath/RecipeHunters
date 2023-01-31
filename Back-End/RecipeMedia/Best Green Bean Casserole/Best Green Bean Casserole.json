@@ -1,0 +1,38 @@
+{
+    
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=4260250044001",
+    "imageURLs": "https://www.allrecipes.com/thmb/UfNSt8UMs3xmOgRjmwqAnGl_Oz4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/418379-best-green-bean-casserole-mfs_108-1-748e6c55722a44039c10f06347f2b2a1.jpg",
+    "name": "Best Green Bean Casserole",
+    "date": {
+       
+    },
+    "briefdescription": "This green bean casserole pairs tender green beans with crunchy French-fried onions in a creamy cheese sauce. A family-favorite recipe for the holidays!",
+    "totalCarbs": 20 ,
+    "fat": 23 ,
+    "protein": 7 ,
+    "calories": 322,
+    "shoppingList": {
+        "equipment": ["Oven","Microwave-safe bowl","casserole dish"],
+        "ingredients": [
+            "2 (14.5 ounce) cans green beans, drained",
+            "1 (10.5 ounce) can condensed cream of mushroom soup",
+            "1 cup shredded Cheddar cheese, divided",
+            "1 (6 ounce) can French-fried onions"
+        ]
+    },
+    "durationToCook": 25,
+    "instructions": [
+    "Preheat the oven to 350 degrees F (175 degrees C).",
+    "Mix green beans and condensed soup together in a large microwave-safe bowl until well combined. Microwave on high until warm, 3 to 5 minutes.",
+    "Stir 1/2 cup Cheddar cheese into the green bean mixture. Microwave on high for 2 to 3 minutes.",
+    "Transfer mixture to a casserole dish and spread evenly over the bottom. Sprinkle French-fried onions over top, then sprinkle with remaining Cheddar.",
+    "Bake in the preheated oven until cheese is melted and the onions are just turning brown, about 10 minutes."],
+    "comments": [
+        {
+            "posterName": "MsAmesXoXo",
+            "comment": "I tripled the recipe and only used about a cup of cheese inside and omitted adding to the top so the onions wouldn\u2019t get goopy. I added some cracked pepper too. It was a hit and so easy. I may try to test this with fresh green beans, but ultimately, this is a winner and I will most definitely make again!",
+            "rating": 5
+        }
+    ],
+    "tags": []
+}

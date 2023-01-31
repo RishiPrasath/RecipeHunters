@@ -1,0 +1,39 @@
+{
+    
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=5798846980001",
+    "imageURLs": "https://www.allrecipes.com/thmb/4xyLwzW5Uq6P32yCeD2N80QQMhE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/235158_WorldsBestHoneyGarlicPorkChops-MFS-WD-3x2-1-2cf8130da36149f89a597832f1fc9e1b.jpg",
+    "name": "World&#39;s Best Honey Garlic Pork Chops",
+    "date": {
+        
+    },
+    "briefdescription": "A quick and simple grilled pork chop recipe that everyone will love featuring a simple and easy glaze of ketchup, honey, soy sauce, and garlic.",
+    "totalCarbs": 14 ,
+    "fat": 6 ,
+    "protein": 26 ,
+    "calories": 208 ,
+    "shoppingList": {
+        "equipment": ["grill","bowl","instant-read thermometer"],
+        "ingredients": [
+            "0.5 cup ketchup",
+            "2.6666667461395 tablespoons honey",
+            "2 tablespoons low-sodium soy sauce",
+            "2 cloves garlic, crushed",
+            "6 (4 ounce) (1-inch thick) pork chops"
+        ]
+    },
+    "durationToCook": 25,
+    "instructions": [
+    "Preheat grill for medium heat and lightly oil the grate.",
+    "Whisk ketchup, honey, soy sauce, and garlic together in a bowl to make a glaze.",
+    "Sear the pork chops on both sides on the preheated grill.",
+    "Lightly brush glaze onto each side of the chops as they cook; grill until no longer pink in the center, about 7 to 9 minutes per side.",
+    "An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C)."],
+    "comments": [
+        {
+            "posterName": "Allrecipes Member",
+            "comment": "Made this 2 weeks ago will make it again tonight I think it was really good cooked on wood burning grill \ud83d\udc4d",
+            "rating": 5
+        }
+    ],
+    "tags": []
+}

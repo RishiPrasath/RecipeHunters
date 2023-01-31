@@ -1,0 +1,40 @@
+{
+    
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=5973290138001",
+    "imageURLs": "https://www.allrecipes.com/thmb/dDOvm6tWSWem701GfPbzglYL9Uc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7665864-b47330e1504c49c291b33d2217c4ddae.jpg",
+    "name": "Tater Tot Casserole",
+    "date": {
+       
+    },
+    "briefdescription": "This Tater Tot casserole is easy to make with ground beef, cream of mushroom soup, and lots of Cheddar cheese for a tasty comfort food classic.",
+    "totalCarbs": 17 ,
+    "fat": 24 ,
+    "protein": 19 ,
+    "calories": 345 ,
+    "shoppingList": {
+        "equipment": ["oven","skillet","9x13-inch baking dish"],
+        "ingredients": [
+            "1 pound ground beef",
+            "1 (10.5 ounce) can condensed cream of mushroom soup",
+            "salt and ground black pepper to taste",
+            "1 (16 ounce) package frozen tater tots",
+            "2 cups shredded Cheddar cheese"
+        ]
+    },
+    "durationToCook": 45,
+    "instructions": [
+    "Preheat the oven to 350 degrees F (175 degrees C).",
+    "Heat a large skillet over medium-high heat.",
+    "Cook and stir ground beef in the hot skillet until completely browned and crumbly, 7 to 10 minutes.",
+    "Stir in condensed soup; season with salt and black pepper.",
+    "Transfer beef mixture to a 9x13-inch baking dish; layer tater tots evenly on top and sprinkle with Cheddar cheese.",
+    "Bake in the preheated oven until tater tots are golden brown and hot, 30 to 45 minutes."],
+    "comments": [
+        {
+            "posterName": "tyler2420",
+            "comment": "When I make it I add string beans and my family loves it",
+            "rating": 5
+        }
+    ],
+    "tags": []
+}

@@ -1,0 +1,47 @@
+{
+    "videoURL": "",
+    "imageURLs": "https://www.allrecipes.com/thmb/QhS-bkQpJcB2iaU2CqJBZRN0unE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/241797-cheesy-potato-casserole-from-ore-ida-3x2-46119-c4c2d76655144020ac89748bc4676966.jpg",
+    "name": "Cheesy Potato Casserole from Ore-Ida",
+    "date": {
+      
+    },
+    "briefdescription": "This cheesy potato casserole with lots of shredded hash browns and a crispy topping couldn&#39;t be easier to make for creamy comfort food at its best.",
+    "totalCarbs": 32 ,
+    "fat": 29 ,
+    "protein": 13 ,
+    "calories": 434 ,
+    "shoppingList": {
+        "equipment": ["oven","9x13-inch baking dish","Whisk","large bowl","medium bowl","casserole"],
+        "ingredients": [
+            "nonstick cooking spray",
+            "1 (10.5 ounce) can condensed cream of chicken soup",
+            "2 cups sour cream",
+            "1 teaspoon salt",
+            "0.25 teaspoon ground black pepper",
+            "2 cups shredded Cheddar cheese",
+            "0.33333334326744 cup sliced green onions",
+            "1 (30 ounce) package Ore-Ida\u00ae Shredded Hash Brown Potatoes",
+            "2 cups crushed corn flakes cereal",
+            "0.25 cup butter, melted"
+        ]
+    },
+    "durationToCook": 60,
+    "instructions": [
+    "Preheat the oven to 350 degrees F (175 degrees C).",
+    "Spray a 9x13-inch baking dish with nonstick spray.",
+    "Whisk together sour cream, condensed soup, salt, and pepper in a large bowl.",
+    "Stir in Cheddar cheese, green onions, and hash brown potatoes until well mixed.",
+    "Spoon evenly into the prepared baking dish.",
+    "Mix crushed cereal and melted butter together in a medium bowl.",
+    "Sprinkle evenly over the casserole.",
+    "Bake uncovered until hot and bubbly, 45 to 50 minutes.",
+    "Remove from the oven and let rest for 5 minutes before serving."],
+    "comments": [
+        {
+            "posterName": "Traci",
+            "comment": "Christmas Every Year!! Great with Ham or Beef",
+            "rating": 5
+        }
+    ],
+    "tags": []
+}

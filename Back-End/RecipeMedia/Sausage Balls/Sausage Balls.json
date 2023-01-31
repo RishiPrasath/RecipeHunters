@@ -1,0 +1,37 @@
+{
+    
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1785590341001",
+    "imageURLs": "https://www.allrecipes.com/thmb/ISOpX79ZkgWYlFDnq8C3KMDfrzM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21649-sausage-balls-mfs42-8f89e80c003c48c39f3f75901c07a074.jpg",
+    "name": "Sausage Balls",
+    "date": {
+        
+    },
+    "briefdescription": "Sausage balls are a versatile dish. Serve these savory, Cheddar-filled sausage nibbles for breakfast or brunch or as a game-day or holiday appetizer.",
+    "totalCarbs": 11 ,
+    "fat": 19 ,
+    "protein": 13 ,
+    "calories": 264 ,
+    "shoppingList": {
+        "equipment": ["oven","bowl","baking sheet"],
+        "ingredients": [
+            "1 pound ground pork sausage, at room temperature",
+            "2 cups biscuit baking mix",
+            "1 pound sharp Cheddar cheese, shredded"
+        ]
+    },
+    "durationToCook": 30,
+    "instructions": [
+    "Preheat the oven to 350 degrees F (175 degrees C).",
+    "Combine room temperature sausage and biscuit mix in a large bowl; mix with your hands until well combined.",
+    "Add shredded Cheddar cheese and mix until fully incorporated.",
+    "Roll mixture into about 30 walnut-sized balls; transfer to a baking sheet.",
+    "Bake in the preheated oven until golden brown and sausage is cooked through, 20 to 25 minutes."],
+    "comments": [
+        {
+            "posterName": "Allrecipes Member",
+            "comment": "followed recipe to the letter and will not make again. Cheese melted and puddled around balls and created a greasy mess with the sausage grease. Barely passable taste even the dogs turned their noses up.",
+            "rating": 1
+        }
+    ],
+    "tags": []
+}

@@ -1,0 +1,45 @@
+{
+   
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1622262318001",
+    "imageURLs": "https://www.allrecipes.com/thmb/pTGS0SZsSQK85sV_RQE_K6ZfoN4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/26460-quick-and-easy-chicken-noodle-soup-allrecipes-1x1-1-b88125437574471db3e114c40bc6928e.jpg",
+    "name": "Quick and Easy Chicken Noodle Soup",
+    "date": {
+        
+    },
+    "briefdescription": "This easy chicken noodle soup recipe made with veggies and leftover chicken is warm, comforting, and ready to ladle into bowls in just over 30 minutes.",
+    "totalCarbs": 12 ,
+    "fat": 6 ,
+    "protein": 13 ,
+    "calories": 162 ,
+    "shoppingList": {
+        "equipment": ["large pot"],
+        "ingredients": [
+            "1 tablespoon butter",
+            "0.5 cup chopped onion",
+            "0.5 cup chopped celery",
+            "4 (14.5 ounce) cans chicken broth",
+            "1 (14.5 ounce) can vegetable broth",
+            "0.5 pound chopped cooked chicken breast",
+            "1.5 cups egg noodles",
+            "1 cup sliced carrots",
+            "0.5 teaspoon dried basil",
+            "0.5 teaspoon dried oregano",
+            "salt and ground black pepper to taste"
+        ]
+    },
+    "durationToCook": 40,
+    "instructions": [
+    "Melt butter in a large pot over medium heat.",
+    "Add onion and celery and cook until just tender, about 5 minutes.",
+    "Add chicken broth, vegetable broth, chicken, egg noodles, carrots, basil, oregano, salt, and pepper.",
+    "Stir to combine and bring to a boil.",
+    "Reduce heat and simmer for 20 minutes."],
+    "comments": [
+        {
+            "posterName": "Penny Kay",
+            "comment": "I used this recipe as my base, then I added a package of frozen soup veggies with Tyson's Grilled &amp; Ready Oven Roasted Diced Chicken Breast. I followed the instructions for the soup veggies and served it with crackers. It was especially enjoyed by the extremely picky eaters in the household.",
+            "rating": 4
+        }
+    ],
+    "tags": []
+}

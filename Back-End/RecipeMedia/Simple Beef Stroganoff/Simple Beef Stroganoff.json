@@ -1,0 +1,46 @@
+{
+  
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=4298105426001",
+    "imageURLs": "https://www.allrecipes.com/thmb/vbWFp0Jx5YAO0bZQMIql29Dop0E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16311-simple-beef-stroganoff-step-1-78-1050fc6c7f814d00a7f239ef2f1dbcb5.jpg",
+    "name": "Simple Beef Stroganoff",
+    "date": {
+      
+    },
+    "briefdescription": "This ground beef stroganoff recipe made with basic pantry items is rich and creamy, super simple to prepare, and ready to serve in under 30 minutes.",
+    "totalCarbs": 48 ,
+    "fat": 41 ,
+    "protein": 29 ,
+    "calories":679,
+    "shoppingList": {
+        "equipment": ["skillet","large pot"],
+        "ingredients": [
+            "1 (8 ounce) package egg noodles",
+            "1 pound ground beef",
+            "1 (10.5 ounce) can fat-free condensed cream of mushroom soup",
+            "1 tablespoon garlic powder",
+            "0.5 cup sour cream",
+            "salt and ground black pepper to taste"
+        ]
+    },
+    "durationToCook": 20,
+    "instructions": [
+    "Gather all ingredients.",
+    "Saute ground beef in a large skillet over medium heat until browned and crumbly; 5 to 10 minutes.",
+    "At the same time, fill a large pot with lightly salted water and bring to a rapid boil.",
+    "Cook egg noodles at a boil until tender yet firm to the bite, 7 to 9 minutes.",
+    "Drain and set aside.",
+    "Drain and discard any fat from the cooked beef.",
+    "Stir condensed soup and garlic powder into the beef.",
+    "Simmer for 10 minutes, stirring occasionally.",
+    "Remove beef from the heat.",
+    "Add egg noodles and stir to combine.",
+    "Stir in sour cream and season with salt and pepper."],
+    "comments": [
+        {
+            "posterName": "gigi331",
+            "comment": "Quick and easy! I thought 1 Tbsp garlic powder would be too much. It was perfect. Added 1/2 Tbsp onion powder as well and subbed Greek yogurt for sour cream.",
+            "rating": 5
+        }
+    ],
+    "tags": []
+}

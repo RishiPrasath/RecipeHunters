@@ -1,0 +1,42 @@
+{
+    
+    
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6303630982001",
+    "imageURLs": "https://www.allrecipes.com/thmb/QU66OCPccM96rsigaz3m54lI7nQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/49409-Juiciest-Hamburgers-Ever-crop-mfs-053-2c05e8292c6544139f319147690a8cba.jpg",
+    "name": "Juiciest Hamburgers Ever",
+    "date": {
+        
+    },
+    "briefdescription": "Juicy, flavorful hamburgers are just what you need for a perfect summer BBQ, party, or potluck, and these are super easy to prepare for guests.",
+    "totalCarbs": 9 ,
+    "fat": 18 ,
+    "protein": 22 ,
+    "calories": 288 ,
+    "shoppingList": {
+        "equipment": ["grill"],
+        "ingredients": [
+            "2 pounds ground beef",
+            "1 egg, beaten",
+            "0.75 cup dry bread crumbs",
+            "3 tablespoons evaporated milk",
+            "2 tablespoons Worcestershire sauce",
+            "0.125 teaspoon cayenne pepper",
+            "2 cloves garlic, minced"
+        ]
+    },
+    "durationToCook": 35,
+    "instructions": [
+    "Preheat a grill for high heat.",
+    "Mix the ground beef, egg, bread crumbs, evaporated milk, Worcestershire sauce, cayenne pepper, and garlic in a large bowl using your hands.",
+    "Form the mixture into 8 hamburger patties.",
+    "Lightly oil the grill grate.",
+    "Grill patties until browned and no longer pink, about 5 minutes per side."],
+    "comments": [
+        {
+            "posterName": "Allrecipes Member",
+            "comment": "Awesomeness and beyond!! Just added some garlic butter instead of garlic and also some paprika, coriander, steak amd chop spices and dried parsley. Made burgers with avo, fried balsamic red onions, baked eggs, pineapple, gurkhins, fried tomato(in tomato sauce, chutney, sugar, salt &amp; pepper), cheese and green onions. Wedges on the side(power died, so couldn't brown them properly). Was divine, DIVINE,yummy!!!!",
+            "rating": 5
+        }
+    ],
+    "tags": []
+}

@@ -1,0 +1,44 @@
+{
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1886310389001",
+    "imageURLs": "https://www.allrecipes.com/thmb/UP9Vkfkfi-UQs8Im9QQa8ulhmpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3878110-d597ab41f7ed457180d77fd71cf3e51f.jpg",
+    "name": "Broccoli, Rice, Cheese, and Chicken Casserole",
+    "date": {
+        
+    },
+    "briefdescription": "This chicken broccoli rice casserole with creamy soups and cheese is easy to prep for a comforting meal-in-one casserole that can be made ahead.",
+    "totalCarbs": 83 ,
+    "fat": 31 ,
+    "protein": 36 ,
+    "calories": 756 ,
+    "shoppingList": {
+        "equipment": ["Oven","Medium saucepan","9x13-inch baking dish"],
+        "ingredients": [
+            "2 cups water",
+            "2 cups uncooked instant rice",
+            "2 (10 ounce) cans chunk chicken, drained",
+            "1 (16 ounce) package frozen chopped broccoli",
+            "1 pound processed cheese food, cubed",
+            "1 (10.75 ounce) can condensed cream of mushroom soup",
+            "1 (10.75 ounce) can condensed cream of chicken soup",
+            "1 cup milk",
+            "0.25 cup butter, cubed",
+            "1 small white onion, chopped"
+        ]
+    },
+    "durationToCook": 45,
+    "instructions": [
+    "Preheat the oven to 350 degrees F (175 degrees C).",
+    "Bring water to a boil in a medium saucepan; stir in instant rice, cover, and remove from heat.",
+    "Let stand for 5 minutes.",
+    "Mix prepared rice, chicken, broccoli, processed cheese, condensed mushroom soup, condensed chicken soup, milk, butter, and onion in a 9x13-inch baking dish.",
+    "Bake in the preheated oven until cheese is melted, about 30 to 35 minutes.",
+    " Stir halfway through cooking to help cheese melt evenly."],
+    "comments": [
+        {
+            "posterName": "Sara Blankenship",
+            "comment": "This was a huge hit. I did doctor it up some though. I saut\u00e9d the onion along with 1/2 c of celery, 1/2 c green pepper, 1 garlic clove and 3 tbl butter. I also only added 1 c of the block velvetta and 1 c shredded Colby Jack.",
+            "rating": 5
+        }
+    ],
+    "tags": []
+}

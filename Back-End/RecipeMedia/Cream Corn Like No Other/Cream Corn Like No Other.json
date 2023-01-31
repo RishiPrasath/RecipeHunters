@@ -1,0 +1,43 @@
+{
+    
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=2686522444001",
+    "imageURLs": "https://www.allrecipes.com/thmb/XQ5qxQvUPeeoPCId_CgD_43rYok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/745492-1ba557961ca44a2797cb3e43d66a14ca.jpg",
+    "name": "Cream Corn Like No Other",
+    "date": {
+      
+    },
+    "briefdescription": "Creamed corn made from scratch beats any canned variety! A rich, creamy sauce with Parmesan cheese turns frozen corn kernels into something extraordinary.",
+    "totalCarbs": 25 ,
+    "fat": 17 ,
+    "protein": 5 ,
+    "calories": 253 ,
+    "shoppingList": {
+        "equipment": ["skillet","whisk","small bowl"],
+        "ingredients": [
+            "2 (10 ounce) packages frozen corn kernels, thawed",
+            "1 cup heavy cream",
+            "1 teaspoon salt, or to taste",
+            "2 tablespoons granulated sugar",
+            "0.25 teaspoon freshly ground black pepper, or to taste",
+            "2 tablespoons butter",
+            "0.5 cup whole milk",
+            "2 tablespoons all-purpose flour",
+            "0.25 cup freshly grated Parmesan cheese, or more to taste"
+        ]
+    },
+    "durationToCook": 15,
+    "instructions": [
+    "Combine corn, heavy cream, sugar, butter, salt, and pepper in a skillet over medium heat.",
+    "Cook, stirring occasionally, until butter has melted, 3 to 5 minutes.",
+    "Meanwhile, whisk together milk and flour in a small bowl until smooth.",
+    "Add milk mixture to the skillet and continue to cook, stirring constantly, until sauce is thickened and corn is cooked through, about 4 minutes.",
+    "Remove from the heat, and stir in Parmesan cheese until melted. Serve hot."],
+    "comments": [
+        {
+            "posterName": "Stunner",
+            "comment": "I'm not a fan of corn, but I won't let that interfere with the review. This is a simple way to dress up corn for a side dish. It has good flavor! Definitely will make again. Would be good for a pot luck. Easy to double. Thank you for the recipe! The family enjoyed it. :)",
+            "rating": 5
+        }
+    ],
+    "tags": []
+}

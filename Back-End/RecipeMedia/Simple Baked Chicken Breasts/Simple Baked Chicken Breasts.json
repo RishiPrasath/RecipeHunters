@@ -1,0 +1,45 @@
+{
+    
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6317609302112",
+    "imageURLs": "https://www.allrecipes.com/thmb/NExkvB7zL_88jrPNgF-cfZstkOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/240208-simple-baked-chicken-breasts-mfs-53-a49912f6e06f4ead80c4bf83ef18fa83.jpg",
+    "name": "Simple Baked Chicken Breasts",
+    "date": {
+        
+    },
+    "briefdescription": "Learn how to bake chicken that&#39;s tender and juicy with this simple, 5-ingredient recipe for boneless, skinless chicken breasts. A bonus pan sauce adds flavor at the table!",
+    "totalCarbs": 0 ,
+    "fat":10 ,
+    "protein": 25,
+    "calories": 191,
+    "shoppingList": {
+        "equipment": ["Oven","Brolier Pan","Instant-read Thermomter","Cooking Pan","Wooden Spatula"],
+        "ingredients": [
+            "4 (5 ounce) skinless, boneless chicken breast halves",
+            "2 tablespoons olive oil",
+            "0.5 teaspoon coarse sea salt, or to taste",
+            "1 pinch Creole seasoning (such as Tony Chachere's\u00ae), or more to taste",
+            "1 tablespoon chicken broth, or more to taste"
+        ]
+    },
+    "durationToCook": 35,
+    "instructions":[ 
+    "Preheat the oven to 400 degrees F (200 degrees C).",
+    "Rub chicken breasts with olive oil and sprinkle both sides with salt and Creole seasoning. ",
+    "Place chicken in a broiler pan.",
+    "Bake in the preheated oven for 10 minutes.",
+    "Flip chicken and cook until no longer pink in the center and the juices run clear, about 15 minutes more. ",
+    "An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+    "Remove chicken to a plate.",
+    "Pour chicken broth into the pan and scrape any browned bits off the bottom with a flat-edged wooden spatula. ",
+    "Add more broth if needed to dislodge the browned bits, but not too much or it will be watery.",
+    "To serve, drizzle the pan sauce over the chicken."
+    ],
+    "comments": [
+        {
+            "posterName": "Ljohnston",
+            "comment": "Very simple and tender. Great flavor!",
+            "rating": "5"
+        }
+    ],
+    "tags": ["Chicken","Sauce","Broth","Juicy"]
+}

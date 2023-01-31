@@ -1,0 +1,44 @@
+{
+    
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=2707975929001",
+    "imageURLs": "https://www.allrecipes.com/thmb/Lf0WD9nV5o4DEbv1y1PYK8NvCAw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/How-to-Make-Perfect-Polenta-b03f3f95ec114fe78259a782561b1979.jpg",
+    "name": "How to Make Perfect Polenta",
+    "date": {
+       
+    },
+    "briefdescription": "Creamy polenta is a perfect pairing for all kinds of meats, stews, and sauces. Learn how to make perfect polenta with Chef John&#39;s easy, cheesy recipe.",
+    "totalCarbs":31 ,
+    "fat": 15 ,
+    "protein": 9 ,
+    "calories": 291 ,
+    "shoppingList": {
+        "equipment": ["saucepan","Whisk","wooden spoon","serving bowl"],
+        "ingredients": [
+            "4 cups water",
+            "1 teaspoon fine salt",
+            "1 cup polenta",
+            "3 tablespoons butter, divided",
+            "0.5 cup freshly grated Parmigiano-Reggiano cheese, plus more for garnish"
+        ]
+    },
+    "durationToCook": 55,
+    "instructions": [
+    "Bring water and salt to a boil in a large saucepan; pour polenta slowly into boiling water, whisking constantly until there are no lumps.",
+    "Reduce heat to low and simmer, whisking often, until polenta starts to thicken, about 5 minutes.",
+    "Polenta mixture should still be slightly loose.",
+    "Cover and cook for 30 minutes, whisking every 5 to 6 minutes.",
+    "When polenta is too thick to whisk, stir with a wooden spoon.",
+    "Polenta is done when texture is creamy and the individual grains are tender.",
+    "Turn off heat and gently stir 2 tablespoons butter into polenta until butter partially melts; mix 1/2 cup Parmigiano-Reggiano cheese into polenta until cheese has melted.",
+    "Cover and let stand for 5 minutes to thicken.",
+    "Stir polenta and transfer to a serving bowl.",
+    "Top polenta with remaining 1 tablespoon butter and about 1 tablespoon freshly grated Parmigiano-Reggiano cheese for garnish."],
+    "comments": [
+        {
+            "posterName": "Allrecipes Member",
+            "comment": "This was super delicious and the instructions were so helpful! Will definitely be making this again!",
+            "rating": 5
+        }
+    ],
+    "tags": []
+}

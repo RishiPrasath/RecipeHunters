@@ -1,0 +1,37 @@
+{
+    
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6304056711001",
+    "imageURLs": "https://www.allrecipes.com/thmb/8XMvcOVEWFfFW2zJ-j6HeaxA6HM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/244458-ButteredNoodles-0692-2X3-97824658d6e0472b9287298c63b0cfcf.jpg",
+    "name": "Buttered Noodles",
+    "date": {
+       
+    },
+    "briefdescription": "Buttered noodles with Parmesan cheese are simple to make and perfect to serve either as-is as a main dish or as a side with steak, chicken, pork, or meatballs.",
+    "totalCarbs": 41 ,
+    "fat": 11 ,
+    "protein": 9 ,
+    "calories": 294 ,
+    "shoppingList": {
+        "equipment": ["large pot","stove"],
+        "ingredients": [
+            "1 (16 ounce) package fettuccine noodles",
+            "6 tablespoons butter, cut into pieces",
+            "0.33333334326744 cup grated Parmesan cheese",
+            "salt and ground black pepper to taste"
+        ]
+    },
+    "durationToCook": 20,
+    "instructions": [
+    "Fill a large pot with lightly salted water and bring to a rolling boil.",
+    "Stir in fettuccine, bring back to a boil, and cook pasta over medium heat until tender yet firm to the bite, 8 to 10 minutes.",
+    "Drain and return pasta to pot.",
+    "Mix butter, Parmesan cheese, salt, and pepper into pasta until evenly combined."],
+    "comments": [
+        {
+            "posterName": "Cathy Ballew-Mays",
+            "comment": "Prepared according to directions and now it's one of our favorite side dishes.",
+            "rating": 5
+        }
+    ],
+    "tags": []
+}

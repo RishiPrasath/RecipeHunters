@@ -1,0 +1,44 @@
+{
+    
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=2031265100001",
+    "imageURLs": "https://www.allrecipes.com/thmb/Yd00cxLSkeTpEWPqIUVLbI_UnXQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17219-best-tuna-casserole-mfs-254-4x3-b91de78296cb4b63b201dd4c1b8cb0c8.jpg",
+    "name": "Best Tuna Casserole",
+    "date": {
+        
+    },
+    "briefdescription": "This tuna casserole uses pantry ingredients for convenience and potato chips for a delicious crunch. Ready in just 30 minutes for a comforting meal!",
+    "totalCarbs": 58 ,
+    "fat": 26 ,
+    "protein": 32 ,
+    "calories": 595 ,
+    "shoppingList": {
+        "equipment": ["large pot","large bowl","9x13-inch baking dish","Oven"],
+        "ingredients": [
+            "1 (12 ounce) package egg noodles",
+            "2 (10.5 ounce) cans condensed cream of mushroom soup",
+            "2 cups shredded Cheddar cheese, divided",
+            "2 (5 ounce) cans tuna, drained",
+            "1 cup frozen green peas",
+            "0.5 (4.5 ounce) can sliced mushrooms",
+            "0.25 cup chopped onion",
+            "1 cup crushed potato chips"
+        ]
+    },
+    "durationToCook": 30,
+    "instructions":[ 
+    "Gather all ingredients.",
+    "Fill a large pot with lightly salted water and bring to a rapid boil.",
+    "Cook egg noodles at a boil until tender yet firm to the bite, 7 to 9 minutes; drain.",
+    "Meanwhile, preheat the oven to 425 degrees F (220 degrees C).",
+    "Mix noodles, condensed soup, 1 cup cheese, tuna, peas, mushrooms, and onion in a large bowl until well combined.",
+    "Transfer into a 9x13-inch baking dish; top with crushed potato chip and remaining 1 cup of cheese.",
+    "Bake in the preheated oven until cheese is bubbly, about 15 to 20 minutes."],
+    "comments": [
+        {
+            "posterName": "Christine Komisarz",
+            "comment": "Disappointed. Not creamy. Too dry.",
+            "rating": 2
+        }
+    ],
+    "tags": []
+}

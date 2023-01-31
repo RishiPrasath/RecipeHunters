@@ -1,0 +1,41 @@
+{
+    
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6121468022001",
+    "imageURLs": "https://www.allrecipes.com/thmb/_hsKUJQCdNAdb9mz7OYVlvP4tlg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Oven-Roasted-Sweet-Potatoes-2000-0507443ff2d5450eb27b1486e916baa1.jpg",
+    "name": "Oven Roasted Sweet Potatoes",
+    "date": {
+        
+    },
+    "briefdescription": "Perfectly cooked, roasted sweet potatoes with caramelized onion and garlic are finished with a drizzle of balsamic vinegar in this delicious recipe.",
+    "totalCarbs": 31 ,
+    "fat": 10 ,
+    "protein": 3 ,
+    "calories": 224 ,
+    "shoppingList": {
+        "equipment": ["Oven","Bowl","shallow roasting pan"],
+        "ingredients": [
+            "4 cups chopped peeled sweet potato",
+            "1 sweet onion, cut into wedges",
+            "2 cloves garlic, sliced",
+            "3 tablespoons olive oil",
+            "1 tablespoon balsamic vinegar, or more to taste",
+            "1 pinch salt and ground black pepper to taste"
+        ]
+    },
+    "durationToCook": 40,
+    "instructions": [
+    "Preheat the oven to 425 degrees F (220 degrees C).",
+    "Mix sweet potatoes, onion, and garlic in a bowl.",
+    "Drizzle olive oil over the mixture and toss to coat; pour into a shallow roasting pan.",
+    "Roast sweet potato mixture in the preheated oven, turning frequently, until the vegetables are soft and golden brown, 30 to 35 minutes.",
+    "Remove from the oven.",
+    "Drizzle balsamic vinegar over the vegetables; season with salt and pepper."],
+    "comments": [
+        {
+            "posterName": "Shelly Venema",
+            "comment": "Three adults in my house enjoyed these potatoes tonight. We would not change a thing! No leftovers. Mmmm....",
+            "rating": 5
+        }
+    ],
+    "tags": []
+}

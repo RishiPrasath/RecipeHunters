@@ -1,0 +1,49 @@
+{
+    
+    "videoURL": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6304303990001",
+    "imageURLs": "https://www.allrecipes.com/thmb/8GDL13upROE8AL_mNwKzByISUD4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4563133-fd4771cb7a5e4dcb9ab3fdf772deeacf.jpg",
+    "name": "Easy Tortilla Pizza",
+    "date": {
+       
+    },
+    "briefdescription": "This tortilla pizza topped with chicken, bell pepper, and cheese makes a quick dinner for one. Quadruple the recipe for a crowd-pleasing party snack!",
+    "totalCarbs": 37 ,
+    "fat": 43 ,
+    "protein": 71 ,
+    "calories": 833 ,
+    "shoppingList": {
+        "equipment": ["Baking Sheet","Oven"],
+        "ingredients": [
+            "1 (8 inch) soft flour tortilla",
+            "1 teaspoon olive oil",
+            "1 pinch garlic powder",
+            "salt and ground black pepper to taste",
+            "3 tablespoons tomato sauce",
+            "1 cooked chicken breast, sliced",
+            "0.5 green bell pepper, chopped",
+            "2 green onions, finely chopped",
+            "0.33333334326744 cup shredded mozzarella cheese",
+            "1 pinch dried oregano"
+        ]
+    },
+    "durationToCook": 20,
+    "instructions": [
+    "Preheat the oven to 400 degrees F (200 degrees C).",
+    "Place tortilla on a baking sheet.",
+    "Brush with olive oil; sprinkle garlic powder, salt, and pepper on top.",
+    "Bake in the preheated oven until golden, 3 to 5 minutes.",
+    "Remove from the oven and spread tomato sauce on top; arrange chicken breast, green bell pepper, and green onions over tomato sauce.",
+    "Sprinkle with mozzarella cheese.",
+    "Bake in the preheated oven until cheese is melted, about 5 minutes.",
+    "Sprinkle oregano over cheese.",
+    "Slice pizza into wedges using a pizza cutter."
+    ],
+    "comments": [
+        {
+            "posterName": "Allrecipes Member",
+            "comment": "I got my tortilla cheese pizza",
+            "rating": 5
+        }
+    ],
+    "tags": []
+}
