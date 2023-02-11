@@ -1,13 +1,14 @@
 import RecentRecipes from "./Child Compoenents/RecentRecipes";
 import FeaturedRecipes from "./Child Compoenents/FeaturedRecipes";
 import Features from "./Child Compoenents/Features";
+import Hero from "./Child Compoenents/Hero";
 
 function Home(){
 
     return(
 
         <>
-            <h1>Home Page</h1>
+            <Hero/>
             <RecentRecipes/>
             <FeaturedRecipes/>
             <Features/>

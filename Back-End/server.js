@@ -61,6 +61,10 @@ app.use(express.json());
 const HomeRouter = require('./routes/Home');
 const searchRouter = require('./routes/Search');
 const recipeRouter = require('./routes/Recipe');
+
+
+app.listen(5000);
+
 app.use('/home',HomeRouter);
 app.use('/recipe',recipeRouter);
 app.use('/search',searchRouter);
