@@ -10,17 +10,17 @@ import hero from './hero-background.jpg';
 function Hero(){
     return (
         <Paper
-          sx={{
-            position: 'relative',
-            backgroundColor: 'grey.600',
-            color: '#fff',
-            mb: 4,
-            backgroundSize: 'cover',
-            backgroundRepeat: 'no-repeat',
-            backgroundPosition: 'center',
-            backgroundImage: `url(${hero})`,
-            minHeight: 425,
-          }}
+        sx={{
+          position: 'relative',
+          backgroundColor: 'grey.600',
+          color: '#fff',
+          mb: 4,
+          backgroundSize: 'cover',
+          backgroundRepeat: 'no-repeat',
+          backgroundPosition: 'center',
+          backgroundImage: `url(${hero})`,
+          minHeight: 425,  
+        }}
         >
           {/* Increase the priority of the hero background image */}
           {<img style={{ display: 'none' }} src={hero} alt="Hero Recipe Hunters" />}
@@ -52,12 +52,12 @@ function Hero(){
                 The ultimate tool for food enthusiasts and home chefs alike. With a wide variety of recipes
                 to choose from, you'll never run out of inspiration for your next meal.
                 </Typography>
-                <Button color="primary" variant="contained">Search Recipes</Button>
+                <Button color="primary" variant="contained" href='/search' sx={{ mx: 1,}}>Search Recipes</Button>
                 <Button color="secondary" variant="contained">Find the perfect meal</Button>
               </Box>
             </Grid>
           </Grid>
-        </Paper>
+        </Paper>        
       );
 }
 

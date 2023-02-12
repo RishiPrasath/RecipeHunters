@@ -38,24 +38,13 @@ run().catch(console.dir);
 // db.on('error',(error)=>console.error(error));
 // db.once('open',()=>console.log("Database connected!"))
 
-
 const app = express();
 app.listen(5000);
 app.use(cors());
 app.use(express.json());
 
-
 app.use(bodyParser.json())
 app.use(express.json());
-
-
-
-
-
-
-
-
-
 
 
 const HomeRouter = require('./routes/Home');
