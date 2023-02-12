@@ -7,11 +7,8 @@ import Typography from '@mui/material/Typography';
 import Menu from '@mui/material/Menu';
 import MenuIcon from '@mui/icons-material/Menu';
 import Container from '@mui/material/Container';
-import Avatar from '@mui/material/Avatar';
 import Button from '@mui/material/Button';
-import Tooltip from '@mui/material/Tooltip';
 import MenuItem from '@mui/material/MenuItem';
-import FoodBankIcon from '@mui/icons-material/FoodBank';
 import SearchIcon from '@mui/icons-material/Search';
 import logo from './logoRecipeHunters.png';
 
@@ -44,23 +41,6 @@ function NavBar() {
           <IconButton edge="start" color="inherit" aria-label="menu" href="/">
                     <img src={logo} alt="Logo" height="85" />
           </IconButton>
-          {/* <Typography
-            variant="h6"
-            noWrap
-            component="a"
-            href="/"
-            sx={{
-              mr: 2,
-              display: { xs: 'none', md: 'flex' },
-              fontFamily: 'Sans-Serif',
-              fontWeight: 700,
-              letterSpacing: '.3rem',
-              color: 'inherit',
-              textDecoration: 'none',
-            }}
-          >
-            Recipe Hunters */}
-          {/* </Typography> */}
 
           <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
             <IconButton
@@ -110,6 +90,7 @@ function NavBar() {
               </Button>
             ))}
           </Box>
+          {/* We need to put the search function here */}
           <IconButton size="large" aria-label="search" color="inherit" href="/search">
             <SearchIcon />
           </IconButton>
