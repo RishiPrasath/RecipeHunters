@@ -10,11 +10,9 @@ import DialogTitle from '@mui/material/DialogTitle';
 function Modal(){
 
     const [open, setOpen] = React.useState(false);
-
     const handleClickOpen = () => {
       setOpen(true);
     };
-  
     const handleClose = () => {
       setOpen(false);
     };
@@ -48,8 +46,6 @@ function Modal(){
         </Dialog>
       </div>
     );
-
-
 }
 
 export default Modal;

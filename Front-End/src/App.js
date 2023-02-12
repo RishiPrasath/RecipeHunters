@@ -27,6 +27,9 @@ function App() {
     case "/register":
       component = <Register />;
       break
+    // Missing
+    //   User Page with saved and favorite recipes
+    //   Recommended recipes path (You might also like...)
   }
   return (
     <div className="App">
@@ -36,4 +39,5 @@ function App() {
     </div>
   );
 }
+
 export default App;

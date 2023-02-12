@@ -6,7 +6,6 @@ import Box from '@mui/material/Box';
 import { Button } from '@mui/material';
 import hero from './hero-background.jpg';
 
-
 function Hero(){
     return (
         <Paper
@@ -60,7 +59,6 @@ function Hero(){
         </Paper>        
       );
 }
-
 
 export default Hero;
 

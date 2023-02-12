@@ -13,5 +13,4 @@ function FiltersList(){
 
 }
 
-
 export default FiltersList;

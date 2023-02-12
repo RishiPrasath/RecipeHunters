@@ -1,27 +1,21 @@
 import RecipeElementMain  from "./Child Compoenents/RecipeElementMain"; 
 import { Box } from "@mui/system";
-import Breadcrumb from "./Child Compoenents/Breadcrumb"
-import Modal from "./Child Compoenents/Modal"
+import Modal from "./Child Compoenents/Modal";
+import { Component } from "react";
+
+// This Component needs to get the id of the recipe and 
+// render the correct information passing that information
 function Recipe(){
-
     return(
-
         <>
             {/* <p>Recipe Page</p>
             <Breadcrumb/>
             <Modal/> */}
             <Box sx={{ backgroundColor: '#F1F1F1'}} >
-            <RecipeElementMain/>
-            </Box>
-           
-            
+                <RecipeElementMain/>
+            </Box> 
         </>
-
-
     );
-
-
 }
-
 
 export default Recipe;

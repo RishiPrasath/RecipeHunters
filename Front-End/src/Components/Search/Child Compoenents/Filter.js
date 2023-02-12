@@ -5,6 +5,10 @@ import FormControl from '@mui/material/FormControl';
 import Select from '@mui/material/Select';
 import { Box } from '@mui/system';
 
+// Dropdowns in this component are not separated therefore the option 
+// selected in one is selected in the other. 
+// Also, the options need to come dinamically from the backend. 
+
 function Filters(){
 
     const [country, setCountry] = React.useState('');
@@ -17,7 +21,6 @@ function Filters(){
         setTime(event.target.value);
         setDifficulty(event.target.value);
     };
-
 
     return (
         <div>
@@ -93,8 +96,6 @@ function Filters(){
             </Box>
         </div>
     );
-
 }
-
 
 export default Filters;

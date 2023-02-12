@@ -4,7 +4,6 @@ import { Breadcrumbs } from "@mui/material";
 import { Chip } from '@mui/material';
 import { Typography } from "@mui/material";
 import { Rating } from '@mui/material';
-import Icon from "@mui/material";
 import { IconButton } from "@mui/material";
 import Container from '@mui/material/Container';
 import ButtonGroup from '@mui/material/ButtonGroup';
@@ -17,7 +16,8 @@ import ListItemText from '@mui/material/ListItemText';
 import ImageList from '@mui/material/ImageList';
 import ImageListItem from '@mui/material/ImageListItem';
 
-
+// Padding and margin in top and bottom needs to be improved. 
+// Also the background color in some of the elements is not correct 
 
 function RecipeElementMain(){
     
@@ -265,14 +265,9 @@ function RecipeElementMain(){
                         </Box>
                     </Box>
                 </Box>
-
             </Box>
-
-            
         </Box>
     );
-
 }
-
 
 export default RecipeElementMain;

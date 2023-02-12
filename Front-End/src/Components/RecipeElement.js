@@ -6,9 +6,8 @@ import Typography from '@mui/material/Typography';
 import { Button, CardActionArea, CardActions } from '@mui/material';
 import AddIcon from '@mui/icons-material/Add';
 
-
+// The card component needs to pass props and show data from the Database (Title, Description, Image)
 function RecipeElement(){
-
     return (
         <Card 
             sx={{ maxWidth: 345, borderRadius:5, mx: 2, backgroundColor: '#F1F1F1',
@@ -23,11 +22,10 @@ function RecipeElement(){
             />
             <CardContent>
               <Typography gutterBottom variant="h5" component="div">
-                Lizard
+              Chicken Cordon Bleu
               </Typography>
               <Typography variant="body2" color="text.secondary">
-                Lizards are a widespread group of squamate reptiles, with over 6,000
-                species, ranging across all continents except Antarctica
+              Chicken breasts are rolled up around ham and Swiss cheese, topped with seasoned bread crumbs, and baked.
               </Typography>
             </CardContent>
           </CardActionArea>
@@ -36,12 +34,11 @@ function RecipeElement(){
         }}
           >
             <Button size="small" variant="outlined" startIcon={<AddIcon />} >
-              Share
+              View Recipe
             </Button>
           </CardActions>
         </Card>
       );
 }
-
 
 export default RecipeElement;

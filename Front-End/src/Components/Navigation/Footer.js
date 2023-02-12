@@ -11,8 +11,6 @@
   import TwitterIcon from '@mui/icons-material/Twitter';
   import LinkedInIcon from '@mui/icons-material/LinkedIn';
   
-
-  
   function Copyright() {
     return (
       <Typography variant="body2" color="text.secondary" ml={20}>
@@ -26,7 +24,6 @@
     );
   }
   
-
   function Footer() {
     return (
       <Box

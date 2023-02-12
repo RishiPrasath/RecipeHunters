@@ -1,7 +1,6 @@
 import RecipeElement from "../../RecipeElement";
 import { Box } from "@mui/system";
 import { Typography } from "@mui/material";
-import Container from "@mui/system";
 
 function RecentRecipes(){
 
@@ -31,15 +30,9 @@ function RecentRecipes(){
                     <RecipeElement/>
                     <RecipeElement/>
                 </Box>
-            </Box>
-            
+            </Box> 
         </>
-        
-
     );
-
-
 }
-
 
 export default RecentRecipes;

@@ -3,24 +3,18 @@ import Filters from "./Child Compoenents/Filter";
 import FiltersList from "./Child Compoenents/FiltersList";
 import ResultsHeader from "./Child Compoenents/ResultsHeader"
 import RecipeElement from "../RecipeElement";
+
 function Search(){
-
     return(
-
         <>
-            
             <SearchBar/>
             <Filters/>
             <FiltersList/>
             <ResultsHeader/>
             <RecipeElement/>
+            {/* Here the You may also like component needs to be added */}
         </>
-
-
     );
-
-
 }
-
 
 export default Search;
