@@ -5,7 +5,8 @@ import { Component } from "react";
 
 // This Component needs to get the id of the recipe and 
 // render the correct information passing that information
-function Recipe(){
+function Recipe(props){
+    console.log(props);
     return(
         <>
             {/* <p>Recipe Page</p>

@@ -34,8 +34,8 @@ router.get('/recentRecipes',async (req,res)=>{
     coll.find({}) // Leave it empty as no filter is applied  
     .sort({"_id":-1}) // _id field contains a timestamp 
     //https://steveridout.com/mongo-object-time/#:~:text=Did%20you%20know%20that%20each,an%20ObjectId%20from%20a%20timestamp. 
-    .limit(12)// Limit Recipes to 12 
-    .project({name:1,imageURLs:1,tags:1,videoURL:1}); // Limiting fields to be displayed 
+    .limit(4)// Limit Recipes to 12 
+    .project({name:1,imageURLs:1,tags:1,videoURL:1,briefdescription:1}); // Limiting fields to be displayed 
     const result = await cursor.toArray();//The resulting data
     console.log(result);
     await client.close();

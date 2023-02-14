@@ -3,8 +3,30 @@ import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import { Button } from '@mui/material';
+import { useState, useEffect } from 'react';
 
+import axios from 'axios' 
 function FeaturedRecipes(){
+    
+    var [featuredrecipes ,setfeaturedrecipes] = useState([]);
+
+    useEffect(() =>{
+        
+
+        axios.get("http://localhost:5100/home/FeaturedRecipes")
+        .then(res=>{
+            setfeaturedrecipes(res.data)
+        }).catch(err=>{
+            console.log(err);
+        })
+
+    },[]);
+
+    var RecipeOne = featuredrecipes[0];
+    var RecipeTwo = featuredrecipes[1];
+    console.log(RecipeOne);
+    console.log(RecipeTwo);
+
     return(
 
         <Box
@@ -33,11 +55,10 @@ function FeaturedRecipes(){
                             Easy
                         </Typography>
                         <Typography variant="h5" sx={{my:1,}}>
-                        Easy Tuna Patties
+                        {RecipeOne && RecipeOne.name}
                         </Typography>
                         <Typography variant="body2" sx={{my:1,py:2}}>
-                        These tuna patties, seasoned with Italian breadcrumbs and Parmesan, are tender 
-                        inside and crisp outside. They make a great appetizer or hot sandwich.
+                        {RecipeOne && RecipeOne.briefdescription}
                         </Typography>
                         <Button variant="contained">Let's cook</Button>
                     </Container>
@@ -56,7 +77,7 @@ function FeaturedRecipes(){
                         backgroundSize: 'cover',
                         backgroundRepeat: 'no-repeat',
                         backgroundPosition: 'center',
-                        backgroundImage: `url(https://source.unsplash.com/random?easy+food)`,
+                        backgroundImage: `url(${RecipeOne && RecipeOne.briefdescription})`,
                         height: 434,
                         width: 621,
                         borderRadius: 3,
@@ -88,7 +109,7 @@ function FeaturedRecipes(){
                         backgroundSize: 'cover',
                         backgroundRepeat: 'no-repeat',
                         backgroundPosition: 'center',
-                        backgroundImage: `url(https://source.unsplash.com/random?salad)`,
+                        backgroundImage: `url(${RecipeTwo && RecipeTwo.briefdescription})`,
                         height: 434,
                         width: 621,
                         borderRadius: 3,
@@ -102,11 +123,10 @@ function FeaturedRecipes(){
                             Low Fat
                         </Typography>
                         <Typography variant="h5" sx={{my:1,}}>
-                        Garlic Mashed Cauliflower
+                        {RecipeTwo && RecipeTwo.name}
                         </Typography>
                         <Typography variant="body2" sx={{my:1,py:2}}>
-                        Creamy cauliflower &#34;mashed potatoes&#34; flavored with garlic and Parmesan cheese are a guilt-free and delicious 
-                        option for anyone on a low-carb diet.
+                        {RecipeTwo && RecipeTwo.briefdescription}
                         </Typography>
                         <Button variant="contained">Let's eat</Button>
                     </Container>

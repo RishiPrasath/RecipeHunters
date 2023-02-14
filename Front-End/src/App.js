@@ -5,8 +5,16 @@ import Search from './Components/Search/Search'
 import Recipe from './Components/Recipe/Recipe'
 import Login from './Components/Login/Login'
 import Register from './Components/Register/Register';
+import { useEffect, useState } from 'react';
+
+
+
+
+
+
 
 function App() {
+  const [currentRecipe, setcurrentRecipe] = useState(" ");
   let component;
   switch(window.location.pathname){
     default:

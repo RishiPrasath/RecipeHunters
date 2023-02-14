@@ -5,9 +5,12 @@ import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
 import { Button, CardActionArea, CardActions } from '@mui/material';
 import AddIcon from '@mui/icons-material/Add';
+import Recipe from './Recipe/Recipe';
 
 // The card component needs to pass props and show data from the Database (Title, Description, Image)
-function RecipeElement(){
+function RecipeElement(props){
+    console.log("<RecipeElement/>");
+    console.log(props);
     return (
         <Card 
             sx={{ maxWidth: 345, borderRadius:5, mx: 2, backgroundColor: '#F1F1F1',
@@ -17,15 +20,17 @@ function RecipeElement(){
             <CardMedia
               component="img"
               height="220"
-              image="https://source.unsplash.com/random?food"
+              image={props.imageURLs}
               alt="green iguana"
             />
             <CardContent>
               <Typography gutterBottom variant="h5" component="div">
-              Chicken Cordon Bleu
+              {/* Chicken Cordon Bleu */}
+              {props.name}
               </Typography>
               <Typography variant="body2" color="text.secondary">
-              Chicken breasts are rolled up around ham and Swiss cheese, topped with seasoned bread crumbs, and baked.
+              {/* Chicken breasts are rolled up around ham and Swiss cheese, topped with seasoned bread crumbs, and baked. */}
+              {props.briefdescription}
               </Typography>
             </CardContent>
           </CardActionArea>
@@ -33,7 +38,7 @@ function RecipeElement(){
             sx={{ justifyContent:'right',
         }}
           >
-            <Button size="small" variant="outlined" startIcon={<AddIcon />} >
+            <Button size="small" variant="outlined" href='/recipe'   startIcon={<AddIcon />} >
               View Recipe
             </Button>
           </CardActions>

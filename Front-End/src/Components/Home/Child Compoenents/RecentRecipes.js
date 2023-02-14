@@ -1,9 +1,34 @@
 import RecipeElement from "../../RecipeElement";
 import { Box } from "@mui/system";
 import { Typography } from "@mui/material";
+// import { useState } from "react";
+import React, { useState, useEffect } from 'react';
+
+import axios from 'axios' 
+
+
+
+
 
 function RecentRecipes(){
+    const [recentrecipes ,setrecentrecipes] = useState([]);
+    useEffect(() =>{
+        
 
+        axios.get("http://localhost:5100/home/recentRecipes")
+        .then(res=>{
+            console.log(res.data)
+            setrecentrecipes(res.data)
+        }).catch(err=>{
+            console.log(err);
+        })
+
+        
+
+    },[]);
+
+    var recipeList = recentrecipes;
+    console.log(recipeList);
     return(
         <>
             <Box
@@ -26,9 +51,21 @@ function RecentRecipes(){
                 }} 
                 >
                     
+                    
+                    {recipeList && recipeList.map(
+                        recipe => 
+                        <RecipeElement 
+                        name = {recipe.name} 
+                        videoURL= {recipe.videoURL}  
+                        tags = {recipe.tags} 
+                        imageURLs = {recipe.imageURLs}
+                        briefdescription = {recipe.briefdescription}  
+                    /> )}
+                    
+
+                    {/* <RecipeElement/>
                     <RecipeElement/>
-                    <RecipeElement/>
-                    <RecipeElement/>
+                    <RecipeElement/> */}
                 </Box>
             </Box> 
         </>

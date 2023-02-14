@@ -39,7 +39,7 @@ run().catch(console.dir);
 // db.once('open',()=>console.log("Database connected!"))
 
 const app = express();
-app.listen(5000);
+app.listen(5100);
 app.use(cors());
 app.use(express.json());
 
