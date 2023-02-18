@@ -20,9 +20,11 @@ function NavBar() {
   const [anchorElUser, setAnchorElUser] = React.useState(null);
 
   const handleOpenNavMenu = (event) => {
+    console.log(event.currentTarget);
     setAnchorElNav(event.currentTarget);
   };
   const handleOpenUserMenu = (event) => {
+    console.log(event.currentTarget);
     setAnchorElUser(event.currentTarget);
   };
 

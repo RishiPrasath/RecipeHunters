@@ -5,12 +5,12 @@ import Hero from "./Child Compoenents/Hero";
 function Home(){
 
     return(
-        <>
+        <div className="home">
             <Hero/>
             <RecentRecipes />
             <FeaturedRecipes />
             <Features/>
-        </>
+        </div>
     );
 }
 

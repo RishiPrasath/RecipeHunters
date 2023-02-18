@@ -4,7 +4,7 @@ import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import { Button } from '@mui/material';
 import { useState, useEffect } from 'react';
-
+import { Link } from 'react-router-dom';
 import axios from 'axios' 
 function FeaturedRecipes(){
     
@@ -15,6 +15,7 @@ function FeaturedRecipes(){
 
         axios.get("http://localhost:5100/home/FeaturedRecipes")
         .then(res=>{
+            console.log(res.data);
             setfeaturedrecipes(res.data)
         }).catch(err=>{
             console.log(err);
@@ -24,8 +25,8 @@ function FeaturedRecipes(){
 
     var RecipeOne = featuredrecipes[0];
     var RecipeTwo = featuredrecipes[1];
-    console.log(RecipeOne);
-    console.log(RecipeTwo);
+    // console.log(RecipeOne);
+    // console.log(RecipeTwo);
 
     return(
 
@@ -60,7 +61,17 @@ function FeaturedRecipes(){
                         <Typography variant="body2" sx={{my:1,py:2}}>
                         {RecipeOne && RecipeOne.briefdescription}
                         </Typography>
+
+                        <Link to={{
+                        pathname:"/recipe/"+RecipeOne?.name,
+                        state: {stateParam:true}
+                        }}>
+
                         <Button variant="contained">Let's cook</Button>
+                        </Link>     
+                    
+                    
+                    
                     </Container>
                 </Container>
 
@@ -128,7 +139,12 @@ function FeaturedRecipes(){
                         <Typography variant="body2" sx={{my:1,py:2}}>
                         {RecipeTwo && RecipeTwo.briefdescription}
                         </Typography>
+                        <Link to={{
+                        pathname:"/recipe/"+RecipeTwo?.name,
+                        state: {stateParam:true}
+                        }}>
                         <Button variant="contained">Let's eat</Button>
+                        </Link>
                     </Container>
                 </Container>
             </Box>

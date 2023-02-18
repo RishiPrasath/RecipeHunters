@@ -15,12 +15,14 @@ import ListItem from '@mui/material/ListItem';
 import ListItemText from '@mui/material/ListItemText';
 import ImageList from '@mui/material/ImageList';
 import ImageListItem from '@mui/material/ImageListItem';
-
+import { useState,useEffect } from 'react';
+import { json } from 'react-router-dom';
 // Padding and margin in top and bottom needs to be improved. 
 // Also the background color in some of the elements is not correct 
 
-function RecipeElementMain(){
-    
+function RecipeElementMain(props){
+    console.log(props.data);
+    const [recipe ,setRecipe] = React.useState([])
     const [value, setValue] = React.useState(4);
     function generate(element) {
         return [0, 1, 2].map((value) =>
@@ -30,20 +32,37 @@ function RecipeElementMain(){
         );
     }
 
+    useEffect(() =>{
+        
+        setRecipe(props.data);
+    },[]);
+
+
+    
+ 
+    
+
+    // const itemData = [
+    //     {
+    //       img: 'https://images.unsplash.com/photo-1551963831-b3b1ca40c98e',
+    //       title: 'Breakfast',
+    //     },
+    //     {
+    //       img: 'https://images.unsplash.com/photo-1551782450-a2132b4ba21d',
+    //       title: 'Burger',
+    //     },
+    //     {
+    //       img: 'https://images.unsplash.com/photo-1567306301408-9b74779a11af',
+    //       title: 'Tomato basil',
+    //     },
+    //   ];
+
     const itemData = [
         {
-          img: 'https://images.unsplash.com/photo-1551963831-b3b1ca40c98e',
-          title: 'Breakfast',
-        },
-        {
-          img: 'https://images.unsplash.com/photo-1551782450-a2132b4ba21d',
-          title: 'Burger',
-        },
-        {
-          img: 'https://images.unsplash.com/photo-1567306301408-9b74779a11af',
-          title: 'Tomato basil',
-        },
-      ];
+          img: recipe.imageURLs,
+          title: recipe.name,
+        }
+    ];
 
     return(
 
@@ -82,8 +101,8 @@ function RecipeElementMain(){
 
                     </Box>
                     
-                    <Typography variant='h2' sx={{ my: 2,}}>Ceviche</Typography>
-                    <Typography variant='subtitle1'>10 ingredients | 30 min </Typography>
+                    <Typography variant='h2' sx={{ my: 2,}}>{props.data.name}</Typography>
+                    <Typography variant='subtitle1'>{props.data.shoppingList.ingredients.length} ingredients | {props.data.durationToCook} min </Typography>
                     <Rating
                         name="simple-controlled"
                         value={value}
@@ -107,21 +126,29 @@ function RecipeElementMain(){
                     </Box>
                     
                     <Typography variant='body2' sx={{ my: 3,}}>
-                    Ceviche is a Peruvian dish typically made from fresh raw fish cured in fresh citrus 
-                    juices, most commonly lime or lemon. It is also spiced with ají, chili peppers or other 
-                    seasonings and julienned red onions, salt, and cilantro are also added.
+                    {recipe.briefdescription}
                     </Typography>
                     
                     <Typography variant='h5'>Ingredients</Typography>
                     <List>
-                        {generate(
-                            <ListItem>
+                        
+                    <ListItem>
 
+                    
+
+                    {/* <ListItemText
+                        primary="1 kg white fish fillet Mahi-Mahi"
+                    /> */}
+                    
+                    </ListItem>
+                    {props.data.shoppingList.ingredients.map(
+                            (ingredient)=> 
+                            <ListItem>
                             <ListItemText
-                                primary="1 kg white fish fillet Mahi-Mahi"
+                            primary={ingredient}
                             />
-                            </ListItem>,
-                        )}
+                            </ListItem>
+                    )}
                     </List>
                     
                 </Container>
@@ -145,6 +172,8 @@ function RecipeElementMain(){
                         }}
                     >
                     </Box>
+                    
+                    
                     <ImageList sx={{ width: 500, height: 164, borderRadius: 2, }} cols={3} rowHeight={164}>
                     {itemData.map((item) => (
                         <ImageListItem key={item.img}>
@@ -157,30 +186,47 @@ function RecipeElementMain(){
                         </ImageListItem>
                     ))}
                     </ImageList>
+
+
+
                 </Container>
             </Box>
             <Box sx={{ px: 12,}}>
             <Typography variant='h5'>Equipment</Typography>
                     <List>
-                        {generate(
-                            <ListItem>
+                        {props.data.shoppingList.equipment.map(
+                           item=>
+                           <ListItem>
 
                             <ListItemText
-                                primary="Lemon squeezer"
+                                primary={item}
                             />
-                            </ListItem>,
-                        )}
+                            </ListItem>  
+                        )
+                        
+                        }
                     </List>
                 <Typography variant='h5'>Preparation</Typography>
                 <List>
-                    {generate(
+                    {props.data.instructions.map(
+                        step=>
+                        <ListItem>
+                        <ListItemText
+                            primary={step}
+                        />
+                        </ListItem>,
+
+                    )}    
+
+
+                    {/* {generate(
                         <ListItem>
                         <ListItemText
                             primary="Wash and dry the fish. Cut the fish into cubes of approximately
                             2 cm. Remove any remaining skin, scales or spines. It is important that you only have cubes of lean meat similar in size. Put the fish to the side."
                         />
                         </ListItem>,
-                    )}
+                    )} */}
                 </List>
                 <Box>
                     <Typography variant='h5'>Nutrition Facts</Typography>
@@ -198,7 +244,7 @@ function RecipeElementMain(){
                                 mx: 3,
                             }}
                         >
-                            <Typography variant='h5'>9g</Typography>
+                            <Typography variant='h5'>{props.data.totalCarbs}</Typography>
                             <Typography variant='subtitle1'>total carbs</Typography>
                         </Box>
                         <Box 
@@ -213,7 +259,7 @@ function RecipeElementMain(){
                                 justifyContent: "center",
                             }}
                         >
-                            <Typography variant='h5'>7.7g</Typography>
+                            <Typography variant='h5'>{props.data.totalCarbs-2}</Typography>
                             <Typography variant='subtitle1'>net carbs</Typography>
                         </Box>
                         <Box 
@@ -229,7 +275,7 @@ function RecipeElementMain(){
                                 mx:3,
                             }}
                         >
-                            <Typography variant='h5'>2.9g</Typography>
+                            <Typography variant='h5'>{props.data.fat}</Typography>
                             <Typography variant='subtitle1'>fat</Typography>
                         </Box>
                         <Box 
@@ -244,7 +290,7 @@ function RecipeElementMain(){
                                 justifyContent: "center",
                             }}
                         >
-                            <Typography variant='h5'>21.9g</Typography>
+                            <Typography variant='h5'>{props.data.protein}</Typography>
                             <Typography variant='subtitle1'>protein</Typography>
                         </Box>
                         <Box 
@@ -260,7 +306,7 @@ function RecipeElementMain(){
                                 mx:3,
                             }}
                         >
-                            <Typography variant='h5'>170</Typography>
+                            <Typography variant='h5'>{props.data.calories}</Typography>
                             <Typography variant='subtitle1'>calories</Typography>
                         </Box>
                     </Box>
