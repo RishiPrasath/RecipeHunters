@@ -47,8 +47,8 @@ function App() {
           
           <Route path="/" element={<Home />}/>
           <Route  path= "/home" element = {<Home />}/>
-          <Route  path= "/search/:mode" element = {<Search />}/>
-          <Route  path= "/recipe" element = {<Recipe />}/>
+          <Route  path= "/search" element = {<Search />}/>
+          <Route  path= "/recipe/:name" element = {<Recipe />}/>
           <Route  path= "/login" element = {<Login />}/>
           <Route  path= "/register" element = {<Register />}/>
           
