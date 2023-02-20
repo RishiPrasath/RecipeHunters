@@ -11,7 +11,7 @@ import Button from '@mui/material/Button';
 import MenuItem from '@mui/material/MenuItem';
 import SearchIcon from '@mui/icons-material/Search';
 import logo from './logoRecipeHunters.png';
-
+import { Link } from 'react-router-dom';
 const pages = ['All Recipes', 'For Newbies', 'Healthy'];
 // const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
 
@@ -82,6 +82,11 @@ function NavBar() {
           </Box>
           <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' } }}>
             {pages.map((page) => (
+              
+              <Link to={{
+                pathname:"/search",
+                state: {stateParam:true}
+              }}>
               <Button
                 key={page}
                 onClick={handleCloseNavMenu}
@@ -90,6 +95,7 @@ function NavBar() {
               >
                 {page}
               </Button>
+              </Link>
             ))}
           </Box>
           {/* We need to put the search function here */}
