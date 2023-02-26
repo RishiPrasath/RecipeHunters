@@ -17,6 +17,7 @@ import ImageList from '@mui/material/ImageList';
 import ImageListItem from '@mui/material/ImageListItem';
 import { useState,useEffect } from 'react';
 import { json } from 'react-router-dom';
+import { createPdf, recipe } from '../exportPDF'
 // Padding and margin in top and bottom needs to be improved. 
 // Also the background color in some of the elements is not correct 
 
@@ -24,6 +25,8 @@ function RecipeElementMain(props){
     console.log(props.data);
     const [recipe ,setRecipe] = React.useState([])
     const [value, setValue] = React.useState(4);
+    const [showPDF, setShowPDF] = useState(false);
+     
     function generate(element) {
         return [0, 1, 2].map((value) =>
           React.cloneElement(element, {
@@ -37,10 +40,10 @@ function RecipeElementMain(props){
         setRecipe(props.data);
     },[]);
 
-
-    
- 
-    
+    function exportPDF() {
+        setShowPDF(true);
+        createPdf();
+    }   
 
     // const itemData = [
     //     {
@@ -119,12 +122,17 @@ function RecipeElementMain(props){
                             <IconButton>
                                 <FavoriteIcon></FavoriteIcon>
                             </IconButton>
-                            <IconButton>
+                            <IconButton onClick={exportPDF}>
                                 <DownloadIcon></DownloadIcon>
                             </IconButton>
                         </ButtonGroup>
                     </Box>
-                    
+                    {showPDF && (
+                        <Box sx={{ width: '100%', height: 400 }}>
+                            <iframe id="pdf" style={{ width: '100%', height: '100%' }}></iframe>
+                        </Box>
+                    )}
+
                     <Typography variant='body2' sx={{ my: 3,}}>
                     {recipe.briefdescription}
                     </Typography>
