@@ -18,8 +18,14 @@ router.get('/searchResults/:query', async (req,res)=>{
     console.log('/searchResults');
 //Database Query Requirements
 //Filter Recipes by query name
-//Filter Recipes by filters using the tags field in the Recipe Document 
-    console.log(req.params.query);
+//Filter Recipes by filters using the summary_tags field in the Recipe Document 
+
+//https://www.mongodb.com/docs/drivers/node/current/fundamentals/aggregation/
+//https://www.youtube.com/watch?v=EnfsjWK0Wcs
+//https://www.mongodb.com/docs/atlas/atlas-search/text/#fuzzy-examples
+
+
+console.log(req.params.query);
     const query =  req.params.query;
     const client = await MongoClient.connect(
         'mongodb+srv://RecipeHunters:t4g5@cluster0.evmmugl.mongodb.net/test',
@@ -33,7 +39,8 @@ router.get('/searchResults/:query', async (req,res)=>{
         }
     }];
     const cursor = coll
-    .aggregate(pipeline).project({name:1,imageURLs:1,summary_tags:1,videoURL:1,briefdescription:1}); // Limiting fields to be displayed;
+    .aggregate(pipeline).project({name:1,imageURLs:1,summary_tags:1,videoURL:1,briefdescription:1,score: { $meta: "searchScore" }})// Limiting fields to be displayed;
+    .sort({score:-1});// Sort by relevance score in descending order
     const result = await cursor.toArray();
     console.log(result);
     await client.close();
