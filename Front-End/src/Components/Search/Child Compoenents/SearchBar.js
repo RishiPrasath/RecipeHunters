@@ -4,6 +4,8 @@ import Box from '@mui/material/Box';
 import InputBase from '@mui/material/InputBase';
 import SearchIcon from '@mui/icons-material/Search';
 
+import { useState } from 'react';
+
 const Search = styled('div')(({ theme }) => ({
   position: 'relative',
   borderRadius: theme.shape.borderRadius,
@@ -46,7 +48,22 @@ const StyledInputBase = styled(InputBase)(({ theme }) => ({
   },
 }));
 
-function SearchBar(){
+
+
+
+
+function SearchBar(props){
+
+  const [searchQuery,setSearchQuery] = useState("");
+
+  const handleChange = (e) =>{
+    setSearchQuery(e.target.value);
+    console.log(searchQuery);
+    props.onChange(searchQuery);
+  }
+
+
+
     return (
         <Box 
             sx= {{ 
@@ -65,6 +82,7 @@ function SearchBar(){
                 <StyledInputBase
                   placeholder="Search…"
                   inputProps={{ 'aria-label': 'search' }}
+                  onChange={handleChange}
                 />
               </Search>
         </Box>

@@ -25,7 +25,7 @@ router.get('/searchResults/:query', async (req,res)=>{
 //https://www.mongodb.com/docs/atlas/atlas-search/text/#fuzzy-examples
 
 
-console.log(req.params.query);
+    console.log(req.params.query);
     const query =  req.params.query;
     const client = await MongoClient.connect(
         'mongodb+srv://RecipeHunters:t4g5@cluster0.evmmugl.mongodb.net/test',
@@ -39,7 +39,8 @@ console.log(req.params.query);
         }
     }];
     const cursor = coll
-    .aggregate(pipeline).project({name:1,imageURLs:1,summary_tags:1,videoURL:1,briefdescription:1,score: { $meta: "searchScore" }})// Limiting fields to be displayed;
+    .aggregate(pipeline)
+    .project({name:1,imageURLs:1,summary_tags:1,videoURL:1,briefdescription:1,score: { $meta: "searchScore" }})// Limiting fields to be displayed;
     .sort({score:-1});// Sort by relevance score in descending order
     const result = await cursor.toArray();
     console.log(result);
