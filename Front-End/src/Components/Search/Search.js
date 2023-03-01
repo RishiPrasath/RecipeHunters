@@ -53,9 +53,9 @@ function Search(){
     return(
         <>
             <SearchBar onChange={getQuery}/>
-            <Filters/>
-            <FiltersList/>
-            <ResultsHeader/>
+            {/* <Filters/> */}
+            {/* <FiltersList/> */}
+            {/* <ResultsHeader/> */}
             {/* <RecipeElement/> */}
 
             {searchResults.length !== 0 && searchResults.map(

@@ -98,10 +98,14 @@ function RecipeElementMain(props){
                             flexDirection: 'row',
                         }}
                     >
-                        <Chip label="Lunch" size='medium' />
+                        {/* <Chip label="Lunch" size='medium' />
                         <Chip label="Peruvian" size='medium' sx={{mx: 2}}/>
-                        <Chip label="Fish" size='medium'/>
-
+                        <Chip label="Fish" size='medium'/> */}
+                        <Chip label={props.data.summary_tags.country.join(' , ')} size='medium' />
+                        <Chip label={props.data.summary_tags.difficulty.join(' , ')} size='medium' />
+                        <Chip label={props.data.summary_tags.meal.join(' , ')} size='medium' />
+                        <Chip label={props.data.summary_tags.nutrition.join(' , ')} size='medium' />
+                        <Chip label={props.data.summary_tags.time} size='medium' />
                     </Box>
                     
                     <Typography variant='h2' sx={{ my: 2,}}>{props.data.name}</Typography>

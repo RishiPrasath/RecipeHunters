@@ -35,7 +35,7 @@ router.get('/searchResults/:query', async (req,res)=>{
     const pipeline = [{
         '$search': {
           'index': 'recipesearch',
-          'text': { 'query': query,'path': {'wildcard': '*'},'fuzzy': {}}
+          'text': { 'query': query,'path': {'wildcard': '*'},'fuzzy': {"maxEdits": 2,"prefixLength": 4,}}
         }
     }];
     const cursor = coll
