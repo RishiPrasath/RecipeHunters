@@ -49,6 +49,25 @@ router.get('/searchResults/:query', async (req,res)=>{
 }) 
 
 
+router.get('/loadAllRecipes', async (req,res)=>{
+      const client = await MongoClient.connect(
+        'mongodb+srv://RecipeHunters:t4g5@cluster0.evmmugl.mongodb.net/test',
+        { useNewUrlParser: true, useUnifiedTopology: true }
+      );
+      const coll = client.db('RecipeHunters').collection('Recipes');
+      const cursor = 
+      coll.find({}) // Leave it empty as no filter is applied  
+      .sort({"_id":-1}) // _id field contains a timestamp 
+      //https://steveridout.com/mongo-object-time/#:~:text=Did%20you%20know%20that%20each,an%20ObjectId%20from%20a%20timestamp. 
+      .project({name:1,imageURLs:1,tags:1,videoURL:1,briefdescription:1}); // Limiting fields to be displayed 
+      const result = await cursor.toArray();//The resulting data
+      console.log(result);
+      await client.close();
+      res.json(result);//return result
+
+})
+
+
 router.get('/recomendedResults',(req,res)=>{
 // Query name and input of filters by the user are matched to their correspondent score fields in the Database.
 // The sum of the score allows to query Recipes that have the same score of or an recipe that has an score that is +5 or -5.

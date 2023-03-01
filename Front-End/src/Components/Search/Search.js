@@ -4,12 +4,25 @@ import FiltersList from "./Child Compoenents/FiltersList";
 import ResultsHeader from "./Child Compoenents/ResultsHeader"
 import RecipeElement from "../RecipeElement";
 import {useLocation} from "react-router-dom";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import axios from "axios";
 function Search(){
 
 
     const [searchResults,setSearchResults] = new useState([]);
+
+    useEffect(() =>{
+    
+        axios.get("http://localhost:5100/search/loadAllRecipes")
+        .then(res=>{
+            console.log(res.data)
+            setSearchResults(res.data)
+        }).catch(err=>{
+            console.log(err);
+        })
+    
+    
+    },[setSearchResults]);
 
     const getQuery = (query) =>{
 
@@ -45,7 +58,7 @@ function Search(){
             <ResultsHeader/>
             {/* <RecipeElement/> */}
 
-            {searchResults.length != 0 && searchResults.map(
+            {searchResults.length !== 0 && searchResults.map(
                         recipe => 
                         <RecipeElement 
                         name = {recipe.name} 
