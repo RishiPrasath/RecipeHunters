@@ -17,7 +17,7 @@ import ImageList from '@mui/material/ImageList';
 import ImageListItem from '@mui/material/ImageListItem';
 import { useState,useEffect } from 'react';
 import { json } from 'react-router-dom';
-import { createPdf, recipe } from '../exportPDF'
+import { createPdf } from '../exportPDF'
 // Padding and margin in top and bottom needs to be improved. 
 // Also the background color in some of the elements is not correct 
 
@@ -42,7 +42,7 @@ function RecipeElementMain(props){
 
     function exportPDF() {
         setShowPDF(true);
-        createPdf();
+        createPdf(props.data);
     }   
 
     // const itemData = [
