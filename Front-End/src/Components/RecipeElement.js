@@ -7,19 +7,22 @@ import { Button, CardActionArea, CardActions } from '@mui/material';
 import AddIcon from '@mui/icons-material/Add';
 import { Link } from 'react-router-dom';
 // The card component needs to pass props and show data from the Database (Title, Description, Image)
+
+const styles = {
+  paper: {
+    height: '100%'
+  }
+};
 function RecipeElement(props){
-
-    
-
     return (
-        <Card 
-            sx={{ maxWidth: 345, borderRadius:5, mx: 2, backgroundColor: '#F1F1F1',
+        <Card style={styles.paper}
+            sx={{  borderRadius:5, backgroundColor: '#F1F1F1' 
             }}
         >
           <CardActionArea>
             <CardMedia
+              sx={{ height: 220 }}
               component="img"
-              height="220"
               image={props.imageURLs}
               alt="green iguana"
             />
@@ -42,7 +45,7 @@ function RecipeElement(props){
               pathname:"/recipe/"+props.name,
               state: {stateParam:true}
             }}>
-            <Button 
+            <Button  
             size="small" 
             variant="outlined" 
             // href='/recipe'   

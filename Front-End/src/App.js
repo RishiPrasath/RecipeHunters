@@ -5,13 +5,8 @@ import Search from './Components/Search/Search'
 import Recipe from './Components/Recipe/Recipe'
 import Login from './Components/Login/Login'
 import Register from './Components/Register/Register';
+import Container from '@mui/material/Container';
 import {HashRouter,Switch,Redirect,BrowserRouter,Route, Routes,Link,Navigate} from 'react-router-dom'
-
-
-
-
-
-
 
 function App() {
   // let component;
@@ -41,21 +36,21 @@ function App() {
   return (
     <div className="App">
       <NavBar />
-      
-        <main>
-        <Routes>
-          
-          <Route path="/" element={<Home />}/>
-          <Route  path= "/home" element = {<Home />}/>
-          <Route  path= "/search" element = {<Search />}/>
-          <Route  path= "/recipe/:name" element = {<Recipe />}/>
-          <Route  path= "/login" element = {<Login />}/>
-          <Route  path= "/register" element = {<Register />}/>
-          
-        </Routes>
-        </main>
-      
-      <Footer/>
+
+      <main>
+        <Container>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/home" element={<Home />} />
+            <Route path="/search" element={<Search />} />
+            <Route path="/recipe/:name" element={<Recipe />} />
+            <Route path="/login" element={<Login />} />
+            <Route path="/register" element={<Register />} />
+          </Routes>
+        </Container>
+      </main>
+
+      <Footer />
     </div>
     
     

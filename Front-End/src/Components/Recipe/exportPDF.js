@@ -168,3 +168,4 @@ const wrapText = (text, width, font, fontSize) => {
   }
   return result += multiText.slice(0, len).join(' ');
 }
+

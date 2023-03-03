@@ -68,23 +68,25 @@ function SearchBar(props){
         <Box 
             sx= {{ 
                 flexGrow: 1,
-                width: '1300px', 
+                width: '100%', 
                 backgroundColor: '#CADED6',
-                mx: '60px',
                 borderRadius: 3,
                 mt: '20px',
             }}
             >
-              <Search>
-                <SearchIconWrapper>
-                  <SearchIcon />
-                </SearchIconWrapper>
-                <StyledInputBase
-                  placeholder="Search…"
-                  inputProps={{ 'aria-label': 'search' }}
-                  onChange={handleChange}
-                />
-              </Search>
+        <Search>
+          <SearchIconWrapper>
+            <SearchIcon />
+          </SearchIconWrapper>
+          <StyledInputBase
+            placeholder="Search…"
+            inputProps={{ 'aria-label': 'search' }}
+            onChange={handleChange}
+            sx={{
+              width: '100%'
+            }}
+          />
+        </Search>
         </Box>
     );
 }
