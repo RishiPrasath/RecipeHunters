@@ -17,7 +17,8 @@ import ImageList from '@mui/material/ImageList';
 import ImageListItem from '@mui/material/ImageListItem';
 import { useState,useEffect } from 'react';
 import { json } from 'react-router-dom';
-import { createPdf } from '../exportPDF'
+import { createPdf } from '../exportPDF';
+
 // Padding and margin in top and bottom needs to be improved. 
 // Also the background color in some of the elements is not correct 
 
@@ -64,6 +65,7 @@ function RecipeElementMain(props){
         {
           img: recipe.imageURLs,
           title: recipe.name,
+          video: recipe.videoURL,
         }
     ];
 
@@ -174,15 +176,23 @@ function RecipeElementMain(props){
                         sx={{
                             backgroundColor: 'grey.600',
                             color: '#fff',
-                            backgroundSize: 'cover',
-                            backgroundRepeat: 'no-repeat',
-                            backgroundPosition: 'center',
-                            backgroundImage: `url(https://source.unsplash.com/random?ceviche)`,
+                            // backgroundSize: 'cover',
+                            // backgroundRepeat: 'no-repeat',
+                            // backgroundPosition: 'center',
+                            // backgroundImage: `url(https://source.unsplash.com/random?ceviche)`,
                             height: 564,
                             width: 603,
                             borderRadius: 3,
                         }}
                     >
+                        <iframe
+                            title={props.data.name}
+                            width="564"
+                            height="603"
+                            src={props.data.videoURL}
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowFullScreen
+                        ></iframe>
                     </Box>
                     
                     
