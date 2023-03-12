@@ -2,6 +2,7 @@ import * as React from 'react';
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
+import CardMedia from '@mui/material/CardMedia';
 import { Button } from '@mui/material';
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
@@ -85,15 +86,23 @@ function FeaturedRecipes(){
                     sx={{
                         backgroundColor: 'grey.600',
                         color: '#fff',
-                        backgroundSize: 'cover',
-                        backgroundRepeat: 'no-repeat',
-                        backgroundPosition: 'center',
-                        backgroundImage: `url(${RecipeOne && RecipeOne.briefdescription})`,
+                        // backgroundSize: 'cover',
+                        // backgroundRepeat: 'no-repeat',
+                        // backgroundPosition: 'center',
+                        // backgroundImage: `url(${RecipeOne && RecipeOne.briefdescription})`,
                         height: 434,
                         width: 621,
                         borderRadius: 3,
                     }}
                     >
+                        <CardMedia
+                        sx={{ height: 434, 
+                            width: 621,
+                            borderRadius: 3, }}
+                        component="img"
+                        image={RecipeOne && RecipeOne.briefdescription}
+                        alt="image"
+                        />
                     </Box> 
                 </Container>
             </Box>
@@ -117,16 +126,26 @@ function FeaturedRecipes(){
                     sx={{
                         backgroundColor: 'grey.600',
                         color: '#fff',
-                        backgroundSize: 'cover',
-                        backgroundRepeat: 'no-repeat',
-                        backgroundPosition: 'center',
-                        backgroundImage: `url(${RecipeTwo && RecipeTwo.briefdescription})`,
+                        // backgroundSize: 'cover',
+                        // backgroundRepeat: 'no-repeat',
+                        // backgroundPosition: 'center',
+                        // backgroundImage: `url(${RecipeTwo && RecipeTwo.briefdescription})`,
                         height: 434,
                         width: 621,
                         borderRadius: 3,
                     }}
                     >
+                        <CardMedia
+                        sx={{ height: 434, 
+                            width: 621,
+                            borderRadius: 3, }}
+                        component="img"
+                        image={RecipeTwo && RecipeTwo.briefdescription}
+                        alt="image"
+                        />
                     </Box> 
+
+                    
                 </Container>
                 <Container>
                     <Container sx={{width: 350,}}>

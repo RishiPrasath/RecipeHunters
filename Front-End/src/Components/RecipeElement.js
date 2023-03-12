@@ -24,7 +24,7 @@ function RecipeElement(props){
               sx={{ height: 220 }}
               component="img"
               image={props.imageURLs}
-              alt="green iguana"
+              alt={props.name}
             />
             <CardContent>
               <Typography gutterBottom variant="h5" component="div">

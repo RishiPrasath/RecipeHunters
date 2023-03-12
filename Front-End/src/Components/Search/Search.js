@@ -1,6 +1,6 @@
 import SearchBar from "./Child Compoenents/SearchBar";
-import Filters from "./Child Compoenents/Filter";
-import FiltersList from "./Child Compoenents/FiltersList";
+// import Filters from "./Child Compoenents/Filter";
+// import FiltersList from "./Child Compoenents/FiltersList";
 import ResultsHeader from "./Child Compoenents/ResultsHeader"
 import RecipeElement from "../RecipeElement";
 import { useLocation } from "react-router-dom";
@@ -51,7 +51,7 @@ function Search() {
             {/* <FiltersList/> */}
             {/* <ResultsHeader/> */}
             {/* <RecipeElement/> */}
-            <Filters />
+            {/* <Filters /> */}
             <Grid container spacing={3} >
                 {searchResults.length !== 0 && searchResults.map(
                     (recipe, i) =>

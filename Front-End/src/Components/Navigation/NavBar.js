@@ -12,8 +12,13 @@ import MenuItem from '@mui/material/MenuItem';
 import SearchIcon from '@mui/icons-material/Search';
 import logo from './logoRecipeHunters.png';
 import { Link } from 'react-router-dom';
-const pages = ['All Recipes', 'For Newbies', 'Healthy'];
-// const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
+
+// These urls need to be fixed
+const pages = [
+  { name: 'All Recipes', url: 'search/searchResults/' },
+  { name: 'For Newbies', url: 'search/searchResults/new' },
+  { name: 'Healthy', url: 'search/searchResults/healthy' }
+];
 
 function NavBar() {
   const [anchorElNav, setAnchorElNav] = React.useState(null);
@@ -74,8 +79,8 @@ function NavBar() {
               }}
             >
               {pages.map((page) => (
-                <MenuItem key={page} onClick={handleCloseNavMenu}>
-                  <Typography textAlign="center">{page}</Typography>
+                <MenuItem key={page.name}onClick={handleCloseNavMenu}>
+                  <Typography textAlign="center">{page.name}</Typography>
                 </MenuItem>
               ))}
             </Menu>
@@ -84,16 +89,16 @@ function NavBar() {
             {pages.map((page) => (
               
               <Link to={{
-                pathname:"/search",
+                pathname:`/${page.url}`,
                 state: {stateParam:true}
               }}>
               <Button
-                key={page}
+                key={page.name}
                 onClick={handleCloseNavMenu}
                 sx={{ my: 2, color: 'black', display: 'block' }}
                 variant="text"
               >
-                {page}
+                {page.name}
               </Button>
               </Link>
             ))}
